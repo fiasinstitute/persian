@@ -1,7 +1,7 @@
 // Font imports file. If you don't want these fonts, comment out these and add your own into the fonts directory 
 // and point the src attribute to the file.
 // 
-@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+@import url('https://fonts.googleapis.com/css?family=Lato:900&subset=latin-ext');
 
 @import url('https://fonts.googleapis.com/css?family=Amiri&subset=arabic');
 @charset "UTF-8";
@@ -12,5 +12,5 @@
 }
 
 @font-face {
-  font-family: "EB Garamond";
+  font-family: Lato;
 }
