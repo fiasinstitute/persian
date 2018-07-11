@@ -1,6 +1,6 @@
 ---
-title: Tufte-Jekyll
-timezone: America/New_York
+title: Persian language in its latin script
+timezone: France/Paris
 collections:
   posts:
     title: Posts
@@ -9,11 +9,8 @@ collections:
     title: Uploads
     output: true
 baseurl: 
-subtitle: Content-centric blogging
-author: clay harmon
+author: Language planning committee, FIAS.
 simple_search: http://google.com/search
-description: A Jekyll theme for content-rich sites
-name: tufte
 markdown: kramdown
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 permalink: "/articles/:short_year/:title"
