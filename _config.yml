@@ -9,10 +9,10 @@ collections:
     title: Uploads
     output: true
 baseurl: 
+maininstitutesite: https://fias.fr
 author: Language planning committee, FIAS.
 simple_search: http://google.com/search
 markdown: kramdown
-markdown_ext: markdown,mkdown,mkdn,mkd,md
 permalink: "/articles/:short_year/:title"
 excerpt_separator: "<!--more-->"
 exclude:
