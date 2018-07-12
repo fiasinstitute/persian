@@ -1,5 +1,5 @@
 ---
-title: Script standartization for the Persian language, FIAS.
+title: Script standartization for the Persian language.
 timezone: France/Paris
 collections:
   posts:
@@ -10,7 +10,7 @@ collections:
     output: true
 baseurl: 
 maininstitutesite: https://fias.fr
-author: Language planning committee, FIAS.
+author: Committee on language planning, FIAS.
 simple_search: http://google.com/search
 markdown: kramdown
 permalink: "/articles/:short_year/:title"
