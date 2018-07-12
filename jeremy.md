@@ -1,6 +1,6 @@
 ---
 title: Jeremy
-layout: page
+layout: post
 ---
 
 
