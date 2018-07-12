@@ -83,7 +83,9 @@ body { width: 87.5%;
        background-color: $bg-color;
        color: $text-color;
        max-width: 1400px;
-       counter-reset: sidenote-counter; }
+       counter-reset: sidenote-counter;
+       text-align: justify;
+       text-justify: inter-word; }
 
 // --------- Typography stuff -----------//
 // added rational line height and margins ala http://webtypography.net/intro/
