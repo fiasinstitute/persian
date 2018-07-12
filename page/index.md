@@ -1,5 +1,5 @@
 ---
-title: page
+title: Page
 layout: post
 navlevel: header
 position: 50
