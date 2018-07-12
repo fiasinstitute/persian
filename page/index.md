@@ -2,7 +2,7 @@
 title: page
 layout: post
 navlevel: header
-position: 500
+position: 50
 ---
 
 {% newthought 'In this first iteration'%} of the _Tufte-Jekyll_ theme, a post and a page have exactly the same layout. That means that all the typographic and structural details are identical between the two.
