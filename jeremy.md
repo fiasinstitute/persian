@@ -1,6 +1,8 @@
 ---
 title: Jeremy
 layout: post
+navlevel: header
+poition: 100
 ---
 
 
