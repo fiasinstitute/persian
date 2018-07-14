@@ -1,3 +1,8 @@
+---
+title:	Gerda
+layout: page
+---
+
 
 # Gerda malaperis!
 
