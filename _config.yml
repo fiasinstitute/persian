@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 baseurl: /persian
-maininstitutesite: https://fias.fr
+maininstitutesite: https://fias.fr/projects/persian
 author: Committee on language planning, FIAS.
 simple_search: http://google.com/search
 markdown: kramdown
