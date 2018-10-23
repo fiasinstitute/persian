@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-baseurl: /
+baseurl: 
 maininstitutesite: https://fias.fr/projects/persian
 author: Committee on language planning, FIAS.
 simple_search: http://google.com/search
