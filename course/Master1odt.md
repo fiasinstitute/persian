@@ -1,5 +1,5 @@
 ---
-title: MĀ FĀRSI BALAD‐IM!
+title: MĀ FĀRSI BALAD‐IM\!
 layout: page
 ---
 

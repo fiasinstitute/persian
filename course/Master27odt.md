@@ -3,20 +3,20 @@ title: Pedar‐e varzeškār
 layout: page
 ---
 
-## Matn -- Pedar‐e varzeškār
+## Matn – Pedar‐e varzeškār
 
 Manucehr, pedar‐e Sārā, be varzeš alāqe‐ye ziyād‐i dārad, zirā pas az
 varzeš xod rā sarehāl ehsās mikonad. U hattā dar zemestān sobhhā‐ye zud
 dar pārk tamrin mikonad, bā in ke havā besyār sard‐ast. Garce senn‐i az
 u gozašte‐ast, vali hanuz mitavānad bist kilumetr bedavad. Manucehr
-ādam‐e pormašqale‐i‐st. Bā in vojud varzeš rā hicgāh kenār nemigozārad.
-Az in ru hamiše sarzende‐vo pornešāt‐ast.
+ādam‐e pormašqale‐i‐st. Bā in vojud varzeš rā hicgāh kenār
+nemigozārad. Az in ru hamiše sarzende‐vo pornešāt‐ast.
 
 #### Nokte
 
--   "Bā in ke senn‐i az u gozašte ast" ya'ni "bā in ke senn‐aš bālā‐st".
+  - “Bā in ke senn‐i az u gozašte ast“ ya’ni “bā in ke senn‐aš bālā‐st“.
 
-##### Pāsox bedeh!
+##### Pāsox bedeh\!
 
 1.  Pedar‐e Sārā be ceciz alāqe dārad?
 2.  Cerā Manucehr varzeš rā dust dārad?
@@ -28,60 +28,62 @@ Az in ru hamiše sarzende‐vo pornešāt‐ast.
 
 ### Horuf‐e rabt‐e sāde
 
-  ------ ----- ------- ------- ----- ------- ------
-  va     yā    tā      zirā    con   agar    ammā
-                                             
-  vali   ham   tanhā   faqat   pas   hattā   ke
-  ------ ----- ------- ------- ----- ------- ------
+|      |     |       |       |     |       |      |
+| ---- | --- | ----- | ----- | --- | ----- | ---- |
+| va   | yā  | tā    | zirā  | con | agar  | ammā |
+|      |     |       |       |     |       |      |
+| vali | ham | tanhā | faqat | pas | hattā | ke   |
 
 ### Horuf‐e rabt‐e peydarpey
 
-yā \... yāna \... naham \... hamce \... cena tanhā \... balke \... ham
+yā ... yāna ... naham ... hamce ... cena tanhā ... balke ...
+ham
 
 ### Horuf / ebārathā‐ye rabt (be dun‐e ke)
 
-  ----------- -------------- ------------- --------------- ------------- --------------- ---------------
-  agarce      alāve bar in   conānce       bā vojud‐e in   vagarna       az in ru        be in dalil
-                                                                                         
-  bā in hāl   az in jahat    banā bar in   dar natije      bā in vojud   bed‐in tartib   bed‐in vasile
-  ----------- -------------- ------------- --------------- ------------- --------------- ---------------
+|           |              |             |               |             |               |               |
+| --------- | ------------ | ----------- | ------------- | ----------- | ------------- | ------------- |
+| agarce    | alāve bar in | conānce     | bā vojud‐e in | vagarna     | az in ru      | be in dalil   |
+|           |              |             |               |             |               |               |
+| bā in hāl | az in jahat  | banā bar in | dar natije    | bā in vojud | bed‐in tartib | bed‐in vasile |
 
 ### Horuf / ebārathā‐ye rabt (bā ke)
 
-  ------------------ -------------------- ------------------- --------------------- --------------------
-  az ānjā ke         piš/qabl az in ke    pas/ba'd az ān ke   bi / be dun‐e in ke   bā ān ke
-                                                                                    
-  barā‐ye in ke      be jā‐ye ān ke       be šart‐e in ke     vaqt/hengām‐i ke      haminke
-                                                                                    
-  be dalil‐e ān ke   az vaqt/mowqe‐i ke   be xāter‐e in ke    conke/zirāke          dar surat/hāl‐i ke
-  ------------------ -------------------- ------------------- --------------------- --------------------
+|                  |                    |                   |                     |                    |
+| ---------------- | ------------------ | ----------------- | ------------------- | ------------------ |
+| az ānjā ke       | piš/qabl az in ke  | pas/ba’d az ān ke | bi / be dun‐e in ke | bā ān ke           |
+|                  |                    |                   |                     |                    |
+| barā‐ye in ke    | be jā‐ye ān ke     | be šart‐e in ke   | vaqt/hengām‐i ke    | haminke            |
+|                  |                    |                   |                     |                    |
+| be dalil‐e ān ke | az vaqt/mowqe‐i ke | be xāter‐e in ke  | conke/zirāke        | dar surat/hāl‐i ke |
 
 #### Nokte
 
--   Dar horuf/ebārathā‐ye bālā vāžehā‐ye *in* va *ān* ma'mulan
+  - Dar horuf/ebārathā‐ye bālā vāžehā‐ye *in* va *ān* ma’mulan
     mitavānand jāygozin‐e yekdigar bešavand.
--   Besyār‐i az horuf‐e rabt ma'mulan tanhā bā hāl‐e eltezāmi miāyand:
+  - Besyār‐i az horuf‐e rabt ma’mulan tanhā bā hāl‐e eltezāmi miāyand:
 
-<!-- -->
+<!-- end list -->
 
--   -   o*be jā‐ye in ke: *Be jā‐ye in ke beravad, nešast.
-    -   *be dun‐e inke: *Be dun‐e inke ciz‐i benevisad, raft.
-    -   *be šart‐e in ke: *Miāyam, be šart‐e in ke naravi.
-    -   *piš az in ke: *Piš az in ke ciz‐i beguyi, behtar‐ast, fekr
+  -   - o*be jā‐ye in ke: *Be jā‐ye in ke beravad, nešast.
+      - *be dun‐e inke: *Be dun‐e inke ciz‐i benevisad, raft.
+      - *be šart‐e in ke: *Miāyam, be šart‐e in ke naravi.
+      - *piš az in ke: *Piš az in ke ciz‐i beguyi, behtar‐ast, fekr
         koni.
 
--   Harf‐e rabt‐e *ke* na tanhā joz'‐i az horuf‐e morakkab‐e
+  - Harf‐e rabt‐e *ke* na tanhā joz’‐i az horuf‐e morakkab‐e
     gunāgun‐ast, balke be tanhāyi niz kārbordhā‐ye moxtalef dārad:
 
-<!-- -->
+<!-- end list -->
 
--   -   -   Dāštam dars mixāndam, ke āmad.
-
-    -   oSe sāl‐ast, ke dar in tim bāzi mikonam.
-    -   o Be Tehrān ke residi, telefon kon. o Ketāb‐i rā xāst, ke man
+  -   -   - Dāštam dars mixāndam, ke āmad.
+    
+      - oSe sāl‐ast, ke dar in tim bāzi mikonam.
+    
+      - o Be Tehrān ke residi, telefon kon. o Ketāb‐i rā xāst, ke man
         nadāštam. o Be u goft, ke man xaste‐am.
 
-##### Jomlehā‐ye zir rā kāmel kon!
+##### Jomlehā‐ye zir rā kāmel kon\!
 
 1.  Man fārsi yād migiram, con
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -120,14 +122,14 @@ yā \... yāna \... naham \... hamce \... cena tanhā \... balke \... ham
 18. Bā vojud‐e in ke in bāzi yeknavāxt‐ast,
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Irān‐o irāni -- Bādāb‐e Surt
+## Irān‐o irāni – Bādāb‐e Surt
 
-![](Pictures/10000000000000F7000001881B750247C96E4159.jpg){width="1.6492in"
-height="2.6134in"}Bādāb‐e Surt nām‐e cešmehā‐ye šegeftangiz‐i‐st ke dar
-jonub‐e šarqi‐ye Ostān‐e Māzandarān qarār dārand. Bādāb‐e Surt be
-zabān‐e mahalli ya'ni asar‐e āb‐e gāzdār. Vali in cešmehā bā nām‐e
-Cešmehā‐ye Talāyi yā Qasr‐e Talāyi ma'ruf šode‐and va be onvān‐e
-dovvomin asar‐e mirās‐e tabii‐ye Irān be sabt reside‐and.
+![](Pictures/10000000000000F7000001881B750247C96E4159.jpg)Bādāb‐e Surt
+nām‐e cešmehā‐ye šegeftangiz‐i‐st ke dar jonub‐e šarqi‐ye Ostān‐e
+Māzandarān qarār dārand. Bādāb‐e Surt be zabān‐e mahalli ya’ni asar‐e
+āb‐e gāzdār. Vali in cešmehā bā nām‐e Cešmehā‐ye Talāyi yā Qasr‐e
+Talāyi ma’ruf šode‐and va be onvān‐e dovvomin asar‐e mirās‐e tabii‐ye
+Irān be sabt reside‐and.
 
 Bādāb‐e Surt do cešme dārad. Āb‐e harkodām az in cešmehā rang, bu va
 maze‐ye xāss‐e xodaš rā dārad. Yek‐i šur‐e šur va digar‐i
@@ -137,7 +139,7 @@ howzcehā‐ye rangin‐i rā dar del‐e saxrehā por mikonand. Tabiat in makā
 rā barā‐ye bāzi‐ye ranghā bā sanghā bargozide‐ast. Dar qesmat‐i saxrehā
 lāye‐lāye dar rang‐e nārenji zamin rā bālā rafte‐ and. Dar baxš‐i digar
 zamin lāye‐lāye sabz‐o ābi va kam‐i āntaraftar lāye‐lāye zard‐ast.
-Tābeš‐e nur‐e xoršid dar howzcehā‐ye rangin va en'ekās‐e nur ān dar
+Tābeš‐e nur‐e xoršid dar howzcehā‐ye rangin va en’ekās‐e nur ān dar
 sāyerowšan‐e tabiat yek‐i az zibātarin tāblowhā‐ye tabiat rā dar
 moqābel‐e cešmān‐e šegeftzade‐ye binandegān‐e xiš qarār midehad.
 
@@ -148,22 +150,22 @@ rosubāt‐e kalsiyom sefid‐ast.
 
 #### Nokte
 
--   "Šur‐e šur" ya'ni "xeyl‐i šur".
+  - “Šur‐e šur“ ya’ni “xeyl‐i šur”.
 
-##### Pāsox bedeh!
+##### Pāsox bedeh\!
 
 1.  Bādāb‐e Surt kojā‐st?
 2.  Cešmehā‐ye Bādāb‐e Surt be onvān‐e candomin asar‐e mirās‐e tabii dar
     Irān be sabt reside‐and?
-3.  In cešmehā bā ce nām‐i ma'ruf šode‐and?
+3.  In cešmehā bā ce nām‐i ma’ruf šode‐and?
 4.  Bādāb‐e Surt cand cešme dārad?
 5.  In cešmehā ce vižegihā‐yi dārand?
 6.  Cerā dar matn‐e bālā az bāzi‐ye ranghā bā sanghā mixānim?
 7.  Kodām kešvarhā cešmehā‐ye mošābeh‐i dārand?
 
-## Goftogu -- Kojā tašrif mibarin?
+## Goftogu – Kojā tašrif mibarin?
 
-Modir‐e āžāns:Tāksiservis‐e Bahār, befarmāyin!
+Modir‐e āžāns:Tāksiservis‐e Bahār, befarmāyin\!
 
 Xānom‐e Āzari:Salām. Bebaxšin, ye māšin mixāstam.
 
@@ -189,85 +191,87 @@ Xānom‐e Āzari:Xāheš mikonam, 88 93 94 17.
 
 Modir‐e āžāns:Xānum‐e Āzari, māšin tā dah daiqe dige miyād xedmat‐etun.
 
-Xānom‐e Āzari:Motšakker‐am, xodā hāfez!
+Xānom‐e Āzari:Motšakker‐am, xodā hāfez\!
 
-Modir‐e āžāns:Tamannā mikonam, Xodā negahdār!
+Modir‐e āžāns:Tamannā mikonam, Xodā negahdār\!
 
 #### Nokte
 
--   "Kojā tašrif mibarin?" be ma'ni‐ye "Kojā miravid?" be gune‐ye
+  - “Kojā tašrif mibarin?“ be ma’ni‐ye “Kojā miravid?” be gune‐ye
     moaddabānetar‐ast.
--   Be jā‐ye "Esm‐e šarif etun?" mitavānim nām‐e yek xānom rā bā
-    "Sarkār?" va nām‐e yek āqā rā bā "Jenābāli?" beporsim.
--   "Bande" dar injā be ma'ni‐ye \"man\" be kār miravad.
--   "Miyād xedmat‐etun" ya'ni miāyad, tā dar xedmat‐e šomā bāšad.
+  - Be jā‐ye “Esm‐e šarif etun?“ mitavānim nām‐e yek xānom rā bā
+    “Sarkār?“ va nām‐e yek āqā rā bā “Jenābāli?“ beporsim.
+  - “Bande“ dar injā be ma’ni‐ye "man" be kār miravad.
+  - “Miyād xedmat‐etun“ ya’ni miāyad, tā dar xedmat‐e šomā bāšad.
 
 #### Nokte
 
-  -- ------------ ------------
-     Goftāri      Neveštāri
-                  
-     befarmāyin   befarmāyid
-                  
-     bebaxšin     bebaxšid
-                  
-     dārin        dārid
-                  
-     xob          xub
-                  
-     mibarin      mibarid
-                  
-     meydun       meydān
-                  
-     ādres‐etun   ādres‐etān
-                  
-     xiyābun      xiyābān
-                  
-  -- ------------ ------------
+|  |            |            |
+|  | ---------- | ---------- |
+|  | Goftāri    | Neveštāri  |
+|  |            |            |
+|  | befarmāyin | befarmāyid |
+|  |            |            |
+|  | bebaxšin   | bebaxšid   |
+|  |            |            |
+|  | dārin      | dārid      |
+|  |            |            |
+|  | xob        | xub        |
+|  |            |            |
+|  | mibarin    | mibarid    |
+|  |            |            |
+|  | meydun     | meydān     |
+|  |            |            |
+|  | ādres‐etun | ādres‐etān |
+|  |            |            |
+|  | xiyābun    | xiyābān    |
+|  |            |            |
 
-  ----------------------- ---------------------------
-                          
-                          
-  esm‐e šarif‐etun        esm‐e šarif‐etān
-                          
-  šomāretelefon‐etun‐am   šomāretelefon‐etān rā ham
-                          
-  mikonin                 mikonid
-                          
-  xānum                   xānom
-                          
-  daiqe                   daqiqe
-                          
-  dige                    digar
-                          
-  miyād xedmat‐etun       miāyad xedmat‐etān
-                          
-  motšakker‐am            motešakker‐am
-  ----------------------- ---------------------------
+|                       |                           |
+| --------------------- | ------------------------- |
+|                       |                           |
+|                       |                           |
+| esm‐e šarif‐etun      | esm‐e šarif‐etān          |
+|                       |                           |
+| šomāretelefon‐etun‐am | šomāretelefon‐etān rā ham |
+|                       |                           |
+| mikonin               | mikonid                   |
+|                       |                           |
+| xānum                 | xānom                     |
+|                       |                           |
+| daiqe                 | daqiqe                    |
+|                       |                           |
+| dige                  | digar                     |
+|                       |                           |
+| miyād xedmat‐etun     | miāyad xedmat‐etān        |
+|                       |                           |
+| motšakker‐am          | motešakker‐am             |
 
 ### Ebārathā/vāžehā
 
-Šomāre‐ye ešterāk‐etun cand‐e? \...
+Šomāre‐ye ešterāk‐etun cand‐e? ...
 
 Barā‐ye kojā mixāstid?
 
-Forudgāh -- rāhāhan -- Termināl‐e Qarb Key mirese?
+Forudgāh – rāhāhan – Termināl‐e Qarb Key mirese?
 
-Hamin alān -- tā nim sāat‐e dige
+Hamin alān – tā nim sāat‐e
+dige
 
-##### Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis!
+##### Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis\!
 
--- Besyār xob, pas barā sāat‐e cāhār ye māšin mifrestam xedmat‐etun.
+– Besyār xob, pas barā sāat‐e cāhār ye māšin mifrestam xedmat‐etun.
 
--- Salām Jenāb‐e Behruzi. Amr befarmāyin! Kojā tašrif mibarin?
+– Salām Jenāb‐e Behruzi. Amr befarmāyin\! Kojā tašrif mibarin?
 
--- Tāksiservis‐e Pāsārgād, befarmāyin!
+– Tāksiservis‐e Pāsārgād, befarmāyin\!
 
--- Taqāzā mikonam. Mixāstam fardā sāat‐e panj‐e sobh forudgāh bāšam.
+– Taqāzā mikonam. Mixāstam fardā sāat‐e panj‐e sobh forudgāh bāšam.
 
--- Xeyl‐i mamnun!
+– Xeyl‐i mamnun\!
 
--- Xaste nabāšin! Behruzi hastam, moštarek‐e 121.
+– Xaste nabāšin\! Behruzi hastam, moštarek‐e
+121.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -283,19 +287,18 @@ Hamin alān -- tā nim sāat‐e dige
 
 ## Vāžehā-ye dars-e 
 
-Pasoxhā-ye dars-e
+Pasoxhā-ye dars-e 
 
-Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis!
+Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis\!
 
--- Tāksiservis‐e Pāsārgād, befarmāyid!
+– Tāksiservis‐e Pāsārgād, befarmāyid\!
 
--- Xaste nabāšid! Behruzi hastam, moštarek‐e 121.
+– Xaste nabāšid\! Behruzi hastam, moštarek‐e 121.
 
--- Salām Jenāb‐e Behruzi. Amr befarmāyid! Kojā tašrif mibarid?
+– Salām Jenāb‐e Behruzi. Amr befarmāyid\! Kojā tašrif mibarid?
 
--- Taqāzā mikonam. Mixāstam fardā sāat‐e panj‐e sobh forudgāh bāšam.
+– Taqāzā mikonam. Mixāstam fardā sāat‐e panj‐e sobh forudgāh bāšam.
 
--- Besyār xub, pas barā‐ye sāat‐e cāhār yek māšin miferestam
-xedmat‐etān.
+– Besyār xub, pas barā‐ye sāat‐e cāhār yek māšin miferestam xedmat‐etān.
 
--- Xeyl‐i mamnun!
+– Xeyl‐i mamnun\!
