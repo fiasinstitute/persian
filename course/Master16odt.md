@@ -2,11 +2,8 @@
 title: Asbābkeši
 layout: page
 ---
-Asbābkeši
-=========
 
-Matn -- Asbābkeši
------------------
+## Matn -- Asbābkeši
 
 Emruz Faribā asbābkeši dārad. Sārā be u komak mikonad. Ānhā televiziyon
 rā kenār‐e ketābxāne migozārand. Sārā zir‐e miztahrir rā jāru mikonad va
@@ -25,8 +22,7 @@ mibarad. Faribā lebāshā‐yaš rā az tu‐ye kārton dar miāvarad va dar ko
 4.  Sārā pāyin‐e kešowhā rā dastmāl mikešad.
 5.  Faribā lebāshā‐yaš rā dar komod āvizān mikonad.
 
-Sāxtār
-------
+## Sāxtār
 
 ### Sāxtār‐e horuf‐e ezāfe
 
@@ -147,8 +143,7 @@ piš azba'd azbanā barrāje' beqeyr az
 5.  \_\_\_\_\_\_\_\_\_\_ gozāreš‐e emruz mosābeqe‐ye futbāl‐e Irān‐o
     Koveyt sāat‐e hašt šoru' mišavad.
 
-Irān‐o irāni -- Farš‐e irāni
-----------------------------
+## Irān‐o irāni -- Farš‐e irāni
 
 ![\
 Tasvir·e 4: Qāli‐ye Ardabil, sade‐ye 17om‐e milādi, Muze‐ye Victoriya va
@@ -223,8 +218,7 @@ Forušande:5,000 \_\_\_\_\_\_\_\_\_\_.
   Kudumkyeki? Kot qermeze?       
   ------------------------------ -----------
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

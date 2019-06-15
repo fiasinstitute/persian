@@ -2,11 +2,8 @@
 title: Dust‐e samimi
 layout: page
 ---
-Dust‐e samimi
-=============
 
-Matn -- Dust‐e samimi
----------------------
+## Matn -- Dust‐e samimi
 
 Sārā yek dust‐e samimi dārad. Nām‐e u Faribā‐st. Sārā‐vo Faribā hamsāye
 hastand. Faribā akkās‐ast va yek āteliye‐ye akkāsi dārad. Ānhā emruz bā
@@ -21,8 +18,7 @@ Farānak šānzdah sāl dārad va hamkelāsi‐ye xāhar‐e Sārā, Susan,‐as
 3.  Rang‐e māšin‐e Faribā qermez‐ast.
 4.  Farānak dānešāmuz‐ast.
 
-Sāxtār
-------
+## Sāxtār
 
 ### Hāl‐e sāde‐ye dāštan (dār) -- šenāsehā‐ye hāl
 
@@ -132,8 +128,7 @@ hastanddārimamdāradastdust dāriim
 11. Ānhā xošbaxt \_\_\_\_\_\_\_\_\_\_ (budan).
 12. Tom melliyat‐e āmrikāyi \_\_\_\_\_\_\_\_\_\_ (dāštan).
 
-Irān‐o irāni -- Joqrāfiyā‐ye Irān
----------------------------------
+## Irān‐o irāni -- Joqrāfiyā‐ye Irān
 
 ![](Pictures/100000000000028A000002574B79BEF6584E79E6.jpg){width="3.2543in"
 height="3.2701in"}Irān jozv‐e bist kešvar‐e bozorg va bist kešvar‐e
@@ -156,8 +151,7 @@ pāytaxt‐e Irān‐ast.
     dārad.
 7.  Pāytaxt‐e Irān Tehrān‐ast.
 
-Goftogu -- Kojāyi hastin?
--------------------------
+## Goftogu -- Kojāyi hastin?
 
 Xānom‐e Partovi:Bebaxšin Āqā‐ye Āzād, šomā kojāyi hastin? Āqā‐ye Āzād:
 Man ahl‐e Širāz‐am. Šomā ahl‐e kojā‐yin? Xānom‐e Partovi:Man Tehrāni
@@ -202,8 +196,7 @@ Bebaxšin, šomā ahl‐e kojā‐yin?
 
 Parvin Xānum ozr mixām, šomā kojāyi hastin?
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

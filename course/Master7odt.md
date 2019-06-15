@@ -2,8 +2,6 @@
 title: Payām‐i az Anjoman‐e Irāniyān
 layout: page
 ---
-Payām‐i az Anjoman‐e Irāniyān
-=============================
 
 Došvārihā‐ye āmuzeš‐e zabān‐e fārsi be nownahālān dar xārej az kešvar be
 sabab‐e adam‐e tasallot‐e ānān dar xāndan‐o neveštan‐e motun‐e fārsi

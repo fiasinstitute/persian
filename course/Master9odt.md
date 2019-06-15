@@ -2,11 +2,8 @@
 title: Sārā Panāhi
 layout: page
 ---
-Sārā Panāhi
-===========
 
-Matn -- Sārā Panāhi
--------------------
+## Matn -- Sārā Panāhi
 
 Salām! Man Sārā Panāhi hastam. Man dānešju‐yam. Esm‐e pedar‐e man
 Manucehr‐ast. U mohandes‐ast. Esm‐e mādar‐am Mahnāz‐ast. Šoql‐e u
@@ -20,8 +17,7 @@ dānešāmuz hastand.
 3.  Mahnāz mohandes‐ast.
 4.  Esm‐e pedar‐e Sārā Manucehr‐ast.
 
-Sāxtār
-------
+## Sāxtār
 
 ### Alefbā‐ye 2om
 
@@ -160,8 +156,7 @@ ešānastšomāmānhastandtoueand
 8.  Pesardāyi va doxtardāyi \_\_\_\_\_\_\_\_\_\_ xošhāl hastand.
 9.  Pesaramme va doxtaramme‐ye \_\_\_\_\_\_\_\_\_\_ bimār‐and.
 
-Irān‐o irāni -- Āmuzgār‐e irāni
--------------------------------
+## Irān‐o irāni -- Āmuzgār‐e irāni
 
 Mā dānešāmuz hastim va aknun dar kelās‐im. Āmuzgār‐e mā irāni‐st.
 Zabān‐e u fārsi‐st. Fārsi širin‐ast. Mā be fārsi alāqemand hastim.
@@ -177,8 +172,7 @@ Zabān‐e u fārsi‐st. Fārsi širin‐ast. Mā be fārsi alāqemand hastim.
 4.  Fārsi širin‐ast.
 5.  Man be fārsi alāqemand hastam.
 
-Goftogu -- Salām‐o ahvālporsi
------------------------------
+## Goftogu -- Salām‐o ahvālporsi
 
 ### 
 
@@ -291,8 +285,7 @@ Mahin:Ruz‐e xub‐i dāšte \_\_\_\_\_\_\_\_\_\_. \_\_\_\_\_\_\_\_\_\_
   Hāl‐et xub‐e?                   
   ------------------------------- ------------------------
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
   --------------------------- ---------------------------------- ---------------------- ---------------------------------
   ahvālporsi *поздравления*   greetings                          احوال‌پرسی             поздравления

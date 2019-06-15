@@ -2,11 +2,8 @@
 title: Mosābeqe‐ye futbāl
 layout: page
 ---
-Mosābeqe‐ye futbāl
-==================
 
-Matn -- Mosābeqe‐ye futbāl
---------------------------
+## Matn -- Mosābeqe‐ye futbāl
 
 Sāmān, barādar‐e Sārā, va dust‐aš, Kāmbiz, emruz be Varzešgāh‐e Āzādi
 miravand, tā mosābeqe‐ye futbāl‐e Irān‐o Kore‐ye Jonubi rā bebinand.
@@ -27,8 +24,7 @@ dar zamin‐e xod bāzi rā be Kore vāgozār nakarde‐ast.
 4.  Sāmān ce omid‐i dārad?
 5.  Cerā Kāmbiz ziyād negarān nist?
 
-Sāxtār
-------
+## Sāxtār
 
 ### Pišvandhā
 
@@ -159,8 +155,7 @@ dar zamin‐e xod bāzi rā be Kore vāgozār nakarde‐ast.
                   āmuzeš      
   --------------- ----------- -----------
 
-Irān‐o irāni -- Musiqi‐ye Irān
-------------------------------
+## Irān‐o irāni -- Musiqi‐ye Irān
 
 ![\
 Tasvir·e 20: Sāzhā‐ye irâni az cap be rāst: tār, kamānce, ney, tanbur va
@@ -201,8 +196,7 @@ mašhurtarin va mahbubtarin xānande‐ye pāp‐ e Irān Googoosh bāšad.
 5.  Bedāhenavāzi ya'ni ce?
 6.  Kodām sāzhā‐ye irāni rā mišenāsi?
 
-Goftogu -- Lotfan camedun‐o bāz konin!
---------------------------------------
+## Goftogu -- Lotfan camedun‐o bāz konin!
 
 Āqā‐ye Kāmyāb:Bebaxšin āqā, bār‐e parvāz‐e Pāris‐o kojā tahvil begirim?
 
@@ -269,8 +263,7 @@ mikonim.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

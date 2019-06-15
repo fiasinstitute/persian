@@ -2,11 +2,8 @@
 title: Pedar‐e varzeškār
 layout: page
 ---
-Pedar‐e varzeškār
-=================
 
-Matn -- Pedar‐e varzeškār
--------------------------
+## Matn -- Pedar‐e varzeškār
 
 Manucehr, pedar‐e Sārā, be varzeš alāqe‐ye ziyād‐i dārad, zirā pas az
 varzeš xod rā sarehāl ehsās mikonad. U hattā dar zemestān sobhhā‐ye zud
@@ -27,8 +24,7 @@ Az in ru hamiše sarzende‐vo pornešāt‐ast.
 4.  Cerā davidan‐e bist kilumetr barā‐ye Manucehr qābeletavajjoh‐ast?
 5.  Cerā Manucehr hamiše sarzende‐vo bānešāt‐ast?
 
-Sāxtār
-------
+## Sāxtār
 
 ### Horuf‐e rabt‐e sāde
 
@@ -124,8 +120,7 @@ yā \... yāna \... naham \... hamce \... cena tanhā \... balke \... ham
 18. Bā vojud‐e in ke in bāzi yeknavāxt‐ast,
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Irān‐o irāni -- Bādāb‐e Surt
-----------------------------
+## Irān‐o irāni -- Bādāb‐e Surt
 
 ![](Pictures/10000000000000F7000001881B750247C96E4159.jpg){width="1.6492in"
 height="2.6134in"}Bādāb‐e Surt nām‐e cešmehā‐ye šegeftangiz‐i‐st ke dar
@@ -166,8 +161,7 @@ rosubāt‐e kalsiyom sefid‐ast.
 6.  Cerā dar matn‐e bālā az bāzi‐ye ranghā bā sanghā mixānim?
 7.  Kodām kešvarhā cešmehā‐ye mošābeh‐i dārand?
 
-Goftogu -- Kojā tašrif mibarin?
--------------------------------
+## Goftogu -- Kojā tašrif mibarin?
 
 Modir‐e āžāns:Tāksiservis‐e Bahār, befarmāyin!
 
@@ -287,8 +281,7 @@ Hamin alān -- tā nim sāat‐e dige
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

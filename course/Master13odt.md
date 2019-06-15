@@ -2,11 +2,8 @@
 title: Zibātarin fasl‐e sāl
 layout: page
 ---
-Zibātarin fasl‐e sāl
-====================
 
-Matn -- Zibātarin fasl‐e sāl
-----------------------------
+## Matn -- Zibātarin fasl‐e sāl
 
 Bahār avvalin fasl‐e sāl‐ast. Farvardin, ordibehešt va xordād māhhā‐ye
 fasl‐e bahār hastand. Dar fasl‐e bahār havā mo'tadel‐ ast. Barg‐e
@@ -40,8 +37,7 @@ zemestānhā be eski miravad.
 4.  Sārā dar bahār eski mikonad.
 5.  Irāniyān šab‐e avval‐e zemestān rā jašn migirand.
 
-Sāxtār
-------
+## Sāxtār
 
 ### Sefat‐e tafzili va āli
 
@@ -292,8 +288,7 @@ bozorgtarsālemtarinderāzisaxtgirtarkohnetarjavāntarintamizipirtarbāhuštarin
        a\) se                                        b\) sevvom    c\) dosevvom   d\) sevvomin
   ---- --------------------------------------------- ------------- -------------- --------------
 
-Irān‐o irāni -- Nowruz
-----------------------
+## Irān‐o irāni -- Nowruz
 
 ![\
 Tasvir·e 2: Sofre‐ye
@@ -330,8 +325,7 @@ migozarānand. In ruz Sizdahbedar nām dārad.
 4.  Irāniyān dar ruzhā‐ye pas az sāltahvil cekār mikonand?
 5.  Dar Ruz‐e Sizdahbedar cekār mikonand?
 
-Goftogu -- Cand sāl‐etun‐e?
----------------------------
+## Goftogu -- Cand sāl‐etun‐e?
 
 Faribā: Kāmrān, to cand sāl‐et‐e? Kāmrān: Man bist sāl‐am‐e.
 
@@ -395,8 +389,7 @@ Barādarā‐m az man kuciktar‐an.
 
 Ce omr‐e derāz‐i dāre!
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

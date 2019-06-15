@@ -2,8 +2,6 @@
 title: Dar bāre‐ye virāst‐e dovvom
 layout: page
 ---
-Dar bāre‐ye virāst‐e dovvom
-===========================
 
 Tā cand‐i piš estāndārd‐i rasmi barā‐ye āvānegāri‐ye fārsi be xatt‐e
 Lātin nabud. Xošbaxtāne be tāzegi estāndārd‐i bā onvān‐e Šivenāme‐ye

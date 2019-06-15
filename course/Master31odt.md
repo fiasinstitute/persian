@@ -2,11 +2,8 @@
 title: Farāmuškāri
 layout: page
 ---
-Farāmuškāri
-===========
 
-Matn -- Farāmuškāri
--------------------
+## Matn -- Farāmuškāri
 
 Panjšanbešab Mahnāz, mādar‐e Sārā, dāšt televiziyon tamāšā mikard.
 Yekdaf'e yād‐aš oftād, ke barā‐ye fardā mehmān da'vat karde‐ast. Mahnāz
@@ -30,8 +27,7 @@ yāddāšt mikonad.
 
 -   \"Digar list‐i dar kār nabud\" ya'ni \"digar list‐i vojud nadāšt\".
 
-Sāxtār
-------
+## Sāxtār
 
 ### Ebārathā‐ye qeyrešaxsi I
 
@@ -122,8 +118,7 @@ va talāš kard, tā bā jokhā‐ye xod u rā \_\_\_\_\_\_\_\_\_\_
 ham be u \_\_\_\_\_\_\_\_\_\_ (xordan). Faribā be Sārā qowl dād, ke az
 in be ba'd xodaš dāruhā‐yaš rā bexorad.
 
-Irān‐o irāni -- Bozorgān‐e adab‐o andiše
-----------------------------------------
+## Irān‐o irāni -- Bozorgān‐e adab‐o andiše
 
 Adab‐e pārsi pišine‐i dirine dārad va az gerānbahātarin adabiyāt‐e
 bašariyat be šomār miravad. Dar adabiyāt‐e pārsi še'r hamvāre jāygāh‐e
@@ -164,8 +159,7 @@ rā* *bā* *to barābar nahādan, joz nešān‐e* *divānegi nist."*
 4.  Ce ketāb‐i ehtemālan dar xāne‐ye hame‐ye irāniyān hast?
 5.  Soxan‐e Hāfez ce vižegihā‐yi dārad?
 
-Goftogu -- Parvāz ce sāat‐i‐ye?
--------------------------------
+## Goftogu -- Parvāz ce sāat‐i‐ye?
 
 ### Ebārathā/vāžehā
 
@@ -198,8 +192,7 @@ Luthansa -- Berlin -- pesar -- bist‐o panj kilu
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

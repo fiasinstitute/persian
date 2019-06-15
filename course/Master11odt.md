@@ -2,11 +2,8 @@
 title: Mehmān miāyad
 layout: page
 ---
-Mehmān miāyad
-=============
 
-Matn -- Mehmān miāyad
----------------------
+## Matn -- Mehmān miāyad
 
 Emruz barā‐ye xānevāde‐ye Panāhi mehmān miāyad. Mahnāz, mādar‐e Sārā,
 xāne rā tamiz mikonad. U be Manucehr, pedar‐e Sārā, yek list‐e xarid
@@ -23,8 +20,7 @@ mixarad, vali Mahnāz hamiše mibaxšad‐aš.
 4.  Sārā bā pedar‐aš xarid mikonad.
 5.  Pedar‐e Sārā hamiše hameciz rā eštebāhi mixarad.
 
-Sāxtār
-------
+## Sāxtār
 
 ### Hāl‐e sāde
 
@@ -189,8 +185,7 @@ Sāxtār
 3.  To emšab tanhā hasti. Mā miresānim \_\_\_\_\_\_\_\_\_\_.
 4.  Yekkam sabr konid. Rafiq‐am mibarad \_\_\_\_\_\_\_\_\_\_.
 
-Irān‐o irāni -- Gilān
----------------------
+## Irān‐o irāni -- Gilān
 
 ![\
 Tasvir·e 1: Qal'e‐ye Rudxān \| Rustā‐ye
@@ -211,8 +206,7 @@ Mirzāqāsemi yek qazā‐ye gilāni‐st.
 4.  Zabān‐e mahalli‐ye Gilān gilaki‐st.
 5.  Mirzāqāsemi az Gilān miāyad.
 
-Goftogu -- Šoql‐etun ci‐ye?
----------------------------
+## Goftogu -- Šoql‐etun ci‐ye?
 
 Āqā‐ye Arjomand:Bebaxšin, šomā šoql‐etun ci‐ye?
 
@@ -270,8 +264,7 @@ Parviz: \_\_\_\_\_\_\_\_\_\_ ruznāmenegār \_\_\_\_\_\_\_\_\_\_.
 
 Mādar‐e man dandunpezešk‐e.
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

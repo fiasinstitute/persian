@@ -2,11 +2,8 @@
 title: Alāqe be musiqi
 layout: page
 ---
-Alāqe be musiqi
-===============
 
-Matn -- Alāqe be musiqi
------------------------
+## Matn -- Alāqe be musiqi
 
 Az zamān‐i ke Sārā bā Bahrām āšnā šod, alāqe‐ye bištar‐i be musiqi‐ye
 asil‐e irāni peydā kard. Bahrām navāzandegi rā az kudaki āqāz kard,
@@ -27,8 +24,7 @@ u musiqi‐ye pāp rā bištar mipasandand.
 5.  Bahrām dar davāzdahsālegi tā ce hadd‐i pišraft karde bud?
 6.  Sārā ce tasmim‐i gerefte‐ast?
 
-Sāxtār
-------
+## Sāxtār
 
 ### Ebārathā‐ye qeydi
 
@@ -130,8 +126,7 @@ keharvaqtbā in keba'd az in ke
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Irān‐o irāni -- Ferdowsi
-------------------------
+## Irān‐o irāni -- Ferdowsi
 
 *Bas‐i ranj bordam dar in sāl siAjam zende kardam bed‐in pārsi*
 
@@ -247,8 +242,7 @@ Haftsad Toman‐am tambr ru‐š becasbunin.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

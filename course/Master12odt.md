@@ -2,11 +2,8 @@
 title: Ostād‐e saxtgir
 layout: page
 ---
-Ostād‐e saxtgir
-===============
 
-Matn -- Ostād‐e saxtgir
------------------------
+## Matn -- Ostād‐e saxtgir
 
 Sārā došanbe emtehān‐e mohemm‐i dārad. Ostād‐e saxtgir‐i in emtehān rā
 migirad. Porsešhā‐yaš ziyād va moškel‐and. U be dānešjuyān barā‐ye pāsox
@@ -30,8 +27,7 @@ emtehān tā sobh dars mixānad.
 4.  Ostād be dānešjuyān kam vaqt midehad.
 5.  Sārā az emtehān mitarsad.
 
-Sāxtār
-------
+## Sāxtār
 
 ### Jam' bā "‐hā"
 
@@ -187,8 +183,7 @@ Emruz candšanbe‐ast?
   nasim / ce / i / xub / !                          
   ------------------------------------------------- -------------
 
-Irān‐o irāni -- Tehrān
-----------------------
+## Irān‐o irāni -- Tehrān
 
 ![](Pictures/1000000000000604000004072F25B3445A9D2D63.jpg){width="2.9634in"
 height="4.6909in"}Tehrān, pāytaxt‐e Irān, dar dāmane‐ye jonubi‐ye
@@ -220,8 +215,7 @@ Towcāl yek telekābin niz dārad va barā‐ye eski ham monāseb‐ast.
 4.  Bāzār‐e Tehrān kucak‐ast.
 5.  Pārk‐e Āb‐o Ātaš telekābin dārad.
 
-Goftogu -- Ādres‐e mahall‐e kār‐etun ci‐ye?
--------------------------------------------
+## Goftogu -- Ādres‐e mahall‐e kār‐etun ci‐ye?
 
 Parisā:Bābak, to kojā kār mikoni?
 
@@ -270,8 +264,7 @@ Kojā kār mikonin?
 
 Man tu Xiyābun‐e Āzādi zendegi mikonam.
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

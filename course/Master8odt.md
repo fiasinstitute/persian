@@ -2,19 +2,15 @@
 title: Dar bāre‐ye in ketāb
 layout: page
 ---
-Dar bāre‐ye in ketāb
-====================
 
-Goruh‐e hadaf
--------------
+## Goruh‐e hadaf
 
 In ketāb dar cāhārcub‐e tarh‐i āzmāyeši az su‐ye Anjoman‐e Irāniyān
 (*Iranischer Verein, e.V.*) dar *Frankfurt* barā‐ye kelās‐e āmuzeš‐e
 zabān‐e fārsi be nowjavānān‐o javānān‐e irānitabār farāham šode. In
 ketāb barā‐ye āmuzeš be kudakān monāseb nist!
 
-Cerā Alefbā‐ye 2^om^?
----------------------
+## Cerā Alefbā‐ye 2^om^?
 
 Farāgiri‐ye zabān‐e fārsi va be yāri‐ye ān tarābord‐e farhang‐e irāni be
 nowjavānān‐o javānān‐i ke farāsu‐ye Irān zendegi mikonand, hamvāre yek‐i
@@ -89,8 +85,7 @@ mikušad, tā xatt‐i vāji erāe dehad. Ebhāmhā‐vo nāresāyihā‐ye
 \"Pinglish\" dar Alefbā‐ye 2om jā‐yi nadārand va kārbar bā xatt‐i
 manteqi‐yo āsān sarokār dārad.
 
-Zirsāxthā‐ye mowredeniyāz
--------------------------
+## Zirsāxthā‐ye mowredeniyāz
 
 Barā‐ye sādesāzi dar xāndan‐o neveštan‐e zabān‐e fārsi tanhā pišnahād‐e
 yek alefbā‐ye now basande nist, balke bāyad zirsāxthā‐yi rā dar
@@ -111,8 +106,7 @@ zabān bepardāzand. Az in ru abzārhā‐ ye zir dar hadd‐e emkān tarrāhi
 Barā‐ye āgāhi‐ye bištar dar bāre‐ye Alefbā‐ye 2om va niz daryāft‐e
 abzārhā‐ye yādšode be alefbaye2om.org negāh konid.
 
-Sāxtār‐e ketāb
---------------
+## Sāxtār‐e ketāb
 
 In ketāb bar pāye‐ye 24 dars pāyerizi šode, ke harkodām dārā‐ye
 baxšhā‐ye zir hastand:
@@ -138,8 +132,7 @@ bargardān‐e ānhā, baste be nosxe‐ye bargozide, be zabān‐e engelisi yā
 Barā‐ye dastresi be parvandehā‐ye šenidāri be lowh‐e fešorde‐ye hamrāh
 yā *alefbaye2om.org* negāh konid.
 
-Kārbord‐e ketāb
----------------
+## Kārbord‐e ketāb
 
 Har dars be tartib‐e sāxtār‐e ketāb erāe migardad. Haryek az matnhā‐vo
 goftoguhā bā yek parvande‐ye šenidāri poštibāni mišavand. Dānešāmuzān
@@ -169,8 +162,7 @@ bālā farātar ravad va yā dar ānhā degargunihā‐yi rā piš begirad.
 Abzārhā‐ye yādšode dar bālā be u va zabānāmuzān komak mikonand, tā
 darshā rā bā niyāzhā‐ye viže‐ye kelās hamsu konand.
 
-Zamānbandi
-----------
+## Zamānbandi
 
 Barā‐ye har dars 4 sāat‐e darsi (4\*45 daqiqe) dar yek hafte pišbini
 šode: Har dars rā mitavān dar yek ruz‐e šanbe az sobh tā zohr be pāyān
@@ -195,14 +187,12 @@ Barā‐ye zamānbandi‐ye har dars ruykard‐e zir pišnahād mišavad:
 Rowšan‐ast, ke āmuzgār mitavānad, baste be har dars va niyāzhā‐ye kelās,
 zamānbandi‐ye digar‐i barā‐ye har dars‐o har baxš bar gozinad.
 
-Āmuzeš‐e xānegi
----------------
+## Āmuzeš‐e xānegi
 
 Āmuzeš‐e xānegi be yek zabānāmuz emkānpazir‐ast, agar āmuzgār (mādar,
 pedar, \...) dar tamrinhā naqš‐e hamkelāsi rā niz bar duš begirad.
 
-Bāzxord
--------
+## Bāzxord
 
 Az hamegān xāheš mišavad, tā nāresāyihā‐vo laqzešhā‐ye in ketāb rā be
 negārande gušzad konand va bā bāzxordhā‐ye sāzande‐ ye xod be behsāzi‐ye

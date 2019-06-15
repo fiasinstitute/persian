@@ -2,11 +2,8 @@
 title: Gozaštehā
 layout: page
 ---
-Gozaštehā
-=========
 
-Matn -- Gozaštehā
------------------
+## Matn -- Gozaštehā
 
 Sārā‐vo dustān‐aš aknun dar otāq‐e Sārā hastand. Sārā dārad az gozaštehā
 ta'rif mikonad va dustān‐aš dārand be ta'rif‐e u guš mikonand: *Yād‐eš
@@ -74,8 +71,7 @@ yād‐eš be xeyr.*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Sāxtār
-------
+## Sāxtār
 
 ### Gozašte‐ye estemrāri
 
@@ -174,8 +170,7 @@ Sāxtār
 2)  Al'ān mašqul‐e ce kār‐i hasti?
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-![ Tasvir·e 7: Šāhanšāhi‐ye Haxāmaneši \| Šāhanšāhi‐ye Aškāni](Pictures/10000000000001D1000002A9A88827964F295876.jpg "fig:"){width="2.1535in" height="3.1535in"}Irān‐o irāni -- Tārix‐e Irān
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## ![ Tasvir·e 7: Šāhanšāhi‐ye Haxāmaneši \| Šāhanšāhi‐ye Aškāni](Pictures/10000000000001D1000002A9A88827964F295876.jpg "fig:"){width="2.1535in" height="3.1535in"}Irān‐o irāni -- Tārix‐e Irān
 
 Dar hezāre‐ye dovvom‐e piš az milād Āryāyiyān, mardomān‐i hendoorupāyi,
 be Irān mohājerat kardand. Mādhā, Pārshā va Pārthā‐ye āryāyi harkodām
@@ -231,8 +226,7 @@ az si sāl‐ast, ke hokumat‐e Irān yek jomhuri‐ye eslāmi‐st.
 65. 9.  Baxš‐e bozorg‐i az sarzamin‐e Irān dar zamān‐e hokumat‐e ce
         kasān‐i az dast raft?
 
-Goftogu -- Ci meyl dārin?
--------------------------
+## Goftogu -- Ci meyl dārin?
 
 Pišxedmat: Xoš umadin! Befarmāyin! Ātusā: Lotfan ye miz barā do nafar.
 
@@ -317,8 +311,7 @@ Nāder:\_\_\_\_\_\_\_\_\_\_ surathesāb‐e mā ro biyārin!
 
 Gārson:Cašm, hamin \_\_\_\_\_\_\_\_\_\_.
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

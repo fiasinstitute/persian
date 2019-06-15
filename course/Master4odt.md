@@ -2,8 +2,6 @@
 title: Sepāsgozāri
 layout: page
 ---
-Sepāsgozāri
-===========
 
 Tarh‐o farāhamāvari‐ye Alefbā‐ye 2^om^ az kušešhā‐vo pišnahādhā‐ye
 pišiniyān bahre borde‐ast. Jāy‐e ān dārad, ke az hame‐ye ānhā

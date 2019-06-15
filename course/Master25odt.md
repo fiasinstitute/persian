@@ -2,11 +2,8 @@
 title: Moallem‐e Susan
 layout: page
 ---
-Moallem‐e Susan
-===============
 
-Matn -- Moallem‐e Susan
------------------------
+## Matn -- Moallem‐e Susan
 
 Dabirestān‐e Susan moallemin‐e xeyl‐i xub‐i dārad. Moallem‐e adabiyāt‐e
 Susan besyār‐i az aš'ār‐e šoarā‐ye irāni rā azbar midānad. U dars‐aš rā
@@ -23,8 +20,7 @@ delsuz‐ ast va hamiše be vazāyef‐e xod amal mikonad.
 4.  Harvaqt yek šāgerd eštebāh mikonad, u cekār mikonad?
 5.  Āyā moallem‐e Susan ādam‐e vazifešenās‐i‐st?
 
-Sāxtār
-------
+## Sāxtār
 
 ### Jam'‐e arabi bā "‐āt"
 
@@ -101,8 +97,7 @@ enqelābi**~~i~~yu**n
   10‐ manba'    mavāze'     
   ------------- ----------- --------
 
-Irān‐o irāni -- Bāqhā‐ye irāni
-------------------------------
+## Irān‐o irāni -- Bāqhā‐ye irāni
 
 ![\
 Tasvir·e 13: Bāq‐e Šāzde,
@@ -140,8 +135,7 @@ gerefte‐and. Az zibātarin bāqhā dar Irān mitavānim az Bāq‐e Eram dar
 5.  Šive‐ye bāqsāzi‐ye irāni ce vižegihā‐yi dārad?
 6.  Kodām bāqhā‐ye irāni rā mišenāsi?
 
-Goftogu -- Cand šab eqāmat mikonin?
------------------------------------
+## Goftogu -- Cand šab eqāmat mikonin?
 
 Mas'ul‐e pazireš: Salām! Xeyl‐i xoš āmadin! Befarmāyin!
 
@@ -248,8 +242,7 @@ emzā konin.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

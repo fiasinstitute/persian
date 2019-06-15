@@ -2,11 +2,8 @@
 title: Kārhā‐ye ruzmarre
 layout: page
 ---
-Kārhā‐ye ruzmarre
-=================
 
-Matn -- Kārhā‐ye ruzmarre
--------------------------
+## Matn -- Kārhā‐ye ruzmarre
 
 Sārā ruzhā‐ye šanbe tā cāhāršanbe be dānešgāh miravad. U sobhhā sāat‐e
 yek rob' be haft az xāb bidār mišavad va nim sāat dar pārk midavad. Cand
@@ -28,8 +25,7 @@ bištar az raftan be konsert dust nadārad.
 4.  Dar hafte yek bār be Mehrān riyāziyāt dars midehad.
 5.  Sārā raftan be konsert rā az hame‐ye tafrihhā bištar dust dārad.
 
-Sāxtār
-------
+## Sāxtār
 
 ### Sefat‐e nāmošaxxas
 
@@ -168,8 +164,7 @@ Sāxtār
   Mā se sāat vaqt dārim.                         
   ---------------------------------------------- ----------------
 
-Irān‐o irāni -- Mardom‐e Irān
------------------------------
+## Irān‐o irāni -- Mardom‐e Irān
 
 ![\
 Tasvir·e 3: Naqše‐ye kuc‐e mardonām‐e hendoorupāyi, azjomle mohājerat‐e
@@ -195,8 +190,7 @@ jāleb‐i dārad. Zabān‐e rasmi‐ye Irān fārsi‐st. Fārsi hamān pārsi
     va yahudiyān hastand.
 5.  Aqvām‐e irāni bā yekdigar dar āšti‐o ārāmeš zendegi mikonand.
 
-Goftogu -- Sāat cand‐e?
------------------------
+## Goftogu -- Sāat cand‐e?
 
 Farah:Farhād, emruz candšanba‐st?
 
@@ -280,8 +274,7 @@ Aqrabe‐ye sāniyešomār derāztar az aqrabe‐ye daiqešomār‐e.
 
 Har daiqe šast sāniye dāre.
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

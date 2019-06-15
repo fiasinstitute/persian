@@ -2,11 +2,8 @@
 title: Jašn‐e tavallod
 layout: page
 ---
-Jašn‐e tavallod
-===============
 
-Matn -- Jašn‐e tavallod
------------------------
+## Matn -- Jašn‐e tavallod
 
 Dišab jašn‐e tavallod‐e Susan, xāhar‐e Sārā, bud. Hame‐ye dustān‐e Susan
 bejoz Nasrin dar xāne‐ye Susan dowr‐e ham jam' budand. Dustān‐e Susan
@@ -25,8 +22,7 @@ xāhad āmad.
 4.  Cerā Nasrin nayāmad?
 5.  Nasrin pā‐ye telefon be Susan ce goft?
 
-Sāxtār
-------
+## Sāxtār
 
 ### Setāk‐e gozašte
 
@@ -178,8 +174,7 @@ gozāštan
 10. Mā fardā dar hotel \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_
     \_\_\_\_\_\_\_\_\_\_ (mostaqar šodan).
 
-Irān‐o irāni -- Širāz
----------------------
+## Irān‐o irāni -- Širāz
 
 ![\
 Tasvir·e 5: Bāq‐e
@@ -206,8 +201,7 @@ piš bar migardad, didan koni.
 4.  Makānhā‐ye didani‐ye Širāz kodām and?
 5.  Kodām majmuehā‐ye bāstāni nazdik‐e Širāz hastand?
 
-Goftogu -- Be ci alāqe dārin?
------------------------------
+## Goftogu -- Be ci alāqe dārin?
 
 Minu:Šahrām, to be ci alāqe dāri?
 
@@ -268,8 +262,7 @@ Bištar dust \_\_\_\_\_\_\_\_\_\_, varzeš \_\_\_\_\_\_\_\_\_\_.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

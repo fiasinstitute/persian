@@ -2,11 +2,8 @@
 title: Āšpazi‐ye Sāmān
 layout: page
 ---
-Āšpazi‐ye Sāmān
-===============
 
-Matn -- Āšpazi‐ye Sāmān
------------------------
+## Matn -- Āšpazi‐ye Sāmān
 
 Sāmān, barādar‐e Sārā, hanuz āšpazi rā xub yād nagerefte‐ast. Mādar‐aš
 bārhā hameciz rā be u towzih dāde‐ast. Be u yād dāde‐ ast, ke ce
@@ -25,8 +22,7 @@ dorost konad. Xodā be xeyr konad!
 4.  Sāmān bā Susan ce šart‐i baste‐ast?
 5.  U qarār‐ast, emruz ce bepazad?
 
-Sāxtār
-------
+## Sāxtār
 
 ### Esm‐e maf'ul
 
@@ -130,8 +126,7 @@ Sāxtār
   Xabar be mā resid. Sepas doktor raft.               Hengām‐i
   --------------------------------------------------- -------------------------------------------------------------
 
-Irān‐o irāni -- Zartošt
------------------------
+## Irān‐o irāni -- Zartošt
 
 ![\
 Tasvir·e 10: Zartošt bā kore‐ye setāregān dar dast dar naqqāši‐ye
@@ -167,8 +162,7 @@ Zartošt* az Nietzsche‐ast.
 5.  Nām‐e ketāb‐i ke dar ān āmuzehā‐ye Zartošt jam'āvari šode‐and,
     ci‐st?
 
-Goftogu -- Televiziyon‐emun xarāb šode.
----------------------------------------
+## Goftogu -- Televiziyon‐emun xarāb šode.
 
 Mahšid:Ci‐ye? Ci šode? Pakar‐i.
 
@@ -251,8 +245,7 @@ Rādiyo -- zabtesowt -- yaxcāl -- māšin‐e lebāsšuyi -- māšin‐e zarfš
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

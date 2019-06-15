@@ -2,11 +2,8 @@
 title: Gomšode dar rāh
 layout: page
 ---
-Gomšode dar rāh
-===============
 
-Matn -- Gomšode dar rāh
------------------------
+## Matn -- Gomšode dar rāh
 
 Yek ruz Sārā‐vo Faribā dāštand bā māšin be vilā‐ye dust‐ešān, ke xārej
 az šahr bud, miraftand. Dir‐i nagozašt, ke rāh‐ešān rā gom kardand. Ānhā
@@ -29,8 +26,7 @@ ba'd be vilā residand.
 5.  Āyā masir‐i ke ān mard be ānhā goft, dorost bud?
 6.  Sārā‐vo Faribā key be maqsad‐e xod residand?
 
-Sāxtār
-------
+## Sāxtār
 
 ### Ebārathā‐ye vasfi (vasf‐e fāel)
 
@@ -120,8 +116,7 @@ Sāxtār
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Irān‐o irāni -- Pārse (Taxt‐e Jamšid)
--------------------------------------
+## Irān‐o irāni -- Pārse (Taxt‐e Jamšid)
 
 ![](Pictures/1000000000000320000000E240DFAB7CAA14E7ED.jpg){width="3.8071in"
 height="1.8425in"}Dar 64‐kilumetri‐ye šomāl‐e Širāz bāqimānde‐ye kāxhā‐
@@ -165,8 +160,7 @@ hoquq‐e nāciz‐i barxordār budand.
 6.  Asnād‐e bedastāmade dar Pārse dar bāre‐ye zanān az ce hekāyat
     mikonand?
 
-Goftogu -- Ce model‐i barā tun bezanam?
----------------------------------------
+## Goftogu -- Ce model‐i barā tun bezanam?
 
 Ārāyešgar:Befarmāyin!
 
@@ -294,8 +288,7 @@ Sešuār‐am bekešam? -- Abruhā‐tun‐am morattab konam?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

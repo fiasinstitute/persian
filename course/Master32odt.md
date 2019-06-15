@@ -2,11 +2,8 @@
 title: Dozdi dar mahalle
 layout: page
 ---
-Dozdi dar mahalle
-=================
 
-Matn -- Dozdi dar mahalle
--------------------------
+## Matn -- Dozdi dar mahalle
 
 Hafte‐ye gozašte dar atrāf‐e xāne‐ye Sārā yek dozdi surat gerefte‐ast.
 Gofte mišavad, ke polis tā konun talāšhā‐ye ziyād‐i barā‐ ye dastgiri‐ye
@@ -86,8 +83,7 @@ Te'dād‐e ziyād‐i az dānešmandān tavassot‐e jāsusān‐e ānhā robud
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Irān‐o irāni -- Varzeš dar Irān
--------------------------------
+## Irān‐o irāni -- Varzeš dar Irān
 
 ![\
 Tasvir·e 18: Varzešgāh‐e Āzādi, Tehrān \| Cowgān, az
@@ -135,8 +131,7 @@ raqibān‐e mard‐e xod rā šekast dād.
     dast yāfte‐ast?
 5.  Kodām varzeškārān‐e bozorg‐e irāni rā mišenāsi?
 
-Goftogu -- Cand tā camedun dārin?
----------------------------------
+## Goftogu -- Cand tā camedun dārin?
 
 Motessadi:Bilitā‐tun‐o lotf konin.
 
@@ -230,8 +225,7 @@ barā‐ tun ārezu mikonim.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

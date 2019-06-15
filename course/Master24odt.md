@@ -2,11 +2,8 @@
 title: Dust‐e navāzande
 layout: page
 ---
-Dust‐e navāzande
-================
 
-Matn -- Dust‐e navāzande
-------------------------
+## Matn -- Dust‐e navāzande
 
 Yek‐i az dustān‐e Sārā Bahrām‐ast. Bahrām navāzande‐ye besyār xubi‐st.
 Sedā‐ye garm‐i ham dārad. Bahrām‐o Sārā moddathā‐ st ke hamdigar rā
@@ -25,8 +22,7 @@ mibarand.
 4.  Barnāme‐ye Bahrām ce sāat‐i šoru' mišavad?
 5.  Āyā Bahrām yek xānande bā xodaš mibarad?
 
-Sāxtār
-------
+## Sāxtār
 
 ### Zamirhā‐ye ta'kidi/en'ekāsi
 
@@ -91,8 +87,7 @@ xod"‐ešān"xodešān
     \_\_\_\_\_\_\_\_\_\_.
 12. \_\_\_\_\_\_\_\_\_\_ ertefā‐e otāq rā andāze gereftim.
 
-Irān‐o irāni -- Kuroš‐e Bozorg
-------------------------------
+## Irān‐o irāni -- Kuroš‐e Bozorg
 
 ![\
 Tasvir·e 12: Ārāmgāh‐e Kuroš dar Pāsārgād \| Ostovāne‐ye Kuroš dar
@@ -137,8 +132,7 @@ e'lāmiye‐ye hoquq‐e bašar dar jahān midānand.
 5.  Cerā Ostovāne‐ye Kuroš yek sanad‐e tārixi‐ye arzešmand‐ast?
 6.  Barx‐i az mohaqqeqān cegune az Ostovāne‐ye Kuroš yād mikonand?
 
-Goftogu -- Mitunam bā \... sohbat konam?
-----------------------------------------
+## Goftogu -- Mitunam bā \... sohbat konam?
 
 Xānom‐e Gilāni: Befarmāyin!
 
@@ -230,8 +224,7 @@ Negin:\_\_\_\_\_\_\_\_\_\_, mozāhem‐etun šodam.
 
 Āqā‐ye Kāmyāb: Xāheš \_\_\_\_\_\_\_\_\_\_.
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

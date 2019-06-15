@@ -2,11 +2,8 @@
 title: Belit‐e havāpeymā
 layout: page
 ---
-Belit‐e havāpeymā
-=================
 
-Matn -- Belit‐e havāpeymā
--------------------------
+## Matn -- Belit‐e havāpeymā
 
 Sārā‐vo Faribā mixāhand dar ta'tilāt‐e nowruzi‐ye emsāl be Esfahān
 beravand. Ānhā mitavānand bā māšin‐e Faribā beravand. Vali māšin‐e
@@ -25,8 +22,7 @@ bāyad harce zudtar belithā rā rezerv konand, tā jā namānand.
 4.  Safar be Esfahān bā havāpeymā ceqadr tul mikešad?
 5.  Cerā bāyad Sārā‐vo Faribā harce zudtar belithā rā rezerv konand?
 
-Sāxtār
-------
+## Sāxtār
 
 ### Hāl‐e eltezāmi
 
@@ -120,8 +116,7 @@ Sāxtār
 11. Mošaxxasāt‐e māšin rā injā \_\_\_\_\_\_\_\_\_\_ (neveštan)!
 12. Movāzeb‐e lab‐o dahān‐at \_\_\_\_\_\_\_\_\_\_ (budan)!
 
-Irān‐o irāni -- Honar‐e āšpazi‐ye Irān
---------------------------------------
+## Irān‐o irāni -- Honar‐e āšpazi‐ye Irān
 
 ![](Pictures/10000000000002670000024F6CD5E5706DB3C887.jpg){width="2.8453in"
 height="2.7362in"}Kāfi‐st ke yek bār qazā‐ye irāni rā emtehān koni;
@@ -146,8 +141,7 @@ heyf‐ast, ke be Gilān beravi, vali Mirzāqāsemi naxori.
 4.  Ma'ruftarin qazā‐ye irāni ehtemālan kodām‐ast?
 5.  Dar Gilān kodām qazā rā bāyad hatman emtehān konim?
 
-Goftogu -- Nāhār key hāzer miše?
---------------------------------
+## Goftogu -- Nāhār key hāzer miše?
 
 Bahrām:Māmān, nāhār key hāzer miše?
 
@@ -223,8 +217,7 @@ zarfšuyi
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

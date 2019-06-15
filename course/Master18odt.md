@@ -2,11 +2,8 @@
 title: Dar jostoju‐ye Ketāb
 layout: page
 ---
-Dar jostoju‐ye Ketāb
-====================
 
-Matn -- Dar jostoju‐ye ketāb
-----------------------------
+## Matn -- Dar jostoju‐ye ketāb
 
 Sārā‐vo Faribā emruz dar yek ketābforuši hastand. Ānhā be donbāl‐e yek
 ketāb‐e āmuzeš‐e zabān‐e fārsi barā‐ye yek dust‐e āmrikāyi migardand.
@@ -25,8 +22,7 @@ mipazirad, va ānhā ketāb rā mixarand.
 4.  Onvān‐e darshā‐ye yek‐i az ketābhā hamiše yek soāl‐ast.
 5.  Faribā pišnahād‐e Sārā rā qabul mikonad.
 
-Sāxtār
-------
+## Sāxtār
 
 ### Jomlehā‐ye axbāri
 
@@ -206,8 +202,7 @@ Jāvid miguyad: "Zur‐e bāzu‐yam ziyād‐ast."
 
 Nāhid miguyad: "Be didār bā ostād‐am omid dāram."
 
-Irān‐o irāni -- Damāvand
-------------------------
+## Irān‐o irāni -- Damāvand
 
 ![](Pictures/10000000000002B8000001C97C101A43C2122844.jpg){width="3.0409in"
 height="2.2965in"}Dar 69‐kilometri‐ye šomāl‐e šarq‐e Tehrān va dar
@@ -230,8 +225,7 @@ ešārehā‐ye farāvān‐i be Damāvand dārand.
     Melli‐ye Irān‐ast?
 6.  Āyā Damāvand dar afsānehā‐vo adab‐e fārsi jāygāh‐e xāss‐i dārad?
 
-Goftogu -- Ceqad miše?
-----------------------
+## Goftogu -- Ceqad miše?
 
 Maqāzedār:Befarmāyin.
 
@@ -330,8 +324,7 @@ Dast‐etun dard nakone.
 
 Amr‐e dige‐i nadārin?
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

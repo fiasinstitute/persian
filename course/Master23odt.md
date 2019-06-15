@@ -2,11 +2,8 @@
 title: Šab‐e tufāni
 layout: page
 ---
-Šab‐e tufāni
-============
 
-Matn -- Šab‐e tufāni
---------------------
+## Matn -- Šab‐e tufāni
 
 Dišab tā sobh bād‐e šadid‐i miāmad. Tufān šode bud. Bārān‐e ziyād‐i ham
 bāride bud. Sārā fekr kard, ke šāyad dar‐e bālkon rā nabaste bāšad.
@@ -24,8 +21,7 @@ miz bud va kaf‐e otāq ham xošk bud.
 4.  Sārā be otāq‐e pazirāyi raft, ke cekār konad?
 5.  Dar otāq‐e pazirāyi ce did?
 
-Sāxtār
-------
+## Sāxtār
 
 ### Gozašte‐ye eltezāmi
 
@@ -108,8 +104,7 @@ Sāxtār
   Šāyad pust‐aš zir‐e āftāb besuzad.                     
   ------------------------------------------------------ -------------------------------------------------
 
-Irān‐o irāni -- Esfahān
------------------------
+## Irān‐o irāni -- Esfahān
 
 ![\
 Tasvir·e 11: Cehelsotun \| Siyosepol \| Naqš‐e Jahân \| Masjed‐e Šāh \|
@@ -147,8 +142,7 @@ va Pol‐e Xāju, az digar didanihā‐ye in šahr‐e zibā hastand.
 4.  Kodām didanihā rā mitavānim dar Meydān‐e Naqš‐e Jahān bebinim?
 5.  Polhā‐ye tārixi‐ye Zāyanderud ce nām dārand?
 
-Goftogu -- Galu‐m dard mikone.
-------------------------------
+## Goftogu -- Galu‐m dard mikone.
 
 Doktor:Xob, befarmāyin moškel‐etun ci‐ye?
 
@@ -270,8 +264,7 @@ yek‐i az unā kerm xorde. Bāyad bekešam‐eš.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

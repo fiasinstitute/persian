@@ -2,11 +2,8 @@
 title: Otobus‐e ba'di
 layout: page
 ---
-Otobus‐e ba'di
-==============
 
-Matn -- Otobus‐e ba'di
-----------------------
+## Matn -- Otobus‐e ba'di
 
 Zemestān bud. Havā xeyl‐i sard bud. Sāmān, barādar‐e Sārā, be madrese
 rafte bud. U ma'mulan bā otobus be xāne bar migašt. Dar ān ruz dars‐aš
@@ -25,8 +22,7 @@ hesābi milarzid. Xošbaxtāne otobus‐e ba'di zud āmad. Agar kam‐i dirtar
 3.  Cerā Sāmān dar istgāh‐e otobus milarzid?
 4.  Agar otobus‐e ba'di rā nemigereft, ce ettefāqi mioftād?
 
-Sāxtār
-------
+## Sāxtār
 
 ### Ebārathā‐ye šarti
 
@@ -71,8 +67,7 @@ Sāxtār
 10. Dastekam tā nim sāat piš xiyābānhā šoluq budand. Agar al'ān xalvat
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (budan), bā tāksi miravam.
 
-Irān‐o irāni -- Bozorgān‐e dāneš‐o andiše
------------------------------------------
+## Irān‐o irāni -- Bozorgān‐e dāneš‐o andiše
 
 ![\
 Tasvir·e 16: Xārazmi \|
@@ -123,8 +118,7 @@ robāiyāt‐aš bayān mikonad. Robāiyāt‐e u šohrat‐e jahāni dārand.
 4.  Ketāb‐e Qānun tā key ketāb‐e me'yār‐e pezeški bud?
 5.  Yek‐i az kārhā‐ye barjeste‐ye Xayyām ce bud?
 
-Goftogu -- Nerx‐e Dolār cand‐e?
--------------------------------
+## Goftogu -- Nerx‐e Dolār cand‐e?
 
 Āqā‐ye Xākbāz: Salām! Bebaxšin, bāje‐ye xadamāt‐e arzi haminjā‐st?
 Kārmand‐e bānk: Bale. Amr‐etun‐o befarmāyin!
@@ -209,8 +203,7 @@ bist tā eskenās‐e panjhezārtomani.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

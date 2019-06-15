@@ -2,8 +2,6 @@
 title: Mā fārsi balad‐im!
 layout: page
 ---
-Mā fārsi balad‐im!
-==================
 
 Be kušeš‐e Hamid Farroukh
 

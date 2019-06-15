@@ -2,11 +2,8 @@
 title: Kādo‐ye ezdevāj
 layout: page
 ---
-Kādo‐ye ezdevāj
-===============
 
-Matn -- Kādo‐ye ezdevāj
------------------------
+## Matn -- Kādo‐ye ezdevāj
 
 Hafte‐ye āyande arusi‐ye Faribā, dust‐e samimi‐ye Sārā‐st. Sārā be
 hamrāh‐e mādar‐aš, Mahnāz, bā metro be bāzār rafte‐ast, tā barā‐yaš
@@ -26,8 +23,7 @@ xošhāl‐ast, ke u va mādar‐aš bā dast‐e por be xāne bar migardand.
 4.  Mahnāz az ce kār‐i zud xaste nemišavad?
 5.  Cāne zadan‐e Mahnāz bā forušande ceqadr tul mikešad?
 
-Sāxtār
-------
+## Sāxtār
 
 ### Vāžehā‐ye morakkab
 
@@ -100,8 +96,7 @@ xošhāl‐ast, ke u va mādar‐aš bā dast‐e por be xāne bar migardand.
   Sefat + esm                             tizhuš -- kamhowsele -- xošandām --              --   
   --------------------------------------- ------------------------------------------- ---- ---- --
 
-Irān‐o irāni -- Sinamā‐ye Irān
-------------------------------
+## Irān‐o irāni -- Sinamā‐ye Irān
 
   --
   --
@@ -144,8 +139,7 @@ mitavān dar kenār‐e Rakhshan Bani‐Etemad az Samira Makhmalbaf yād kard.
 3.  Sālāne dar Irān cand kārgardān noxostin film‐e xod rā arze mikonand?
 4.  Āyā filmsāzān‐e zan dar sinamā‐ye Irān hozur‐i kamrang dārand?
 
-Goftogu -- Barā ce sāns‐i?
---------------------------
+## Goftogu -- Barā ce sāns‐i?
 
 Rowšanak:Lotfan do tā bilit barā film‐e Dar Bāre‐ye Eli.
 
@@ -223,8 +217,7 @@ Moddatzamān:
 
 Xolāse‐ye dāstān:
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 

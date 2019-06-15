@@ -2,8 +2,6 @@
 title: Yādāvari I
 layout: page
 ---
-Yādāvari I
-==========
 
 ##### Haryek az pāsoxhā‐ye sotun‐e B javāb‐e kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 

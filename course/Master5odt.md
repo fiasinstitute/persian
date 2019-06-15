@@ -2,8 +2,6 @@
 title: © Parvāne
 layout: page
 ---
-© Parvāne
-=========
 
 In ketāb bar pāye‐ye parvāne‐ye *Creative Commons* **CC BY‐SA** 3.0
 barā‐ye hamegān dar dastres‐ast. Hargune bekārgiri, kopibardāri‐yo

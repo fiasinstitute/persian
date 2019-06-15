@@ -2,8 +2,6 @@
 title: Pāsoxhā-ye yādāvari
 layout: page
 ---
-Pāsoxhā-ye yādāvari
-===================
 
 Yādāvari I
 

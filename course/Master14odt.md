@@ -2,11 +2,8 @@
 title: Pitzā‐ye hāzeri
 layout: page
 ---
-Pitzā‐ye hāzeri
-===============
 
-Matn -- Pitzā‐ye hāzeri
------------------------
+## Matn -- Pitzā‐ye hāzeri
 
 Mahnāz, mādar‐e Sārā, ma'mulan nimevaqt kār mikonad. Kār‐e u emruz
 estesnāan xeyl‐i tul mikešad. Be in dalil barā‐ye šowhar‐aš, Manucehr,
@@ -66,8 +63,7 @@ bāqca‐r‐am lotfan āb bede. Mamnun‐am aziz‐am. Tā ba'd!*\"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Sāxtār
-------
+## Sāxtār
 
 ### Fe'l‐e amri
 
@@ -189,8 +185,7 @@ Man be mojassamesāzi alāqemand‐am.
 
 Man dar māh‐e esfand tavallod dāram.
 
-Irān‐o irāni -- Abyāne
-----------------------
+## Irān‐o irāni -- Abyāne
 
 ![](Pictures/100000000000037C0000034C6638D248C7947CFD.jpg){width="4.128in"
 height="3.9075in"}Dar Irān rustāhā‐ye tārixi‐yo zibā ham vojud dārad.
@@ -219,8 +214,7 @@ sonnati va lahje‐ye viže‐i dārand.
 4.  Ātaškade‐ye Hārpāg bar farāz‐e kuh qarār dārad.
 5.  Mardom‐e Abyāne lebāshā‐ye sonnati mipušand.
 
-Goftogu -- Meydun‐e Bahārestān Kojā‐st?
----------------------------------------
+## Goftogu -- Meydun‐e Bahārestān Kojā‐st?
 
 Xānom‐e Āzād:Ozr mixām āqā, Meydun‐e Bahārestān kojā‐st?
 
@@ -276,8 +270,7 @@ bepicin dast‐e \_\_\_\_\_\_\_\_\_\_. Faršād: \_\_\_\_\_\_\_\_\_\_ nist?
 Xānom‐e Rād: Na, negarān nabāšin. Faršād: \_\_\_\_\_\_\_\_\_\_‐am?
 Xānom‐e Rād: \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_.
 
-Vāžehā-ye dars-e 
------------------
+## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e
 
