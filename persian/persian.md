@@ -4,6 +4,17 @@ layout: page
 ---
 
 
+<ul>
+{% for word in site.data.dictionary %}
+  <li>
+    {{ word.farsi }} — {{ word.exactr }} — {{ word.exactf }} — {{ word.chapter }}
+  </li>
+{% endfor %}
+</ul>
+
+
+
+
 
 ![](Pictures/10000201000003DD0000038B553D6F4147967406.png)
 
