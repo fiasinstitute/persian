@@ -4,15 +4,11 @@ layout: page
 ---
 
 
-<ul>
 {% for word in site.data.dictionary %}
 {% if word.chapter==1 %}
-  <li>
-    <strong>{{ word.farsi }}</strong> {{ word.exactf }} {{ word.exactr }}
-  </li>
+<strong>{{ word.farsi }}</strong> {{ word.exactr }} &emsp;
 {% endif %}
 {% endfor %}
-</ul>
 
 
 
