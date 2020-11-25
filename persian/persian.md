@@ -6,9 +6,11 @@ layout: page
 
 <ul>
 {% for word in site.data.dictionary %}
+{% if word.chapter==1 %}
   <li>
-    {{ word.farsi }} — {{ word.exactr }} — {{ word.exactf }} — {{ word.chapter }}
+    <strong>{{ word.farsi }}</strong> {{ word.exactf }} {{ word.exactr }}
   </li>
+{% endif %}
 {% endfor %}
 </ul>
 
