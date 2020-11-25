@@ -4,11 +4,6 @@
     exactf: واژنامه
     chapter: 0
 -
-    farsi: Dars-e
-    exactr: 1
-    exactf: درس
-    chapter: 1
--
     farsi: ahvālporsi
     exactr: расспрашивание, осведомление о здоровье
     exactf: احوالپرسی
@@ -488,11 +483,6 @@
     exactr: добрый день (после полудня)
     exactf: ظهر به خیر
     chapter: 1
--
-    farsi: Dars-e
-    exactr: 2
-    exactf: درس
-    chapter: 2
 -
     farsi: ābi
     exactr: голубой
@@ -1054,11 +1044,6 @@
     exactf: زیبا
     chapter: 2
 -
-    farsi: Dars-e
-    exactr: 3
-    exactf: درس
-    chapter: 3
--
     farsi: āb
     exactr: вода
     exactf: آب
@@ -1533,11 +1518,6 @@
     exactr: женщина, жена
     exactf: زن
     chapter: 3
--
-    farsi: Dars-e
-    exactr: 4
-    exactf: درس
-    chapter: 4
 -
     farsi: ādine
     exactr: пятница
@@ -2138,11 +2118,6 @@
     exactr: много
     exactf: زیاد
     chapter: 4
--
-    farsi: Dars-e
-    exactr: 5
-    exactf: درس
-    chapter: 5
 -
     farsi: ādam
     exactr: человек
@@ -2769,11 +2744,6 @@
     exactf: زمستان
     chapter: 5
 -
-    farsi: Dars-e
-    exactr: 6
-    exactf: درس
-    chapter: 6
--
     farsi: āmāde kardan (kon)
     exactr: подготовить
     exactf: آماده کردن
@@ -3303,11 +3273,6 @@
     exactr: тётя, жена брата матери
     exactf: زن‌دایی
     chapter: 6
--
-    farsi: Dars-e
-    exactr: 7
-    exactf: درس
-    chapter: 7
 -
     farsi: ādāb
     exactr: этикет
@@ -3858,11 +3823,6 @@
     exactr: полдень
     exactf: ظهر
     chapter: 7
--
-    farsi: Dars-e
-    exactr: 8
-    exactf: درس
-    chapter: 8
 -
     farsi: abrišam
     exactr: шелк
@@ -4449,11 +4409,6 @@
     exactf: زور
     chapter: 8
 -
-    farsi: Dars-e
-    exactr: 9
-    exactf: درس
-    chapter: 9
--
     farsi: ābrizeš
     exactr: простуда
     exactf: آبریزش
@@ -4883,11 +4838,6 @@
     exactr: барбарис
     exactf: زرشک
     chapter: 9
--
-    farsi: Dars-e
-    exactr: 10
-    exactf: درس
-    chapter: 10
 -
     farsi: āftāb
     exactr: солнце
@@ -5374,11 +5324,6 @@
     exactf: زود
     chapter: 10
 -
-    farsi: Dars-e
-    exactr: 11
-    exactf: درس
-    chapter: 11
--
     farsi: ābšār
     exactr: водопад
     exactf: آبشار
@@ -5758,11 +5703,6 @@
     exactr: кукуруза
     exactf: ذرت
     chapter: 11
--
-    farsi: Dars-e
-    exactr: 12
-    exactf: درس
-    chapter: 12
 -
     farsi: A’rāb
     exactr: арабы
@@ -6344,11 +6284,6 @@
     exactf: ظهور
     chapter: 12
 -
-    farsi: Dars-e
-    exactr: 13
-    exactf: درس
-    chapter: 13
--
     farsi: āfaridegār
     exactr: Бог, создатель
     exactf: آفریدگار
@@ -6849,11 +6784,6 @@
     exactf: زیستن
     chapter: 13
 -
-    farsi: Dars-e
-    exactr: 14
-    exactf: درس
-    chapter: 14
--
     farsi: āmpul
     exactr: шприц
     exactf: آمپول
@@ -7339,11 +7269,6 @@
     exactf: یخ
     chapter: 14
 -
-    farsi: Dars-e
-    exactr: 15
-    exactf: درس
-    chapter: 15
--
     farsi: aks gereftan (gir)
     exactr: фотографировать;
     exactf: عکس گرفتن
@@ -7793,11 +7718,6 @@
     exactr: греческий
     exactf: یونانی
     chapter: 15
--
-    farsi: Dars-e
-    exactr: 16
-    exactf: درس
-    chapter: 16
 -
     farsi: a’dād
     exactr: числа
@@ -8368,11 +8288,6 @@
     exactr: вкус
     exactf: ذوق
     chapter: 16
--
-    farsi: Dars-e
-    exactr: 17
-    exactf: درس
-    chapter: 17
 -
     farsi: agar
     exactr: если
@@ -8954,11 +8869,6 @@
     exactf: زیرا که
     chapter: 17
 -
-    farsi: Dars-e
-    exactr: 18
-    exactf: درس
-    chapter: 18
--
     farsi: anbāri
     exactr: кладовая, подсобка
     exactf: انباری
@@ -9363,11 +9273,6 @@
     exactr: труд, усилие
     exactf: زحمت
     chapter: 18
--
-    farsi: Dars-e
-    exactr: 19
-    exactf: درس
-    chapter: 19
 -
     farsi: adabi
     exactr: литературный
@@ -9803,11 +9708,6 @@
     exactr: возбужденный; радостный
     exactf: ذوق‌زده
     chapter: 19
--
-    farsi: Dars-e
-    exactr: 20
-    exactf: درس
-    chapter: 20
 -
     farsi: a’sār
     exactr: возраст
@@ -10259,11 +10159,6 @@
     exactf: زمینه
     chapter: 20
 -
-    farsi: Dars-e
-    exactr: 21
-    exactf: درس
-    chapter: 21
--
     farsi: āheste
     exactr: тихий, медленный
     exactf: آهسته
@@ -10678,11 +10573,6 @@
     exactr: пословица, притча
     exactf: ضرب المثل
     chapter: 21
--
-    farsi: Dars-e
-    exactr: 22
-    exactf: درس
-    chapter: 22
 -
     farsi: abri
     exactr: облачный
@@ -11134,11 +11024,6 @@
     exactf: ضرر
     chapter: 22
 -
-    farsi: Dars-e
-    exactr: 23
-    exactf: درس
-    chapter: 23
--
     farsi: āhanin
     exactr: железо
     exactf: آهنین
@@ -11533,11 +11418,6 @@
     exactr: некоторые; немного
     exactf: یکمقدار
     chapter: 23
--
-    farsi: Dars-e
-    exactr: 24
-    exactf: درس
-    chapter: 24
 -
     farsi: ābanbār
     exactr: цистерна
