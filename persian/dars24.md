@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: unit
+order: 24
 title: Dozdi dar mahalle
 ---
 ## Matn – Dozdi dar mahalle

@@ -1,6 +1,7 @@
 ---
 title:	Intro
-layout: page
+layout: unit
+order: intro.md
 ---
 
 

@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: unit
+order: 26
 title: Kādo‐ye ezdevāj
 ---
 ## Matn – Kādo‐ye ezdevāj

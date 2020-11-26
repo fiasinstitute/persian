@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: unit
+order: 14
 title: Āšpazi‐ye Sāmān
 ---
 ## Matn – Āšpazi‐ye Sāmān

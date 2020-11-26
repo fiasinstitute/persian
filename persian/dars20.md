@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: unit
+order: 20
 title: Gomšode dar rāh
 ---
 ## Matn – Gomšode dar rāh

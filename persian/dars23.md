@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: unit
+order: 23
 title: Farāmuškāri
 ---
 ## Matn – Farāmuškāri

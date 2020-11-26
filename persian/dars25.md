@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: unit
+order: 25
 title: Mosābeqe‐ye futbāl
 ---
 ## Matn – Mosābeqe‐ye futbāl
