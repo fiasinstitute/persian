@@ -12,11 +12,11 @@ layout: page
 
 ![](Pictures/10000201000003DD0000038B553D6F4147967406.png)
 
-# <span id="anchor"></span>MĀ FĀRSI BALAD‐IM\!
+# <span id="anchor"></span>MĀ FĀRSI BALAD‐IM!
 
 <span id="anchor-1"></span>Be kušeš‐e Hamid Farroukh
 
-# <span id="anchor-2"></span>Mā fārsi balad‐im\!
+# <span id="anchor-2"></span>Mā fārsi balad‐im!
 
 Be kušeš‐e Hamid Farroukh
 
@@ -97,7 +97,7 @@ emkānpazir sāxt.
 Alāqemandān mitavānand barā‐ye āgāhi‐ye bištar dar bāre‐ye in xat be
 tārnamā‐ye candzabāne‐ye www.alefbaye2om.org morājee konand.
 
-"Mā fārsi balad im\!", majmue‐i ke dar dast dārid, be kušeš‐e Dr.
+"Mā fārsi balad im!", majmue‐i ke dar dast dārid, be kušeš‐e Dr.
 Farroukh dar cāhārcub‐e tarh‐i āzmāyeši az su‐ye Anjoman‐e Irāniyān
 barā‐ye kelās‐e āmuzeš‐e zabān‐e fārsi be nowjavānān‐o javānān‐e
 irānitabār farāham šode.
@@ -130,7 +130,7 @@ Sarparast‐e Anjoman‐e Irāniyān
 In ketāb dar cāhārcub‐e tarh‐i āzmāyeši az su‐ye Anjoman‐e Irāniyān
 (*Iranischer Verein, e.V.*) dar *Frankfurt* barā‐ye kelās‐e āmuzeš‐e
 zabān‐e fārsi be nowjavānān‐o javānān‐e irānitabār farāham šode. In
-ketāb barā‐ye āmuzeš be kudakān monāseb nist\!
+ketāb barā‐ye āmuzeš be kudakān monāseb nist!
 
 ## <span id="anchor-10"></span>Cerā Alefbā‐ye 2<sup>om</sup>?
 
@@ -187,7 +187,7 @@ rā dārand.
 Be nazar miresad, ke cāre‐i barā‐ye borunraft az in došvāri peydā šode,
 va ān bekārgiri‐ye yek xatt‐e dovvom dar kenār‐e xatt‐ e fārsi mibāšad.
 Alefbā‐ye 2om nām‐e tarh‐i barā‐ye hamin xāste‐ast. Hadaf jāygozini‐ye
-xatt‐e fārsi nist\! Alefbā‐ye 2om tanhā abzār‐i komaki barā‐ye peyvand‐e
+xatt‐e fārsi nist! Alefbā‐ye 2om tanhā abzār‐i komaki barā‐ye peyvand‐e
 tabār‐e dovvom bā neveštehā‐ye fārsi‐st va in forsat rā farāham mikonad,
 tā zabānāmuzān be dalil‐e došvārihā‐ye xat az āmuxtan‐e zabān xoddāri
 nakonand va cebasā dar āyande betavānand, xatt‐e fārsi rā niz
@@ -332,7 +332,7 @@ Hamid Farroukh
 
 ## <span id="anchor-18"></span>Matn – Sārā Panāhi
 
-Salām\! Man Sārā Panāhi hastam. Man dānešju‐yam. Esm‐e pedar‐e man
+Salām! Man Sārā Panāhi hastam. Man dānešju‐yam. Esm‐e pedar‐e man
 Manucehr‐ast. U mohandes‐ast. Esm‐e mādar‐am Mahnāz‐ast. Šoql‐e u
 xayyāti‐st. Nām‐e xāhar‐e man Susan va nām‐e barādar‐am Sāmān‐ast. Ānhā
 dānešāmuz hastand.
@@ -456,7 +456,7 @@ dānešāmuz hastand.
   - Ezāfe va zamirhā‐ye dārāyi tekye nadārand va bā vāže‐ye pišin xānde
     mišavand: pez*e*šk‐e m*a*n, pez*e*šk‐am.
 
-##### <span id="anchor-30"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+##### <span id="anchor-30"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 māānhāhastidimyandmanyešānašat
 
@@ -470,7 +470,7 @@ māānhāhastidimyandmanyešānašat
 8.  To va mādar \_\_\_\_\_\_\_\_\_\_ dar pārk hastid.
 9.  Sedā \_\_\_\_\_\_\_\_\_\_ boland‐ast.
 
-##### <span id="anchor-31"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+##### <span id="anchor-31"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 ešānastšomāmānhastandtoueand
 
@@ -504,9 +504,9 @@ Zabān‐e u fārsi‐st. Fārsi širin‐ast. Mā be fārsi alāqemand hastim.
 
 ### 
 
-Navid:Salām\! Esm‐e man Navid‐e. Esm‐e to ci‐ye?
+Navid:Salām! Esm‐e man Navid‐e. Esm‐e to ci‐ye?
 
-Narges:Salām\! Esm‐e man Narges‐e.
+Narges:Salām! Esm‐e man Narges‐e.
 
 Navid:Hāl‐et cetowr‐e, Narges?
 
@@ -535,7 +535,7 @@ Navid:Man‐am xub‐am. Xeyl‐i Mamnun.
 
 ### 
 
-Kāmbiz:Salām\! Esm‐e man Kāmbiz‐e. Esm‐e šomā ci‐ye?
+Kāmbiz:Salām! Esm‐e man Kāmbiz‐e. Esm‐e šomā ci‐ye?
 
 Xānom‐e Panāhi: Sob be xeyr. Man Panāhi hastam, ostād‐e šomā.
 
@@ -545,9 +545,9 @@ Xānom‐e Panāhi: Xub‐am, motšakker‐am. Hāl‐e šomā cetowr‐e?
 
 Kāmbiz:Mersi, man‐am xub‐am. Ruz‐e xub‐i dāšte bāšin.
 
-Xānom‐e Panāhi: Mamnun. Be hamcenin. Xodā negahdār\!
+Xānom‐e Panāhi: Mamnun. Be hamcenin. Xodā negahdār!
 
-Navid:Xodā hāfez\!
+Navid:Xodā hāfez!
 
 #### <span id="anchor-37"></span>Nokte
 
@@ -571,9 +571,9 @@ Navid:Xodā hāfez\!
 
 ### <span id="anchor-39"></span>Ebārathā/vāžehā
 
-Sob be xeyr\! – Zohr be xeyr\! – Asr be xeyr – Šab be xeyr\!
+Sob be xeyr! – Zohr be xeyr! – Asr be xeyr – Šab be xeyr!
 
-##### <span id="anchor-40"></span>Bā estefāde az ebārathā/vāžehā goftoguhā‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Jomlehā‐ye behamrixte rā morattab kon\!
+##### <span id="anchor-40"></span>Bā estefāde az ebārathā/vāžehā goftoguhā‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jomlehā‐ye behamrixte rā morattab kon!
 
 |                                |                     |
 | ------------------------------ | ------------------- |
@@ -583,12 +583,12 @@ Sob be xeyr\! – Zohr be xeyr\! – Asr be xeyr – Šab be xeyr\!
 | cetowr / et / e / hāl / ?      |                     |
 | am / xub / , / mersi / .       |                     |
 
-##### <span id="anchor-41"></span>Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-41"></span>Jāhā‐ye xāli rā por kon!
 
-Mahin:Sob \_\_\_\_\_\_\_\_\_\_\! \_\_\_\_\_\_\_\_\_\_‐e man Mahin‐e.
+Mahin:Sob \_\_\_\_\_\_\_\_\_\_! \_\_\_\_\_\_\_\_\_\_‐e man Mahin‐e.
 Esm‐e \_\_\_\_\_\_\_\_\_\_ ci‐ye?
 
-Āqā‐ye Afšār: Salām\! Man Afšār \_\_\_\_\_\_\_\_\_\_.
+Āqā‐ye Afšār: Salām! Man Afšār \_\_\_\_\_\_\_\_\_\_.
 
 Mahin:Xošbaxt‐am. \_\_\_\_\_\_\_\_\_\_‐e šomā \_\_\_\_\_\_\_\_\_\_‐e,
 Āqā‐ye Afšār?
@@ -596,11 +596,11 @@ Mahin:Xošbaxt‐am. \_\_\_\_\_\_\_\_\_\_‐e šomā \_\_\_\_\_\_\_\_\_\_‐e,
 Āqā‐ye Afšār: \_\_\_\_\_\_\_\_\_\_‐am, motšakker‐am.
 
 Mahin:Ruz‐e xub‐i dāšte \_\_\_\_\_\_\_\_\_\_. \_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\!
+\_\_\_\_\_\_\_\_\_\_!
 
-Āqā‐ye Afšār: \_\_\_\_\_\_\_\_\_\_. Šomā ham hamintowr. Xodā negahdār\!
+Āqā‐ye Afšār: \_\_\_\_\_\_\_\_\_\_. Šomā ham hamintowr. Xodā negahdār!
 
-##### <span id="anchor-42"></span>Az goftāri be neveštāri tabdil kon\!
+##### <span id="anchor-42"></span>Az goftāri be neveštāri tabdil kon!
 
 |                               |                        |
 | ----------------------------- | ---------------------- |
@@ -608,7 +608,7 @@ Mahin:Ruz‐e xub‐i dāšte \_\_\_\_\_\_\_\_\_\_. \_\_\_\_\_\_\_\_\_\_
 | Hāl‐e šomā cetowr‐e?          | Hāl‐e šomā cetowr‐ast? |
 | Hāl‐etun xub‐e?               |                        |
 | Motšakker‐am. Šomā cetowr‐in? |                        |
-| Ruz‐e xub‐i dāšte bāšin\!     |                        |
+| Ruz‐e xub‐i dāšte bāšin!     |                        |
 | Esm‐e man Šahrām‐e.           |                        |
 | Hāl‐et cetowr‐e?              |                        |
 | Hāl‐et xub‐e?                 |                        |
@@ -687,7 +687,7 @@ Mahin:Ruz‐e xub‐i dāšte \_\_\_\_\_\_\_\_\_\_. \_\_\_\_\_\_\_\_\_\_
 | rādiyo                    | radio                            | رادیو                 | радио                           |
 | rang                      | color                            | رنگ                   | цвет                            |
 | rāzi                      | satisfied                        | راضی                  | удовлетворенный                 |
-| Ruz-e xub-i dāљte bāљid\! | Have a niceday\!                 | روزه خوبی دسته بسید\! | Имейте niceday\!                |
+| Ruz-e xub-i dāљte bāљid! | Have a niceday!                 | روزه خوبی دسته بسید! | Имейте niceday!                |
 | љab be xeyr               | good night                       | صعب به خیر            | спокойной ночи                  |
 | sabz                      | green                            | سبز                   | зеленый                         |
 | salām                     | hello; greet                     | سلام                  | привет; приветствовать          |
@@ -706,8 +706,8 @@ Mahin:Ruz‐e xub‐i dāšte \_\_\_\_\_\_\_\_\_\_. \_\_\_\_\_\_\_\_\_\_
 | xayyāt                    | tailor                           | خیاط                  | портной                         |
 | xayyāti                   | tailoring; tailor shop           | خیاطی                 | пошив одежды; портной магазин   |
 | xeyl-i                    | very; much; many; lot            | خیلی                  | очень; много; многие; серия     |
-| Xodā hāfez                | Goodbye\!; Bye\!                 | خدا حافظ              | До свидания\!; Bye\!            |
-| Xodā negahdār             | Goodbye\!; Bye\!                 | خدا نگه‌دار           | До свидания\!; Bye\!            |
+| Xodā hāfez                | Goodbye!; Bye!                 | خدا حافظ              | До свидания!; Bye!            |
+| Xodā negahdār             | Goodbye!; Bye!                 | خدا نگه‌دار           | До свидания!; Bye!            |
 | xoљbaxt-am                | pleased                          | خو‌س بختم             | довольным                       |
 | xoљhāl                    | happy; glad                      | خوش‌حال               | счастливым; рад                 |
 | xub                       | good; well                       | خوب                   | хорошо; хорошо                  |
@@ -720,12 +720,12 @@ Dorost yā qalat?
 
 1\. dorost – 2. dorost – 3. qalat – 4. dorost
 
-<span id="anchor-44"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+<span id="anchor-44"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 1\. ‐aš – 2. ‐yand – 3. hastid – 4. ānhā – 5. mā – 6. ‐im – 7. man – 8.
 ‐at – 9. ‐yešān
 
-<span id="anchor-45"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+<span id="anchor-45"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 1\. ‐ešān – 2. ‐ast – 3. ‐e – 4. to – 5. hastand – 6. ‐and – 7. u – 8.
 ‐mān – 9. šomā
@@ -734,19 +734,19 @@ Dorost yā qalat?
 
 1\. qalat – 2. qalat – 3. dorost – 4. dorost – 5. dorost
 
-<span id="anchor-47"></span>Jomlehā‐ye behamrixte rā morattab kon\!
+<span id="anchor-47"></span>Jomlehā‐ye behamrixte rā morattab kon!
 
 Esm‐e to ci‐ye? – Hāl‐et cetowr e? – Xub‐am, mersi.
 
-<span id="anchor-48"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-48"></span>Jāhā‐ye xāli rā por kon!
 
 be xeyr – Esm – šomā – hastam – Hāl – cetowr – Xub – bāšin – Xodā –
 hāfez – mamnun
 
-<span id="anchor-49"></span>Az goftāri be neveštāri tabdil kon\!
+<span id="anchor-49"></span>Az goftāri be neveštāri tabdil kon!
 
 Hāl‐etān xub‐ast? – Motešakker‐am. Šomā cetowr‐id? – Ruz‐e xub‐i dāšte
-bāšid\! – Esm‐e man Šahrām‐ast. – Hāl‐at cetowr‐ast?
+bāšid! – Esm‐e man Šahrām‐ast. – Hāl‐at cetowr‐ast?
 
 – Hāl‐at xub‐ast?
 
@@ -826,7 +826,7 @@ man va toman‐o to
 
   - Ezāfe mitavānad edāme dāšte bāšad: ketāb‐e pedar‐e Navid.
 
-##### <span id="anchor-61"></span>Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-61"></span>Jāhā‐ye xāli rā por kon!
 
 1.  Barādar‐e Mahnāz yek doxtar \_\_\_\_\_\_\_\_\_\_ (dāštan).
 2.  Ālmān dar qārre‐ye Orupā \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_
@@ -843,7 +843,7 @@ man va toman‐o to
 11. Ānhā do pesar \_\_\_\_\_\_\_\_\_\_ (dāštan).
 12. Nām‐e xānevādegi‐ye mā Bahrāmi \_\_\_\_\_\_\_\_\_\_ (budan).
 
-##### <span id="anchor-62"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+##### <span id="anchor-62"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 hastanddārimamdāradastdust dāriim
 
@@ -855,7 +855,7 @@ hastanddārimamdāradastdust dāriim
 6.  Parviz‐o Piruz barādar \_\_\_\_\_\_\_\_\_\_.
 7.  To hatman ājil‐o širini \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_.
 
-##### <span id="anchor-63"></span>Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-63"></span>Jāhā‐ye xāli rā por kon!
 
 1.  Emruz ta’til \_\_\_\_\_\_\_\_\_\_ (budan).
 2.  Ānhā mas’uliyat \_\_\_\_\_\_\_\_\_\_ (dāštan).
@@ -917,7 +917,7 @@ Mahin Xānum
 Itāliyā, itāliyāyi – Farānse, farānsavi – Engelestān, engelisi – Ālmān,
 ālmāni – Āmrikā, āmrikāyi – Žāpon, žāponi – Torkiye, Tork
 
-##### <span id="anchor-69"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-69"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
 
 Nāder:Nedā, to \_\_\_\_\_\_\_\_\_\_ hasti?
 
@@ -926,7 +926,7 @@ Nedā: \_\_\_\_\_\_\_\_\_\_ tehrāni‐yam, to \_\_\_\_\_\_\_\_\_\_‐e
 
 Nāder:Man Esfahāni‐yam.
 
-##### <span id="anchor-70"></span>Az goftāri be neveštāri tabdil kon\!
+##### <span id="anchor-70"></span>Az goftāri be neveštāri tabdil kon!
 
 **GoftāriNeveštāri**
 
@@ -942,18 +942,18 @@ Dorost yā qalat?
 
 1\. qalat – 2. qalat – 3. dorost – 4. dorost
 
-<span id="anchor-72"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-72"></span>Jāhā‐ye xāli rā por kon!
 
 1\. dārad – 2. qarār dārad – 3. ‐ast – 4. hastim – 5. dust dārid – 6.
 qarār dārad – 7. hasti – 8. hastam – 9. hastand – 10. dārim – 11. dārand
 – 12. ‐ast
 
-<span id="anchor-73"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+<span id="anchor-73"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 1.‐ im – 2. ‐st – 3. ‐am – 4. dārim – 5. dārad – 6. hastand – 7. dust
 dāri
 
-<span id="anchor-74"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-74"></span>Jāhā‐ye xāli rā por kon!
 
 1\. ‐ast – 2. dārand – 3. ‐ast – 4. ‐ast – 5. dust dāram – 6. dārad – 7.
 ‐ast – 8. ‐st – 9. dārad – 10. dārim – 11. hastand – 12. dārad
@@ -963,11 +963,11 @@ dāri
 1\. dorost – 2. qalat – 3. qalat – 4. dorost – 5. qalat – 6. dorost – 7.
 dorost
 
-<span id="anchor-76"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-76"></span>Jāhā‐ye xāli rā por kon!
 
 kojāyi – Man – ahl – kojā
 
-<span id="anchor-77"></span>Az goftāri be neveštāri tabdil kon\!
+<span id="anchor-77"></span>Az goftāri be neveštāri tabdil kon!
 
 Bebaxšid, šomā ahl‐e kojā‐yid? – Parvin Xānom ozr mixāham, šomā kojāyi
 hastid?
@@ -1086,7 +1086,7 @@ mixarad, vali Mahnāz hamiše mibaxšad‐aš.
     sāxte mišavad: U dar tābestān mosāferat mikonad. Mā bā māšin
     miravim. Ānhā dar dānešgāh qazā mixorand.
 
-##### <span id="anchor-91"></span>Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-91"></span>Jāhā‐ye xāli rā por kon!
 
 1.  U emruz yek kerāvāt \_\_\_\_\_\_\_\_\_\_ (xaridan).
 2.  Man dar livān āb \_\_\_\_\_\_\_\_\_\_ (rixtan).
@@ -1105,7 +1105,7 @@ mixarad, vali Mahnāz hamiše mibaxšad‐aš.
 10. Šomā emšab mosābeqe‐ye futbāl rā bā ham \_\_\_\_\_\_\_\_\_\_
     \_\_\_\_\_\_\_\_\_\_ (tamāšā kardan).
 
-##### <span id="anchor-92"></span>Bā fe’lhā‐ye zir yek jomle besāz\!
+##### <span id="anchor-92"></span>Bā fe’lhā‐ye zir yek jomle besāz!
 
 |                    |                              |
 | ------------------ | ---------------------------- |
@@ -1119,7 +1119,7 @@ mixarad, vali Mahnāz hamiše mibaxšad‐aš.
 | yād gereftan (gir) |                              |
 | kār kardan (kon)   |                              |
 
-##### <span id="anchor-93"></span>Jāhā‐ye xāli rā bā zamir‐e maf’uli por kon\!
+##### <span id="anchor-93"></span>Jāhā‐ye xāli rā bā zamir‐e maf’uli por kon!
 
 1.  Pedarbozorg‐o mādarbozorg dar hayāt‐and. Man mibinam
     \_\_\_\_\_\_\_\_\_\_ .
@@ -1180,7 +1180,7 @@ Pesar – mādar – pedar – barādar – xāhar – zan – šowhar
 Ārāyešgar – me’mār – mekānik – mohandes – parastār – pezešk – vakil –
 nānvā – naqqāš
 
-##### <span id="anchor-99"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-99"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
 
 Parviz: Minu, to \_\_\_\_\_\_\_\_\_\_‐i?
 
@@ -1189,7 +1189,7 @@ ci‐ye?
 
 Parviz: \_\_\_\_\_\_\_\_\_\_ ruznāmenegār \_\_\_\_\_\_\_\_\_\_.
 
-##### <span id="anchor-100"></span>Az goftāri be neveštāri tabdil kon\!
+##### <span id="anchor-100"></span>Az goftāri be neveštāri tabdil kon!
 
 **GoftāriNeveštāri**
 
@@ -1207,7 +1207,7 @@ Dorost yā qalat?
 
 1\. dorost – 2. qalat – 3. dorost – 4. dorost – 5. qalat
 
-<span id="anchor-102"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-102"></span>Jāhā‐ye xāli rā por kon!
 
 1\. mixarad – 2. mirizam – 3. mimānim – 4. mišuyad – 5. bar migardand –
 6. sohbat mikonand – 7. kār mikonad – 8. por mikonad
@@ -1215,7 +1215,7 @@ Dorost yā qalat?
 – 9. ta’rif mikonam – 10. tamāšā mikonid
 
 <span id="anchor-103"></span>Jāhā‐ye xāli rā bā zamir‐e maf’uli por
-kon\!
+kon!
 
 1\. ‐ešān – 2. ‐aš – 3. ‐at – 4. ‐etān
 
@@ -1223,11 +1223,11 @@ kon\!
 
 1\. qalat – 2. dorost – 3. qalat – 4. dorost – 5. dorost
 
-<span id="anchor-105"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-105"></span>Jāhā‐ye xāli rā por kon!
 
 cekāre – šoql – to – Man – ‐am
 
-<span id="anchor-106"></span>Az goftāri be neveštāri tabdil kon\!
+<span id="anchor-106"></span>Az goftāri be neveštāri tabdil kon!
 
 Šoql‐ešān ci‐st? – Šomā cekāre‐id? – Mādar‐e man dandānpezešk‐ast.
 
@@ -1326,8 +1326,8 @@ daftar**hā**
 
   - Pas az *ce* esm hamiše nāmošaxxas‐ast:
     
-      - oCe ketāb‐i\!
-      - o Ce ketāb‐e jāleb‐i\! o Ce ketāb‐i mixāni?
+      - oCe ketāb‐i!
+      - o Ce ketāb‐e jāleb‐i! o Ce ketāb‐i mixāni?
 
 ### <span id="anchor-120"></span>Āvā‐ye miyānji
 
@@ -1342,7 +1342,7 @@ Emruz candšanbe‐ast?
 
 **šanbeyekšanbe  došanbe  sešanbecāhāršanbe  panjšanbejom’e / ādine**
 
-##### <span id="anchor-122"></span>Bā “‐hā” va/yā “‐ān” jam’ beband\!
+##### <span id="anchor-122"></span>Bā “‐hā” va/yā “‐ān” jam’ beband!
 
 |  |         |                              |         |               |               |
 |  | ------- | ---------------------------- | ------- | ------------- | ------------- |
@@ -1365,7 +1365,7 @@ Emruz candšanbe‐ast?
 |           |         |
 | kešāvarz  | saxre   |
 
-##### <span id="anchor-123"></span>Az mošaxxas be nāmošaxxas tabdil kon\!
+##### <span id="anchor-123"></span>Az mošaxxas be nāmošaxxas tabdil kon!
 
 |                                              |                         |
 | -------------------------------------------- | ----------------------- |
@@ -1375,18 +1375,18 @@ Emruz candšanbe‐ast?
 | Mard‐e nāšenās‐o xatarnāk dar xiyābān‐ast.   |                         |
 | Mardān‐e nāšenās‐o xatarnāk dar xiyābān‐and. |                         |
 
-##### <span id="anchor-124"></span>Jomlehā‐ye behamrixte rā morattab kon\!
+##### <span id="anchor-124"></span>Jomlehā‐ye behamrixte rā morattab kon!
 
 |                                                  |              |
 | ------------------------------------------------ | ------------ |
 | Nāmorattab                                       | Morattab     |
-| pesar / i / ce / \!                              | Ce pesar‐i\! |
+| pesar / i / ce / !                              | Ce pesar‐i! |
 | mixāhi / ce / i / māšin / ?                      |              |
-| ce / i / seyl / \!                               |              |
+| ce / i / seyl / !                               |              |
 | eškāl / dārad / i / ce / ?                       |              |
-| yi / sarmā / ce / \!                             |              |
-| dānešāmuz / ce / bāhuš / e / zerang / o / i / \! |              |
-| nasim / ce / i / xub / \!                        |              |
+| yi / sarmā / ce / !                             |              |
+| dānešāmuz / ce / bāhuš / e / zerang / o / i / ! |              |
+| nasim / ce / i / xub / !                        |              |
 
 ## <span id="anchor-125"></span>Irān‐o irāni – Tehrān
 
@@ -1444,7 +1444,7 @@ Bābak:Bimārestān‐e Šerkat‐e Naft, Xiyābun‐e Hāfez, Kuce‐ye Iraj, p
 Ārāyešgāh – resturān – matab – ta’mirgāh – bimārestān – darmāngāh –
 dādgāh – kārxune (kārxāne) – akkāsi – kalāntari
 
-##### <span id="anchor-130"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-130"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
 
 Xānom‐e Širāzi:Bebxašin Āqā‐ye Bahrāmi, šomā \_\_\_\_\_\_\_\_\_\_ kār
 mikonin?
@@ -1455,7 +1455,7 @@ Xānom‐e Širāzi: Nešāni‐ye \_\_\_\_\_\_\_\_\_\_‐e kār‐etun ci‐ye?
 Āqā‐ye Bahrāmi: \_\_\_\_\_\_\_\_\_\_‐e Ferdowsi, \_\_\_\_\_\_\_\_\_\_‐e
 20.
 
-##### <span id="anchor-131"></span>Az goftāri be neveštāri tabdil kon\!
+##### <span id="anchor-131"></span>Az goftāri be neveštāri tabdil kon!
 
 **GoftāriNeveštāri**
 
@@ -1473,7 +1473,7 @@ Dorost yā qalat?
 
 1\. qalat – 2. dorost – 3. qalat – 4. dorost – 5. qalat
 
-<span id="anchor-133"></span>Bā “‐hā” va/yā “‐ān” jam’ beband\!
+<span id="anchor-133"></span>Bā “‐hā” va/yā “‐ān” jam’ beband!
 
 parandehā; parandegān – šomārehā – deraxthā; deraxtān – mizhā – darrehā
 – qafasehā – telefonhā – dāneškadehā – buqhā – kešāvarzhā; kešāvarzān
@@ -1481,25 +1481,25 @@ parandehā; parandegān – šomārehā – deraxthā; deraxtān – mizhā – 
 bastegān – saqfhā – monšihā; monšiyān – tufānhā – daryācehā – oqyānushā
 – saxrehā
 
-<span id="anchor-134"></span>Az mošaxxas be nāmošaxxas tabdil kon\!
+<span id="anchor-134"></span>Az mošaxxas be nāmošaxxas tabdil kon!
 
 Mard‐e nāšenās‐i dar xiyābān‐ast. – Mard‐e nāšenās‐o xatarnāk‐i dar
 xiyābān‐ast. – Mardān‐e nāšenās‐o xatarnāk‐i dar xiyābān‐and.
 
-<span id="anchor-135"></span>Jomlehā‐ye behamrixte rā morattab kon\!
+<span id="anchor-135"></span>Jomlehā‐ye behamrixte rā morattab kon!
 
-Ce māšin‐i mixāhi? – Ce seyl‐i\! – Ce eškāl‐i dārad? – Ce sarmā‐yi\! –
-Ce dānešāmuz‐e bāhuš‐o zerang‐i\! – Ce nasim‐e xub‐i\!
+Ce māšin‐i mixāhi? – Ce seyl‐i! – Ce eškāl‐i dārad? – Ce sarmā‐yi! –
+Ce dānešāmuz‐e bāhuš‐o zerang‐i! – Ce nasim‐e xub‐i!
 
 <span id="anchor-136"></span>Dorost yā qalat?
 
 1\. dorost – 2. dorost – 3. dorost – 4. qalat – 5. qalat
 
-<span id="anchor-137"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-137"></span>Jāhā‐ye xāli rā por kon!
 
 kojā – kār mikonam – mahall – Xiyābun – pelāk
 
-<span id="anchor-138"></span>Az goftāri be neveštāri tabdil kon\!
+<span id="anchor-138"></span>Az goftāri be neveštāri tabdil kon!
 
 Kojā kār mikonid? – Ādres‐ešān ci‐st? – Man dar Xiyābān‐e Āzādi zendegi
 mikonam.
@@ -1697,7 +1697,7 @@ zemestānhā be eski miravad.
 | šanbe, 31<sup>om</sup>‐e farvardin‐e 1383 | 31<sup>om</sup>‐e far. ‐e 1383 | 31‐01‐83        | farvardin‐e 83 |
 | šanbe, 31‐e farvardin‐e 1383              | 31‐e far. ‐e 1383              | 31‐01‐1383 h.š. | far. ‐e 83     |
 
-##### <span id="anchor-153"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+##### <span id="anchor-153"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 bozorgtarsālemtarinderāzisaxtgirtarkohnetarjavāntarintamizipirtarbāhuštarin
 
@@ -1739,7 +1739,7 @@ xānetekāni mikonand va lebāshā‐vo vasāyel‐e now mixarand.
 Šab‐e cāhāršanbe‐ye āxar‐e sāl, ya’ni āxarin sešanbešab‐e sāl,
 Cāhāršanbesuri nām dārad. Dar in šab irāniyān ātašbāzi mikonand va az
 ru‐ye ātaš miparand‐o āhang‐e viže‐i mixānand: *Zardi‐* *ye man az to,
-sorxi‐ye to az man\!*
+sorxi‐ye to az man!*
 
 Hengām‐e šoru‐e sāl hame bā lebāshā‐ye now dowr‐e Sofre‐ye Haftsin
 minešinand. Dar Sofre‐ye Haftsin dar kenār‐e cizhā‐ye digar haft
@@ -1755,7 +1755,7 @@ Ruz‐e sizdahom‐e farvardin ruz‐e āxar‐e ta’tilāt‐ast. Dar in ruz m
 be gardeš‐e dastejam’i miravand va tamām‐e ruz rā be tafrih
 migozarānand. In ruz Sizdahbedar nām dārad.
 
-##### <span id="anchor-156"></span>Pāsox bedeh\!
+##### <span id="anchor-156"></span>Pāsox bedeh!
 
 1.  Irāniyān dar ruzhā‐ye qabl az sāl‐e now cekār mikonand?
 2.  Dar Šab‐e Cāhāršanbesuri cekār mikonand?
@@ -1793,7 +1793,7 @@ Faribā: Kuciktarin xāhar‐et cand sāl‐eš‐e? Kāmrān: Šunzdah sāl‐e
 Nuzdah sāl‐am‐e – sevvomin bacce – barādarā‐m az man bozorgtar‐an –
 cāhārdah sāl‐eš‐e
 
-##### <span id="anchor-160"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-160"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
 
 Xānom‐e Nāmju: Bebxašin Āqā‐ye Āzād, šomā \_\_\_\_\_\_\_\_\_\_ sāl
 dārin?
@@ -1807,7 +1807,7 @@ bozorgtar dāram. Xānom‐e Nāmju: Bozorgtarin barāder‐etun
 
 Āqā‐ye Āzād:Cehelonoh sāl \_\_\_\_\_\_\_\_\_\_‐e.
 
-##### <span id="anchor-161"></span>Az goftāri be neveštāri tabdil kon\!
+##### <span id="anchor-161"></span>Az goftāri be neveštāri tabdil kon!
 
 **GoftāriNeveštāri**
 
@@ -1819,7 +1819,7 @@ Mādar‐etun cand sāl‐ešun‐e?
 
 Barādarā‐m az man kuciktar‐an.
 
-Ce omr‐e derāz‐i dāre\!
+Ce omr‐e derāz‐i dāre!
 
 ## <span id="anchor-162"></span>Vāžehā-ye dars-e 
 
@@ -1829,7 +1829,7 @@ Dorost yā qalat?
 
 1\. dorost – 2. qalat – 3. dorost – 4. qalat – 5. dorost
 
-<span id="anchor-163"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+<span id="anchor-163"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 1\. derāzi – 2. bāhuštarin – 3. tamizi – 4. bozorgtar – 5. saxtgirtar –
 6. javāntarin – 7. pirtar – 8. sālemtarin – 9. kohnetar
@@ -1838,15 +1838,15 @@ Dorost yā qalat?
 
 1\. b) – 2. d) – 3. d) – 4. c) – 5. c)
 
-<span id="anchor-165"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-165"></span>Jāhā‐ye xāli rā por kon!
 
 cand – dāram – candomin – sevvomin – cand – ‐eš
 
-<span id="anchor-166"></span>Az goftāri be neveštāri tabdil kon\!
+<span id="anchor-166"></span>Az goftāri be neveštāri tabdil kon!
 
 Cand sāl dārid? – Man sevvomin farzand‐e xānevāde‐am. – Mādar‐etān cand
 sāl‐ešān‐ast? – Barādarhā‐yam az man kucaktar‐ and. – Ce omr‐e derāz‐i
-dārad\!
+dārad!
 
 # <span id="anchor-167"></span>Pitzā‐ye hāzeri
 
@@ -1859,7 +1859,7 @@ Pitzā‐ye hāzeri tu firizer‐e.* *Lotfan fer‐o rowšan kon va bā harārat
 180 daraje barā‐ye 10 daiqe garm kon. Ba’d cāhār tā pitzā az tu‐ye
 firizer dar biyār‐o be moddat‐e 12 daiqe tu fer bezār‐o be baccehā xabar
 bede. Šām‐etun‐o boxorin‐o montazer‐e man namunin. Rāsti, golā‐ye
-bāqca‐r‐am lotfan āb bede. Mamnun‐am aziz‐am. Tā ba’d\!*"
+bāqca‐r‐am lotfan āb bede. Mamnun‐am aziz‐am. Tā ba’d!*"
 
 #### <span id="anchor-169"></span>Nokte
 
@@ -1898,7 +1898,7 @@ bāqca‐r‐am lotfan āb bede. Mamnun‐am aziz‐am. Tā ba’d\!*"
 3.  Pitzāhā‐ye hāzeri dar yaxcāl‐and.
 4.  Āmāde kardan‐e pitzā dar fer ruyehamrafte 22 daqiqe tul mikešad.
 
-##### <span id="anchor-171"></span>Matn‐e yāddāšt‐e Mahnāz rā az goftāri be neveštāri tabdil kon\!
+##### <span id="anchor-171"></span>Matn‐e yāddāšt‐e Mahnāz rā az goftāri be neveštāri tabdil kon!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1929,7 +1929,7 @@ bordan (bar)neveštan (nevis)
 #### <span id="anchor-174"></span>Nokte
 
   - “Be‐“ tekyebar‐ast: b*e*barid.
-  - Hālat‐e amri‐ye budan *bāš*‐ast: Šomā injā hastid. Injā bāšid\!
+  - Hālat‐e amri‐ye budan *bāš*‐ast: Šomā injā hastid. Injā bāšid!
   - Hargāh sedāhā‐ye “av” dar yek hejā qarār begirand, be “ow” tabdil
     mišavand: bešavid vali bešow.
 
@@ -1951,7 +1951,7 @@ bordan (bar)neveštan (nevis)
   - Agar setāk‐e hāl bā “ā” / “u” pāyān yābad, gune‐ye digar‐i ham
     dārad, ke bā “āy”/“uy” pāyān miyābad: afzudan (afzā(y)), jostan
     (ju(y)). In gune bištar dar še’r be kār miravad:
-  - *Conin goft peyqambar‐e nāmjuyze gahvāre tā gur dāneš bejuy\!*
+  - *Conin goft peyqambar‐e nāmjuyze gahvāre tā gur dāneš bejuy!*
   - “Ze” gune‐i az “az”‐ast, ke dar še’r be kār miravad.
 
 ### <span id="anchor-177"></span>Nafy
@@ -1978,7 +1978,7 @@ andāxtan (**a**ndāz)āvardan (**ā**var)oftādan (**o**ft)
 
 na**y**andāzna**y**āvarna**y**oft
 
-##### <span id="anchor-180"></span>Jomlehā‐ye zir rā be hālat‐e amri tabdil kon\!
+##### <span id="anchor-180"></span>Jomlehā‐ye zir rā be hālat‐e amri tabdil kon!
 
 **AxbāriAmri**
 
@@ -2000,27 +2000,27 @@ To qabul mikoni.
 
 To dar harekat hasti.
 
-##### <span id="anchor-181"></span>Jomlehā‐ye zir rā manfi kon\!
+##### <span id="anchor-181"></span>Jomlehā‐ye zir rā manfi kon!
 
 **MosbatManfi**
 
 Bā šomā be Tehrān miāyam.
 
-Lotfan injā benešinid\!
+Lotfan injā benešinid!
 
-Emšab dar in hotel bemānid\!
+Emšab dar in hotel bemānid!
 
 Zanamu‐vo zandāyi‐ye man nārāhat hastand.
 
 Mā az šomā yād migirim.
 
-Nazdiktar biāyid\!
+Nazdiktar biāyid!
 
 Emruz mehmān‐e mā hastand.
 
-Āb bepāš\!
+Āb bepāš!
 
-Tekān bexor\!
+Tekān bexor!
 
 Šāh be xalabān e’temād dārad.
 
@@ -2107,7 +2107,7 @@ bepicin
 Samt‐e cap – samt‐e rāst – dast‐e cap – dast‐e rāst – mostaqim Yetarafe
 – vorudmamnu’
 
-##### <span id="anchor-188"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-188"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
 
 Faršād:Bebxašin xānum, Pārk‐e Lāle \_\_\_\_\_\_\_\_\_\_‐st?
 
@@ -2126,28 +2126,28 @@ Dorost yā qalat?
 1\. dorost – 2. qalat – 3. qalat – 4. dorost
 
 <span id="anchor-190"></span>Matn‐e yāddāšt‐e Mahnāz rā az goftāri be
-neveštāri tabdil kon\!
+neveštāri tabdil kon!
 
 Aziz‐am, man emruz dirtar be xāne bar migardam. Pitzā‐ye hāzeri dar
 ferizer‐ast. Lotfan fer rā rowšan kon va bā harārat‐e 180 daraje barā‐ye
 10 daqiqe garm kon. Ba’d cāhār tā pitzā az tu‐ye ferizer dar biyāvar‐o
 be moddat‐e 12 daqiqe dar fer begozār‐o be baccehā xabar bedeh. Šām‐etān
 rā bexorid‐o montazer‐e man namānid. Rāsti, golhā‐ye bāqce rā ham lotfan
-āb bedeh. Mamnun‐am aziz‐am. Tā ba’d\!
+āb bedeh. Mamnun‐am aziz‐am. Tā ba’d!
 
 <span id="anchor-191"></span>Jomlehā‐ye zir rā be hālat‐e amri tabdil
-kon\!
+kon!
 
-Nāme benevis\! – Otu bekešid\! – Be dānešgāh beravid\! – Emruz dar xāne
-bāš\! – Barā‐yaš gol biyāvarid\! – Dar dām nayoft\! – Qabul kon\! – Yek
-maqāle benevisid\! – Dar harekat bāš\!
+Nāme benevis! – Otu bekešid! – Be dānešgāh beravid! – Emruz dar xāne
+bāš! – Barā‐yaš gol biyāvarid! – Dar dām nayoft! – Qabul kon! – Yek
+maqāle benevisid! – Dar harekat bāš!
 
-<span id="anchor-192"></span>Jomlehā‐ye zir rā manfi kon\!
+<span id="anchor-192"></span>Jomlehā‐ye zir rā manfi kon!
 
-Bā šomā be Tehrān nemiāyam. – Lotfan injā nanešinid\! – Emšab dar in
-hotel namānid\! – Zanamu‐vo zandāyi‐ye man nārāhat nistand. – Mā az šomā
-yād nemigirim. – Nazdiktar nayāyid\! – Emruz mehmān‐e mā nistand. – Āb
-napāš\! – Tekān naxor\! – Šāh be xalabān e’temād nadārad. –
+Bā šomā be Tehrān nemiāyam. – Lotfan injā nanešinid! – Emšab dar in
+hotel namānid! – Zanamu‐vo zandāyi‐ye man nārāhat nistand. – Mā az šomā
+yād nemigirim. – Nazdiktar nayāyid! – Emruz mehmān‐e mā nistand. – Āb
+napāš! – Tekān naxor! – Šāh be xalabān e’temād nadārad. –
 Šowharamme‐vo šowharxāle‐ye man qadkutāh nistand. – In xānande
 āhanghā‐ye šād nemixānad. – Man be mojassamesāzi alāqemand nistam. –
 Man dar māh‐e esfand tavallod nadāram.
@@ -2156,7 +2156,7 @@ Man dar māh‐e esfand tavallod nadāram.
 
 1\. qalat – 2. dorost – 3. dorost – 4. qalat – 5. dorost
 
-<span id="anchor-194"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-194"></span>Jāhā‐ye xāli rā por kon!
 
 kojā – mostaqim – nareside – cap – ye’tarafe – Mamnun – Xāheš – mikonam
 
@@ -2276,7 +2276,7 @@ bištar az raftan be konsert dust nadārad.
 |                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
 | har                      | hic            | hame             | barx‐i  ba’z‐i  hickodām | aqlab                                                 | hickas                | hicjā                 | hamejā                | harkas                | harjā |
 
-1.  Be \_\_\_\_\_\_\_\_\_\_ kas‐i ke mixāhi, begu\!
+1.  Be \_\_\_\_\_\_\_\_\_\_ kas‐i ke mixāhi, begu!
 2.  \_\_\_\_\_\_\_\_\_\_ yek jur fekr mikonad.
 3.  \_\_\_\_\_\_\_\_\_\_ hamin‐ast.
 4.  Az \_\_\_\_\_\_\_\_\_\_‐ye kārmandān motešakker‐am.
@@ -2286,7 +2286,7 @@ bištar az raftan be konsert dust nadārad.
 8.  Bā \_\_\_\_\_\_\_\_\_\_ az ānhā āšnā hastam.
 9.  \_\_\_\_\_\_\_\_\_\_‐e mardom kār kardan rā dust dārand.
 10. \_\_\_\_\_\_\_\_\_\_ rā dust nadāram.
-11. Be \_\_\_\_\_\_\_\_\_\_ e’temād nakon\!
+11. Be \_\_\_\_\_\_\_\_\_\_ e’temād nakon!
 12. Bā to \_\_\_\_\_\_\_\_\_\_ nemiāyam.
 
 ##### <span id="anchor-205"></span>Sāat cand‐ast?
@@ -2305,7 +2305,7 @@ bištar az raftan be konsert dust nadārad.
 
 09:50
 
-##### <span id="anchor-206"></span>Barā‐ye harkodām az javābhā‐ye zir yek soāl benevis\!
+##### <span id="anchor-206"></span>Barā‐ye harkodām az javābhā‐ye zir yek soāl benevis!
 
 |                                              |                |
 | -------------------------------------------- | -------------- |
@@ -2357,7 +2357,7 @@ Farhād:Sešanbe. Cetowr mage?
 
 Farah:Bāzi‐ye Irān‐o Kore emruz‐e?
 
-Farhād:Āre. Ce bāzi‐ye mohemm‐i\!
+Farhād:Āre. Ce bāzi‐ye mohemm‐i!
 
 Farah:Sāat‐e cand?
 
@@ -2403,7 +2403,7 @@ panšanbe (panjšanbe) – jom’e
 Konsert‐e Ebi – film‐e sinamāyi – mosābeqe‐ye tenis – paxš‐e mostaqim‐e
 futbāl – arusi‐ye Minā – jašn‐e tavallod‐e Bābak
 
-##### <span id="anchor-212"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-212"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
 
 Nāzi:Farhād, fardā \_\_\_\_\_\_\_\_\_\_‐st?
 
@@ -2417,7 +2417,7 @@ Nāzi:\_\_\_\_\_\_\_\_\_\_‐e \_\_\_\_\_\_\_\_\_\_.
 
 Farhād:Pas biyā xune‐ye mā. Mā ye \_\_\_\_\_\_\_\_\_\_‐e bozorg dārim.
 
-##### <span id="anchor-213"></span>Az goftāri be neveštāri tabdil kon\!
+##### <span id="anchor-213"></span>Az goftāri be neveštāri tabdil kon!
 
 **GoftāriNeveštāri**
 
@@ -2441,7 +2441,7 @@ Dorost yā qalat?
 
 1\. qalat – 2. qalat – 3. dorost – 4. dorost – 5. dorost
 
-<span id="anchor-215"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+<span id="anchor-215"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 1\. har – 2. harkas – 3. hamejā – 4. hame – 5. hic – 6. harjā – 7.
 ba’z‐i – 8. barx‐i – 9. aqlab – 10. hickodām – 11. hickas – 12.
@@ -2454,7 +2454,7 @@ daqiqe‐ast. – Sāat noh‐o cehel‐o panj daqiqe‐ast. – Sāat dah daqiq
 dah‐ast.
 
 <span id="anchor-217"></span>Barā‐ye harkodām az javābhā‐ye zir yek soāl
-benevis\!
+benevis!
 
 Sāat‐e cand bā ānhā qarār dārid? – Film‐e emšab ce sāat‐i šoru’ mišavad?
 – Sāat‐e cand miāyand? – Sāat cand‐ast? – Mā cand sāat vaqt dārim?
@@ -2463,12 +2463,12 @@ Sāat‐e cand bā ānhā qarār dārid? – Film‐e emšab ce sāat‐i šoru�
 
 1\. dorost – 2. qalat – 3. qalat – 4. dorost – 5. dorost
 
-<span id="anchor-219"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-219"></span>Jāhā‐ye xāli rā por kon!
 
 candšanba – Cetowr – mage – film – sāat – sāat – hašt‐o rob’ –
 televiziyon
 
-<span id="anchor-220"></span>Az goftāri be neveštāri tabdil kon\!
+<span id="anchor-220"></span>Az goftāri be neveštāri tabdil kon!
 
 Ozr mixāham, fardā candšanbe‐ast? – Bale, sāat haft‐ast. – Al’ān sāat
 cand‐ast? – Yek sāat‐o nim‐e digar vaqt dārid. – Aqrabe‐ ye sāniyešomār
@@ -2566,7 +2566,7 @@ mibarad. Faribā lebāshā‐yaš rā az tu‐ye kārton dar miāvarad va dar ko
 |                    |                      |                  |                  |
 |                    | ru‐ye divār          |                  |                  |
 
-##### <span id="anchor-227"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+##### <span id="anchor-227"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 azbebarbābitājoz
 
@@ -2578,7 +2578,7 @@ azbebarbābitājoz
 6.  Faribā \_\_\_\_\_\_\_\_\_\_ u kas‐i rā nadārad.
 7.  \_\_\_\_\_\_\_\_\_\_ sāat‐e panj sabr mikonim.
 
-##### <span id="anchor-228"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+##### <span id="anchor-228"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 kenārzirbālāpoštvasatsartu
 
@@ -2590,7 +2590,7 @@ kenārzirbālāpoštvasatsartu
 6.  Sabad \_\_\_\_\_\_\_\_\_\_‐e miz‐ast.
 7.  Bāqce \_\_\_\_\_\_\_\_\_\_‐e hayāt‐ast.
 
-##### <span id="anchor-229"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+##### <span id="anchor-229"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 be su‐yeaz taraf‐edar bāre‐yebe xāter‐ebe jā‐yedar miyān‐ebe samt‐e
 
@@ -2603,9 +2603,9 @@ be su‐yeaz taraf‐edar bāre‐yebe xāter‐ebe jā‐yedar miyān‐ebe sam
 
 43. 5.  \_\_\_\_\_\_\_\_\_\_ tārix‐e Irān ce midāni?
     6.  \_\_\_\_\_\_\_\_\_\_ Parviz Kāmbiz rā mibaram.
-    7.  Lotfan \_\_\_\_\_\_\_\_\_\_ xāne beravid\!
+    7.  Lotfan \_\_\_\_\_\_\_\_\_\_ xāne beravid!
 
-##### <span id="anchor-230"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+##### <span id="anchor-230"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 piš azba’d azbanā barrāje’ beqeyr az
 
@@ -2665,7 +2665,7 @@ poliver – jeliqe
 Sefid – surati – qahvei – nārenji – banafš – kerem – meški – siyāh –
 sormei – ābi
 
-##### <span id="anchor-233"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-233"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
 
 Xaridār:Ma’zerat mixām, in \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_‐e?
 
@@ -2675,7 +2675,7 @@ Xaridār:Garmkon \_\_\_\_\_\_\_\_\_\_?
 
 Forušande:5,000 \_\_\_\_\_\_\_\_\_\_.
 
-##### <span id="anchor-234"></span>Az goftāri be neveštāri tabdil kon\!
+##### <span id="anchor-234"></span>Az goftāri be neveštāri tabdil kon!
 
 |                              |           |
 | ---------------------------- | --------- |
@@ -2699,20 +2699,20 @@ Dorost yā qalat?
 
 1\. qalat – 2. qalat – 3. dorost – 4. qalat – 5. dorost
 
-<span id="anchor-236"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+<span id="anchor-236"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 1\. az – 2. be – 3. bā – 4. bi – 5. bar – 6. joz – 7. tā
 
-<span id="anchor-237"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+<span id="anchor-237"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 1\. tu – 2. kenār – 3. bālā – 4. pošt – 5. sar– 6. zir – 7. vasat
 
-<span id="anchor-238"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+<span id="anchor-238"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 1\. be samt‐e – 2. dar miyān‐e – 3. be xāter‐e – 4. az taraf‐e – 5. dar
 bāre‐ye – 6. be jā‐ye – 7. be su‐ye
 
-<span id="anchor-239"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon\!
+<span id="anchor-239"></span>Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
 1\. piš az – 2. rāje’ be – 3. ba’d az – 4. qeyr az – 5. banā bar
 
@@ -2720,18 +2720,18 @@ bāre‐ye – 6. be jā‐ye – 7. be su‐ye
 
 1\. qalat – 2. dorost – 3. qalat – 4. dorost – 5. dorost
 
-<span id="anchor-241"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-241"></span>Jāhā‐ye xāli rā por kon!
 
 garmkon – cand – kudum – ābiye – Toman
 
-<span id="anchor-242"></span>Az goftāri be neveštāri tabdil kon\!
+<span id="anchor-242"></span>Az goftāri be neveštāri tabdil kon!
 
 Ān kāpšen cand‐ast? – Kodām šalvār? – Ān kāpšen‐e sefid. – In pirāhan
 bist hezār Tumān‐ast. – Kodāmyek? Ān kot‐e qermez?
 
 # <span id="anchor-243"></span>Yādāvari I
 
-##### <span id="anchor-244"></span>Haryek az pāsoxhā‐ye sotun‐e B javāb‐e kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis\!
+##### <span id="anchor-244"></span>Haryek az pāsoxhā‐ye sotun‐e B javāb‐e kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 
 |                                  |                               |        |  |
 | -------------------------------- | ----------------------------- | ------ |  |
@@ -2773,7 +2773,7 @@ bist hezār Tumān‐ast. – Kodāmyek? Ān kot‐e qermez?
 |                                  |                               |        |  |
 | ½                                | 135                           |        |  |
 
-##### <span id="anchor-245"></span>Esmhā‐ye zir rā bā “‐hā” va, dar surat‐e emkān “‐ān” jam’ beband\!
+##### <span id="anchor-245"></span>Esmhā‐ye zir rā bā “‐hā” va, dar surat‐e emkān “‐ān” jam’ beband!
 
 |         |       |
 | ------- | ----- |
@@ -2805,7 +2805,7 @@ bist hezār Tumān‐ast. – Kodāmyek? Ān kot‐e qermez?
 | 7\.                                          | Mā az sobh ... šab montazer‐aš mimānim. |               |             |            |
 |                                              | a) dar                                  | b) joz        | c) bā       | d) tā      |
 
-##### <span id="anchor-247"></span>Kāmel kon\!
+##### <span id="anchor-247"></span>Kāmel kon!
 
 Man ketāb‐am rā mixānam.
 
@@ -2819,13 +2819,13 @@ Mā
 
 Ānhā
 
-##### <span id="anchor-248"></span>Jomlehā‐ye zir rā az mosbat be manfi yā bar aks tabdil kon\!
+##### <span id="anchor-248"></span>Jomlehā‐ye zir rā az mosbat be manfi yā bar aks tabdil kon!
 
 Pedar‐am šabhā qazā nemixorad.
 
-Sar‐e jā‐yat benešin\!
+Sar‐e jā‐yat benešin!
 
-Lotfan dar rā bebandid\!
+Lotfan dar rā bebandid!
 
 Ānhā bastani dust nadārand.
 
@@ -2833,7 +2833,7 @@ Rāmin sešanbehā futbāl bāzi mikonad.
 
 Man ādam‐e xošbaxt‐i hastam.
 
-##### <span id="anchor-249"></span>Jomlehā‐ye zir rā be hālat‐e amri tabdil kon\!
+##### <span id="anchor-249"></span>Jomlehā‐ye zir rā be hālat‐e amri tabdil kon!
 
 To barā‐yam ājil miāvari.
 
@@ -2858,7 +2858,7 @@ a) hameb) harc) aqlabd) hickodām
 | 4\.                                                  | ... sohbat az u‐st.                        |           |           |             |
 |                                                      | a) harjā                                   | b) hicjā  | c) hamejā | d) hic      |
 
-##### <span id="anchor-251"></span>Form‐e zir rā por kon\!
+##### <span id="anchor-251"></span>Form‐e zir rā por kon!
 
 Form‐e sabtenām
 
@@ -2882,7 +2882,7 @@ Telefon:
 
 Šoql:
 
-##### <span id="anchor-252"></span>Vāžehā‐ye zir rā dastebandi kon\!
+##### <span id="anchor-252"></span>Vāžehā‐ye zir rā dastebandi kon!
 
 amme – amu – āmuzgār – bacce – barādar – boluz – dāman – dāyi – doxtar –
 farzand – žākat – jurāb – kafš – kārgar – kārmand
@@ -2897,13 +2897,13 @@ Xānevāde:
 
 Pušāk:
 
-##### <span id="anchor-253"></span>Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān dar radif‐e pāyin mottasel kon\!
+##### <span id="anchor-253"></span>Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān dar radif‐e pāyin mottasel kon!
 
 xošhālqadbolandsefidcāqkucakgorosnekohnepesarjavānsālem
 
 nowtešnenārāhatbimārlāqarqadkutāhdoxtarpirsiyāhbozorg
 
-##### <span id="anchor-254"></span>Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān dar radif‐e pāyin mottasel kon\!
+##### <span id="anchor-254"></span>Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān dar radif‐e pāyin mottasel kon!
 
 omrfarzandtudidanidusttekānpāšidanxošhālforsatta’til
 
@@ -2964,7 +2964,7 @@ mipazirad, va ānhā ketāb rā mixarand.
 | ---------- | ------------ | ------------------------------------------------------------- | -------------------------- |
 | Ce + sefat | Ce + esm + i | Ce + esm +‐e + sefat + i Ce + esm +‐e + sefat +‐o + sefat + i |                            |
 |            |              |                                                               |                            |
-| Ce xub\!   | Ce pesar‐i\! | Ce pesar‐e xub‐i\!                                            | Ce pesar‐e xub‐o tamiz‐i\! |
+| Ce xub!   | Ce pesar‐i! | Ce pesar‐e xub‐i!                                            | Ce pesar‐e xub‐o tamiz‐i! |
 
 #### <span id="anchor-263"></span>Nokte
 
@@ -3053,23 +3053,23 @@ mipazirad, va ānhā ketāb rā mixarand.
   - Dar goftār‐e qeyremostaqim šenāse‐ye fe’l va zamir bā bāzgukonande
     hamxāni dārand.
 
-##### <span id="anchor-273"></span>Jomlehā‐ye behamrixte rā morattab kon\!
+##### <span id="anchor-273"></span>Jomlehā‐ye behamrixte rā morattab kon!
 
 **NāmorattabMorattab**
 
-boluz / i / ce / qašang / dāri / e / \!
+boluz / i / ce / qašang / dāri / e / !
 
 mixorad / nāhār / key / u / ?
 
 tārixce / Nowruz / ye / āyā / midānid / rā / ?
 
-bolvār / in / dārad / ce / yi / ye / deraxthā / zibā / \!
+bolvār / in / dārad / ce / yi / ye / deraxthā / zibā / !
 
 bā / konsert / mā / nemiāyi / cerā / be / ?
 
-nāxonhā / boland / ye / ce / dārad / i / \!
+nāxonhā / boland / ye / ce / dārad / i / !
 
-##### <span id="anchor-274"></span>Bā vāžehā‐ye dāxel‐e parāntez porseš besāz\!
+##### <span id="anchor-274"></span>Bā vāžehā‐ye dāxel‐e parāntez porseš besāz!
 
 1)  Sārā emšab be didan‐e Faribā miravad. (key)
 
@@ -3103,7 +3103,7 @@ nāxonhā / boland / ye / ce / dārad / i / \!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-##### <span id="anchor-275"></span>Az goftār‐e mostaqim be goftār‐e qeyremostaqim tabdil kon\!
+##### <span id="anchor-275"></span>Az goftār‐e mostaqim be goftār‐e qeyremostaqim tabdil kon!
 
 **MostaqimQeyremostaqim**
 
@@ -3134,7 +3134,7 @@ Damāvand dar afsānehā‐ vo asātir‐e irāni jāygāh‐e viže‐i dārad.
 Nevisandegān va šāerān‐e irāni niz dar āsār‐ešān ešārehā‐ye farāvān‐i be
 Damāvand dārand.
 
-##### <span id="anchor-277"></span>Pāsox bedeh\!
+##### <span id="anchor-277"></span>Pāsox bedeh!
 
 1.  Kuh‐e Damāvand kojā qarār dārad?
 2.  Ertefā‐e Damāvand cand metr‐ast?
@@ -3161,9 +3161,9 @@ Maqāzedār: Angur kilu‐yi do hezār‐o punsad Toman, gilās‐am kilu‐yi s
 hezār Toman. Ruham miše cāhār hezār Toman. Moštari: Befarmāyin, in‐am
 cāhār hezār Toman.
 
-Maqāzedār:Dast‐e šomā dard nakone\!
+Maqāzedār:Dast‐e šomā dard nakone!
 
-Moštari:Sar‐e šomā dard nakone\! Xodā hāfez\!
+Moštari:Sar‐e šomā dard nakone! Xodā hāfez!
 
 #### <span id="anchor-279"></span>Nokte
 
@@ -3206,7 +3206,7 @@ nakonenakonad
 Porteqāl – sib – golābi – anār – ālbālu – ālu – holu – mowz – tutfarangi
 – nārengi
 
-##### <span id="anchor-282"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-282"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
 
 Maqāzedār:Befarmāyin.
 
@@ -3231,7 +3231,7 @@ Maqāzedār:Dast‐e šomā \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_.
 
 Moštari:\_\_\_\_\_\_\_\_\_\_‐e \_\_\_\_\_\_\_\_\_\_ dard nakone.
 
-##### <span id="anchor-283"></span>Az goftāri be neveštāri tabdil kon\!
+##### <span id="anchor-283"></span>Az goftāri be neveštāri tabdil kon!
 
 **GoftāriNeveštāri**
 
@@ -3251,15 +3251,15 @@ Dorost yā qalat?
 
 1\. qalat – 2. dorost – 3. dorost – 4. dorost – 5. dorost
 
-<span id="anchor-285"></span>Jomlehā‐ye behamrixte rā morattab kon\!
+<span id="anchor-285"></span>Jomlehā‐ye behamrixte rā morattab kon!
 
-Ce boluz‐e qašang‐i dāri\! – U key nāhār mixorad? – Āyā tārixce‐ye
-Nowruz rā midāni? – In bolvār ce deraxthā‐ye zibā‐yi dārad\!
+Ce boluz‐e qašang‐i dāri! – U key nāhār mixorad? – Āyā tārixce‐ye
+Nowruz rā midāni? – In bolvār ce deraxthā‐ye zibā‐yi dārad!
 
-– Cerā bā mā be konsert nemiāyi? – Ce nāxonhā‐ye boland‐i dārad\!
+– Cerā bā mā be konsert nemiāyi? – Ce nāxonhā‐ye boland‐i dārad!
 
 <span id="anchor-286"></span>Bā vāžehā‐ye dāxel‐e parāntez porseš
-besāz\!
+besāz!
 
 1\) Sārā key be didan‐e Faribā miravad? – 2) Barā‐ye poxtan‐e in keyk
 ceqadr šir lāzem dārim? – 3) Ke dar Dānešgāh‐e Tehrān pezeški mixānad? –
@@ -3268,7 +3268,7 @@ cegune anjām midehad? – 6) Emruz ce mixaram? – 7) Cejur mobl‐i mixāhand?
 – 8) Sag‐ešān kojā‐st?
 
 <span id="anchor-287"></span>Az goftār‐e mostaqim be goftār‐e
-qeyremostaqim tabdil kon\!
+qeyremostaqim tabdil kon!
 
 Ostādān miguyand, ke digar dars nemidehand. – Navid miguyad, ke bā to
 hicjā nemiāyad. – Mahšid miguyad, ke pedar‐aš bimār‐ ast. – Kāmrān
@@ -3276,12 +3276,12 @@ miguyad, ke ketāb‐aš rā be to midehad. – Narges miguyad, ke ābrizeš‐e
 bini dārad. – Jāvid miguyad, ke zur‐e bāzu‐yaš ziyād‐ast. – Nāhid
 miguyad, ke be didār bā ostād‐aš omid dārad.
 
-<span id="anchor-288"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-288"></span>Jāhā‐ye xāli rā por kon!
 
 kilu – peste – dige – nadārin – ceqad – miše – qābel – nadāre – sāhāb –
 dāre – zerešk – 8,000 – befarmāyin – dard – nakone – sar – šomā
 
-<span id="anchor-289"></span>Az goftāri be neveštāri tabdil kon\!
+<span id="anchor-289"></span>Az goftāri be neveštāri tabdil kon!
 
 In ham yek kilu xiyār. – Ruyeham mišavad se hezār‐o pānsad Tumān. –
 Dast‐etān dard nakonad. – Amr‐e digar‐i nadārid?
@@ -3299,7 +3299,7 @@ havāpeymā tanhā 40 daqiqe tul mikešad. Intowri zamān‐e bištar‐i barā�
 bāzdid az Esfahān barā‐yešān bāqi mimānad. Barā‐ye safar bā havāpeymā
 bāyad harce zudtar belithā rā rezerv konand, tā jā namānand.
 
-##### <span id="anchor-292"></span>Pāsox bedeh\!
+##### <span id="anchor-292"></span>Pāsox bedeh!
 
 1.  Faribā‐vo Sārā mixāhand kojā beravand?
 2.  Key mixāhand beravand?
@@ -3338,7 +3338,7 @@ bāyad harce zudtar belithā rā rezerv konand, tā jā namānand.
 |                                                         |                                                            |  |                |             |                 |
 | Kefāyat                                                 | Kāfi‐st                                                    |  |                | bin         | i.              |
 |                                                         |                                                            |  |                |             |                 |
-| Pišnahād                                                |                                                            |  |                | rav         | im\!            |
+| Pišnahād                                                |                                                            |  |                | rav         | im!            |
 |                                                         |                                                            |  |                |             |                 |
 | Darxāst‐e pišnahād                                      | Kojā                                                       |  |                | rav         | im?             |
 
@@ -3356,7 +3356,7 @@ bāyad harce zudtar belithā rā rezerv konand, tā jā namānand.
   - Barā‐ye residan be yek hadaf ma’mulan *tā* be kār miravad: Miravam,
     tā bebinam.
 
-##### <span id="anchor-296"></span>Jāhā‐ye xāli rā bā hāl‐e eltezāmi por kon\!
+##### <span id="anchor-296"></span>Jāhā‐ye xāli rā bā hāl‐e eltezāmi por kon!
 
 1.  Barādar‐am mixāhad dar tābestān be Āmrikā \_\_\_\_\_\_\_\_\_\_
     (raftan).
@@ -3382,7 +3382,7 @@ bāyad harce zudtar belithā rā rezerv konand, tā jā namānand.
 14. To bāyad ketri‐yo quri rā dar āšpazxāne \_\_\_\_\_\_\_\_\_\_
     (gozāštan).
 
-##### <span id="anchor-297"></span>Jāhā‐ye xāli rā bā fe’l‐e monāseb‐e mosbat yā manfi por kon\!
+##### <span id="anchor-297"></span>Jāhā‐ye xāli rā bā fe’l‐e monāseb‐e mosbat yā manfi por kon!
 
 1.  Mā emšab be teātr \_\_\_\_\_\_\_\_\_\_ (raftan).
 2.  Faribā musiqi rā \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_ (dust
@@ -3390,7 +3390,7 @@ bāyad harce zudtar belithā rā rezerv konand, tā jā namānand.
 3.  To bāyad \_\_\_\_\_\_\_\_\_\_ (āmadan), tā \_\_\_\_\_\_\_\_\_\_
     (didan).
 4.  Belit‐at rā rezerv kon, tā \_\_\_\_\_\_\_\_\_\_ (jā māndan).
-5.  In ketāb rā be Pedar‐at \_\_\_\_\_\_\_\_\_\_ (dādan)\!
+5.  In ketāb rā be Pedar‐at \_\_\_\_\_\_\_\_\_\_ (dādan)!
 6.  Mixāhi barā‐yaš yek ketāb \_\_\_\_\_\_\_\_\_\_ (xaridan)?
 7.  U lāzem nist, ke be donbāl‐e man \_\_\_\_\_\_\_\_\_\_ (āmadan).
 8.  Ānhā bāzi rā dastejam’i \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_
@@ -3398,8 +3398,8 @@ bāyad harce zudtar belithā rā rezerv konand, tā jā namānand.
 9.  Bāyad bexāni, tā \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_ (yād
     gereftan).
 10. Tā nabini, \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_ (bāvar kardan).
-11. Mošaxxasāt‐e māšin rā injā \_\_\_\_\_\_\_\_\_\_ (neveštan)\!
-12. Movāzeb‐e lab‐o dahān‐at \_\_\_\_\_\_\_\_\_\_ (budan)\!
+11. Mošaxxasāt‐e māšin rā injā \_\_\_\_\_\_\_\_\_\_ (neveštan)!
+12. Movāzeb‐e lab‐o dahān‐at \_\_\_\_\_\_\_\_\_\_ (budan)!
 
 ## <span id="anchor-298"></span>Irān‐o irāni – Honar‐e āšpazi‐ye Irān
 
@@ -3416,7 +3416,7 @@ qazā‐ye irāni Celowkabāb bāšad. Dar miyān‐e qazāhā‐ye sonnati Dizi
 xāss‐e ān mantaqe rā niz dārad. Masalan heyf‐ast, ke be Gilān beravi,
 vali Mirzāqāsemi naxori.
 
-##### <span id="anchor-299"></span>Pāsox bedeh\!
+##### <span id="anchor-299"></span>Pāsox bedeh!
 
 1.  Qazāhā‐ye irāni ce vižegihā‐yi dārand?
 2.  Cerā honar‐e āšpazi‐ye irān yek‐i az kāmeltarin tarkibāt‐e qazāyi‐
@@ -3442,7 +3442,7 @@ Mādar:Baqaldast‐et, tu kešow.
 
 Bahrām:Bošqābā ro az kojā var dāram?
 
-Mādar:Az tu komod‐e kenār‐e ojāq. Ceqadr soāl mikoni\!
+Mādar:Az tu komod‐e kenār‐e ojāq. Ceqadr soāl mikoni!
 
 #### <span id="anchor-301"></span>Nokte
 
@@ -3482,7 +3482,7 @@ qāšoq
 Bufe‐ye otāq‐e nāhārxori – komod‐e baqal‐e yaxcāl – kābinet‐e zir‐e
 zarfšuyi
 
-##### <span id="anchor-303"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis\!
+##### <span id="anchor-303"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis!
 
 – Na, vali mitunam dorost konam.
 
@@ -3490,7 +3490,7 @@ zarfšuyi
 
 – Māmān, emšab šām ci dārim?
 
-– Mersi māmān\! Pas man polow bā māhi mixoram.
+– Mersi māmān! Pas man polow bā māhi mixoram.
 
 – Māhi‐yam dārim?
 
@@ -3506,7 +3506,7 @@ zarfšuyi
 
 Pasoxhā-ye dars-e 
 
-Jāhā‐ye xāli rā bā hāl‐e eltezāmi por kon\!
+Jāhā‐ye xāli rā bā hāl‐e eltezāmi por kon!
 
   - 1.  beravad – 2. biyāyad – 3. qabul šavad – 4. bemānim – 5. guš koni
         – 6. rezerv konim – 7. bebinam – 8. ozrxāhi koni – 9. bebarim
@@ -3515,14 +3515,14 @@ Jāhā‐ye xāli rā bā hāl‐e eltezāmi por kon\!
 14. begozāri
 
 <span id="anchor-305"></span>Jāhā‐ye xāli rā bā fe’l‐e monāseb‐e mosbat
-yā manfi por kon\!
+yā manfi por kon!
 
 1\. miravim – 2. dust dārad – 3. biyāyi; bebini – 4. jā namāni – 5.
 bedeh – 6. bexari – 7. biyāyad – 8. tamāšā mikonand – 9. yād begiri –
 10. bāvar nemikoni – 11. benevis – 12. bāš
 
 <span id="anchor-306"></span>Goftogu‐ye behamrixte rā morattab kon va be
-zabān‐e neveštāri benevis\!
+zabān‐e neveštāri benevis!
 
 – Māmān, emšab šām ce dārim?
 
@@ -3532,7 +3532,7 @@ zabān‐e neveštāri benevis\!
 
 – Na, vali mitavānam dorost konam.
 
-– Mersi māmān\! Pas man polow bā māhi mixoram.
+– Mersi māmān! Pas man polow bā māhi mixoram.
 
 # <span id="anchor-307"></span>Jašn‐e tavallod
 
@@ -3541,13 +3541,13 @@ zabān‐e neveštāri benevis\!
 Dišab jašn‐e tavallod‐e Susan, xāhar‐e Sārā, bud. Hame‐ye dustān‐e Susan
 bejoz Nasrin dar xāne‐ye Susan dowr‐e ham jam’ budand. Dustān‐e Susan
 barā‐yaš hedye āvardand. Keyk‐o mive xordand va barā‐yaš āhang‐e
-"Tavallod‐at mobārak\!" rā xāndand. Susan hedyehā rā bāz kard va az
+"Tavallod‐at mobārak!" rā xāndand. Susan hedyehā rā bāz kard va az
 didan‐e ānhā xeyl‐i xošhāl šod. Be Susan‐o dustān‐aš xeyl‐i xoš gozašt.
 Nasrin nayāmad, con pedar‐aš bimār bud. U be Susan telefon kard va be u
 tabrik goft. Nasrin goft, ke sāl‐e digar hatman be jašn‐e tavallod‐e u
 xāhad āmad.
 
-##### <span id="anchor-309"></span>Pāsox bedeh\!
+##### <span id="anchor-309"></span>Pāsox bedeh!
 
 1.  Dišab ke jašn‐e tavallod dāšt?
 2.  Dustān‐aš barā‐yaš ce āhang‐i xāndand?
@@ -3632,7 +3632,7 @@ xāhad āmad.
   - Dar fe’lhā‐ye morakkab va pišvandi setāk‐e hāl‐e xāstan be miyān
     miāyad: yād gereftan, yād xāham gereft; bar dāštan, bar xāham dāšt.
 
-##### <span id="anchor-317"></span>Yek jomle barā‐ye zamān‐e gozašte va yek jomle barā‐ye zamān‐e āyande besāz\!
+##### <span id="anchor-317"></span>Yek jomle barā‐ye zamān‐e gozašte va yek jomle barā‐ye zamān‐e āyande besāz!
 
 **MasdarJomle**
 
@@ -3644,7 +3644,7 @@ gozāštan
 
 šostan
 
-##### <span id="anchor-318"></span>Jomlehā‐ye zir rā az zamān‐e hāl be zamān‐e gozašte tabdil kon\!
+##### <span id="anchor-318"></span>Jomlehā‐ye zir rā az zamān‐e hāl be zamān‐e gozašte tabdil kon!
 
 1)  Afsus ke gorbe‐aš nist.
 
@@ -3686,12 +3686,12 @@ gozāštan
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-##### <span id="anchor-319"></span>Bā tavajjoh be qeyd‐e zamān jāhā‐ye xāli rā bā fe’l‐e monāseb por kon\!
+##### <span id="anchor-319"></span>Bā tavajjoh be qeyd‐e zamān jāhā‐ye xāli rā bā fe’l‐e monāseb por kon!
 
 1.  Mādar‐am diruz barā‐yemān Qormesabzi \_\_\_\_\_\_\_\_\_\_ (poxtan).
 2.  Mā har hafte be kuh \_\_\_\_\_\_\_\_\_\_ (raftan).
 3.  To parišab kojā \_\_\_\_\_\_\_\_\_\_ (budan)?
-4.  Negarān nabāš\! Fardā hatman u rā \_\_\_\_\_\_\_\_\_\_
+4.  Negarān nabāš! Fardā hatman u rā \_\_\_\_\_\_\_\_\_\_
     \_\_\_\_\_\_\_\_\_\_ (didan).
 5.  Āyā haft‐e‐ye piš kārgarān xub \_\_\_\_\_\_\_\_\_\_
     \_\_\_\_\_\_\_\_\_\_ (kār kardan)?
@@ -3726,7 +3726,7 @@ dar nazdiki‐ye Širāz az majmuehā‐ye bāstāni‐ye Taxt‐e Jamšid‐o P
 ke sāxt‐ešān be biš az 2,500 sāl‐e piš bar migardad, didan koni.
 
 ##### ![  
-Tasvir·e 6: Arg‐e Karimxāni | Masjed‐e Vakil | Ārāmgāh‐e Sa’di | Ārāmgāh‐e Hāfez](Pictures/10000000000005F800000187093C46B7E16E271F.jpg)<span id="anchor-321"></span>Pāsox bedeh\!
+Tasvir·e 6: Arg‐e Karimxāni | Masjed‐e Vakil | Ārāmgāh‐e Sa’di | Ārāmgāh‐e Hāfez](Pictures/10000000000005F800000187093C46B7E16E271F.jpg)<span id="anchor-321"></span>Pāsox bedeh!
 
 1.  Širāz markaz‐e kodām ostān‐ast?
 2.  Nām‐e šāerān‐e bozorg‐e širāzi ci‐st?
@@ -3773,7 +3773,7 @@ mikonam. To ce varzeš‐i mikoni?
 Eski – šenā – majalle – ruznāme – āšpazi – raqs – āvāz – televiziyon –
 gardeš – sinamā
 
-##### <span id="anchor-325"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-325"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
 
 Rāmin:Nedā, to be ci \_\_\_\_\_\_\_\_\_\_‐i?
 
@@ -3799,7 +3799,7 @@ Bištar dust \_\_\_\_\_\_\_\_\_\_, varzeš \_\_\_\_\_\_\_\_\_\_.
 
 Pasoxhā-ye dars-e 
 
-Jomlehā‐ye zir rā az zamān‐e hāl be zamān‐e gozašte tabdil kon\!
+Jomlehā‐ye zir rā az zamān‐e hāl be zamān‐e gozašte tabdil kon!
 
 1\) Afsus ke gorbe‐aš nabud. – 2) Cerā asb‐at rā foruxti? – 3) In
 bigānegān injā ce kardand? – 4) Be Cāyxāne‐ye Pāsārgād raftim.
@@ -3811,13 +3811,13 @@ kāmiyonhā‐ye jadid pul‐e kāfi nadāštand. – 10) Sāed‐o ārenj‐am 
 āvard.
 
 <span id="anchor-328"></span>Bā tavajjoh be qeyd‐e zamān jāhā‐ye xāli rā
-bā fe’l‐e monāseb por kon\!
+bā fe’l‐e monāseb por kon!
 
 1\. poxt – 2. miravim – 3. budi – 4. xāhi did – 5. kār kardand – 6. bar
 xāhand gašt – 7. savār šodim – 8. xāhad xarid – 9. piyāde šodand – 10.
 mostaqar xāhim šod
 
-<span id="anchor-329"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-329"></span>Jāhā‐ye xāli rā por kon!
 
 alāqemand – alāqe – dāram – dust – nadāram – musiqi – dāram – dāram –
 konam
@@ -3870,7 +3870,7 @@ yād‐eš be xeyr.*
 |           |                  |
 | del‐emun  | del‐emān         |
 
-##### <span id="anchor-333"></span>Pāsox bedeh\!
+##### <span id="anchor-333"></span>Pāsox bedeh!
 
 1.  Sārā barā‐ye ce kasān‐i az gozaštehā ta’rif mikonad?
 2.  Mādarbozorg‐e sārā key mord?
@@ -3878,7 +3878,7 @@ yād‐eš be xeyr.*
 4.  Pedarbozorg Sārā rā kojā nešānd?
 5.  Cerā qessehā‐ye pedarbozorg xandedār budand?
 
-##### <span id="anchor-334"></span>Matn‐e ta’rif‐e Sārā rā az goftāri be neveštāri tabdil kon\!
+##### <span id="anchor-334"></span>Matn‐e ta’rif‐e Sārā rā az goftāri be neveštāri tabdil kon!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3949,7 +3949,7 @@ yād‐eš be xeyr.*
   - Dar gozašte‐ye nātamām setāk‐e gozašte‐ye *dāštan* (dāšt) hamgām bā
     fe’l‐e asli sarf mišavad: dāšt miraft.
 
-##### <span id="anchor-340"></span>Bā tavajjoh be qeyd‐e zamān jāhā‐ye xāli rā bā fe’l‐e monāseb por kon\!
+##### <span id="anchor-340"></span>Bā tavajjoh be qeyd‐e zamān jāhā‐ye xāli rā bā fe’l‐e monāseb por kon!
 
 1.  Kāmrān pārsāl harruz futbāl \_\_\_\_\_\_\_\_\_\_
     \_\_\_\_\_\_\_\_\_\_ (bāzi kardan).
@@ -3965,7 +3965,7 @@ yād‐eš be xeyr.*
 6.  Man tā pārsāl morq‐o gušt‐o sosis rā az in forušgāh
     \_\_\_\_\_\_\_\_\_\_ (xordan).
 
-##### <span id="anchor-341"></span>Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon\!
+##### <span id="anchor-341"></span>Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon!
 
 1.Al’ān dāri cekār mikoni? – \_\_\_\_\_\_\_\_\_\_ televiziyon
 \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_ (tamāšā kardan).
@@ -3984,7 +3984,7 @@ yād‐eš be xeyr.*
 6.  Diruz dar forušgāh cekār mikardi? \_\_\_\_\_\_\_\_\_\_ kare‐vo
     panir‐o xāme \_\_\_\_\_\_\_\_\_\_ (xaridan).
 
-#### <span id="anchor-342"></span>Pāsox bedeh\!
+#### <span id="anchor-342"></span>Pāsox bedeh!
 
 1)  Diruz sobh dāšti cekār mikardi?
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -4032,7 +4032,7 @@ az dast dādand. Āxarin selsele‐ye pādšāhi dar Irān Pahlavi nām dāšt v
 aknun biš az si sāl‐ast, ke hokumat‐e Irān yek jomhuri‐ye eslāmi‐st.
 
 ##### ![  
-Tasvir·e 9: Šāhanšāhi‐ye Safavi](Pictures/1000000000000135000000D9FF6A19D4DAF7B4C5.jpg)<span id="anchor-344"></span>Pāsox bedeh\!
+Tasvir·e 9: Šāhanšāhi‐ye Safavi](Pictures/1000000000000135000000D9FF6A19D4DAF7B4C5.jpg)<span id="anchor-344"></span>Pāsox bedeh!
 
 1.  Āryāyiyān key be Irān kuc kardand?
 2.  Kuroš‐e Bozorg kodām šāhanšāhi rā ta’sis kard?
@@ -4051,7 +4051,7 @@ Tasvir·e 9: Šāhanšāhi‐ye Safavi](Pictures/1000000000000135000000D9FF6A19D
 
 ## <span id="anchor-345"></span>Goftogu – Ci meyl dārin?
 
-Pišxedmat: Xoš umadin\! Befarmāyin\! Ātusā: Lotfan ye miz barā do nafar.
+Pišxedmat: Xoš umadin! Befarmāyin! Ātusā: Lotfan ye miz barā do nafar.
 
 Pišxedmat: Befarmāyin az in taraf. Kenār‐e panjere xub‐e? Ātusā: Āli‐ye.
 Mamnun.
@@ -4109,7 +4109,7 @@ tul nemikeše. Ātusā: Dast‐etun dard nakone.
 Tahcin – Kabāb‐e Kubide – Jujekabāb – Kabāb‐e Barg – Xoreš‐e Karafs –
 Lubiyāpolow – ābma’dani – šarbat‐e ālbālu – Pepsi
 
-##### <span id="anchor-348"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-348"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
 
 Gārson:Salām, xoš \_\_\_\_\_\_\_\_\_\_. Befarmāyin, in suratqazā. Alān
 miyām xedmat‐etun.
@@ -4130,7 +4130,7 @@ Nāder:Na, \_\_\_\_\_\_\_\_\_\_‐am.
 
 – – – – – – – – – –
 
-Nāder:\_\_\_\_\_\_\_\_\_\_ surathesāb‐e mā ro biyārin\!
+Nāder:\_\_\_\_\_\_\_\_\_\_ surathesāb‐e mā ro biyārin!
 
 Gārson:Cašm, hamin \_\_\_\_\_\_\_\_\_\_.
 
@@ -4138,7 +4138,7 @@ Gārson:Cašm, hamin \_\_\_\_\_\_\_\_\_\_.
 
 Pasoxhā-ye dars-e 
 
-Matn‐e ta’rif‐e Sārā rā az goftāri be neveštāri tabdil kon\!
+Matn‐e ta’rif‐e Sārā rā az goftāri be neveštāri tabdil kon!
 
 Yād‐aš be xeyr. Vaqt‐i man bacce budam, mādarbozorg‐am hanuz zende bud.
 Barā‐yam qessehā‐ye xeyl‐i qašang‐i migoft. Moteassefāne u mariz šod‐o
@@ -4151,18 +4151,18 @@ dar ān qessehā mikardam. Be har ciz‐i ke dust dāštim, miresidim. Vāqean
 ke yād‐aš be xeyr.
 
 <span id="anchor-350"></span>Bā tavajjoh be qeyd‐e zamān jāhā‐ye xāli rā
-bā fe’l‐e monāseb por kon\!
+bā fe’l‐e monāseb por kon!
 
 1\. bāzi mikard – 2. zendegi mikardim – 3. sigār mikešid; pip mikešad –
 4. mixordam; dust nadāram – 5. lezzat mibordam – 6. mixaridam
 
-<span id="anchor-351"></span>Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon\!
+<span id="anchor-351"></span>Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon!
 
 1\. dāram; tamāšā mikonam – 2. dāštam; mixordam – 3. dārand; mikonand;
 dārand; guš midehand – 4. dāšti; mirafti; dāštam miraftam – 5. dāštam;
 duš migereftam – 6. dāštam; mixaridam
 
-<span id="anchor-352"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-352"></span>Jāhā‐ye xāli rā por kon!
 
 umadin – ci – konin – dārin – lotfan – amr – motšakker – lotfan – alān
 
@@ -4177,9 +4177,9 @@ rā becinad. Tā konun candin bār tahdig‐e berenj‐aš suxte‐ast. Yek bār
 Qormesabzi dorost karde bud, ke hesābi šur šode bud. Yek daf’e ham
 farāmuš karde bud, ke ojāq rā xāmuš konad. Vali Sāmān bā Susan
 šartbandi karde‐ast, ke inbār qazā‐yaš xošmaze šavad. U qarār‐ast,
-emruz Fesenjān dorost konad. Xodā be xeyr konad\!
+emruz Fesenjān dorost konad. Xodā be xeyr konad!
 
-##### <span id="anchor-355"></span>Pāsox bedeh\!
+##### <span id="anchor-355"></span>Pāsox bedeh!
 
 1.  Sāmān ce kār‐i rā hanuz yād nagerefte‐ast?
 2.  Mādar‐e Sāmān be u ce kārhā‐yi yād dāde‐ast?
@@ -4231,7 +4231,7 @@ emruz Fesenjān dorost konad. Xodā be xeyr konad\!
     naqli/dur rā yek bār besāzim: Man u rā dide‐vo pasandide‐am /
     pasandide budam.
 
-##### <span id="anchor-361"></span>Pāsox bedeh\!
+##### <span id="anchor-361"></span>Pāsox bedeh!
 
 |                                         |                                      |
 | --------------------------------------- | ------------------------------------ |
@@ -4273,7 +4273,7 @@ emruz Fesenjān dorost konad. Xodā be xeyr konad\!
 | – Na, hanuz                             |                                      |
 |                                         |                                      |
 
-##### <span id="anchor-362"></span>Gozašte‐ye dur besāz\!
+##### <span id="anchor-362"></span>Gozašte‐ye dur besāz!
 
 |                                                   |                                                             |
 | ------------------------------------------------- | ----------------------------------------------------------- |
@@ -4317,7 +4317,7 @@ vasile‐ye tarjome‐ye Avestā bištar bā u āšnā šodand. Dar qarn‐e
 u pardāxtand. Bozorgtarin asar‐e andišmandān‐e qarbi dar bāre‐ye Zartošt
 ketāb‐e *Conin goft Zartošt* az Nietzsche‐ast.
 
-##### <span id="anchor-364"></span>Pāsox bedeh\!
+##### <span id="anchor-364"></span>Pāsox bedeh!
 
 1.  Zartošt ke bud va key mizist?
 2.  Dar āyin‐e Zartošt Ahurā Mazdā va Ahriman ce naqš‐i dārand?
@@ -4392,7 +4392,7 @@ Rezā:Hicci, yā bāyad bedim ta’mir‐eš konan, yā ye dune now bexarim.
 Rādiyo – zabtesowt – yaxcāl – māšin‐e lebāsšuyi – māšin‐e zarfšuyi –
 kuler – girande‐ye māhvāre – carxegušt – maxlutkon
 
-##### <span id="anchor-369"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Goftogu‐ye bālā rā be zabān‐e neveštāri benevis\!
+##### <span id="anchor-369"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Goftogu‐ye bālā rā be zabān‐e neveštāri benevis!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -4414,7 +4414,7 @@ kuler – girande‐ye māhvāre – carxegušt – maxlutkon
 
 Pasoxhā-ye dars-e 
 
-Pāsox bedeh\!
+Pāsox bedeh!
 
 – Bale, az man candin bār aks gerefte‐and. – Na, aslan kas‐i az man aks
 nagerefte‐ast.
@@ -4437,7 +4437,7 @@ bārik‐i nadide‐am.
 
 – Bale, cand bār ranginkamān dide‐am. – Na, hanuz ranginkamān nadide‐am.
 
-<span id="anchor-371"></span>Gozašte‐ye dur besāz\!
+<span id="anchor-371"></span>Gozašte‐ye dur besāz!
 
 Zamān‐i barf bārid, ke mā be xāne reside budim. – Hengām‐i mādar‐ešān
 bidār šod, ke zarfhā rā šoste budand. – Vaqt‐i mehmānhā raftand, ke
@@ -4446,7 +4446,7 @@ budand. – Vaqt‐i havā tārik šod, ke be bozorgrāh reside budim. –
 Hengām‐i doktor raft, ke xabar be mā reside bud.
 
 <span id="anchor-372"></span>Goftogu‐ye bālā rā be zabān‐e neveštāri
-benevis\!
+benevis!
 
 Mahšid:Ci‐st? Ce šode? Pakar‐i.
 
@@ -4476,7 +4476,7 @@ bāšad. Be hamin xāter u be otāq‐e pazirāyi raft, tā bebinad ke āyā
 dar‐e bālkon rā baste‐ast yā na. Xošbaxtāne dar baste bud. Goldān
 hanuz ru‐ye miz bud va kaf‐e otāq ham xošk bud.
 
-##### <span id="anchor-375"></span>Pāsox bedeh\!
+##### <span id="anchor-375"></span>Pāsox bedeh!
 
 1.  Dišab cexabar bud?
 2.  Sārā mitarsid, ke cekār nakarde bāšad?
@@ -4517,7 +4517,7 @@ hanuz ru‐ye miz bud va kaf‐e otāq ham xošk bud.
 
 **Gozašte‐ye eltezāmi**Mitavānam **gofte bāš**am.
 
-##### <span id="anchor-379"></span>Jāhā‐ye xāli rā bā gozašte‐ye eltezāmi por kon\!
+##### <span id="anchor-379"></span>Jāhā‐ye xāli rā bā gozašte‐ye eltezāmi por kon!
 
 1.  Parviz rā peydā nemikonam. Šāyad šomā u rā \_\_\_\_\_\_\_\_\_\_
     \_\_\_\_\_\_\_\_\_\_ (didan).
@@ -4547,7 +4547,7 @@ hanuz ru‐ye miz bud va kaf‐e otāq ham xošk bud.
 12. In sibzaminihā xeyl‐i riz‐and. Šāyad ānhā dorošttar
     \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_ (dāštan).
 
-##### <span id="anchor-380"></span>Az hāl‐e eltezāmi be gozašte‐ye eltezāmi tabdil kon\!
+##### <span id="anchor-380"></span>Az hāl‐e eltezāmi be gozašte‐ye eltezāmi tabdil kon!
 
 |                                                      |                                                 |
 | ---------------------------------------------------- | ----------------------------------------------- |
@@ -4597,7 +4597,7 @@ Madrese‐ ye Cāhārbāq, Kāx‐e Haštbehešt, Menārjonbān, Masjed‐e Jām
 Kelisā‐ye Vānk va niz polhā‐ye tārixi‐ye Zāyanderud, azjomle Siyosepol
 va Pol‐e Xāju, az digar didanihā‐ye in šahr‐e zibā hastand.
 
-##### <span id="anchor-382"></span>Pāsox bedeh\!
+##### <span id="anchor-382"></span>Pāsox bedeh!
 
 1.  Kodām rud az vasat‐e Esfahān migozarad?
 2.  Cerā jahāniyān dar gozašte be Esfahān raftoāmad mikardand?
@@ -4627,7 +4627,7 @@ Fariborz:Bāyad cekār konam?
 Doktor:In qorsā ro har hašt sāat ye dune boxorin. Do‐se ruz‐am esterāhat
 konin. Hāl‐etun xub miše.
 
-Fariborz:Cašm xānum doktor\! Motšakker‐am.
+Fariborz:Cašm xānum doktor! Motšakker‐am.
 
 #### <span id="anchor-384"></span>Nokte
 
@@ -4704,7 +4704,7 @@ kerem/pomād‐o ru‐š bemālin
 
 Qatre – dāru – kapsul – šarbat – davā
 
-##### <span id="anchor-386"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis\!
+##### <span id="anchor-386"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis!
 
 – Na, negarān nabāšin, āmpul‐e bihessi mizanam.
 
@@ -4712,7 +4712,7 @@ Qatre – dāru – kapsul – šarbat – davā
 
 – Xeyl‐i dard dāre, āqā‐ye doktor?
 
-– Salām\! Ci šode?
+– Salām! Ci šode?
 
 – Lotfan bešinin ru‐ye sandali, tā dandunā‐tun‐o bebinam. Moteassefāne
 yek‐i az unā kerm xorde. Bāyad bekešam‐eš.
@@ -4731,7 +4731,7 @@ yek‐i az unā kerm xorde. Bāyad bekešam‐eš.
 
 Pasoxhā-ye dars-e 
 
-Jāhā‐ye xāli rā bā gozašte‐ye eltezāmi por kon\!
+Jāhā‐ye xāli rā bā gozašte‐ye eltezāmi por kon!
 
 1\. dide bāšid – 2. ferestāde bāšad – 3. gofte bāšad – 4. xorde bāšand –
 5. dāšte bāši – 6. šoste bāšad – 7. āvarde bāšand – 8. Emtehān karde
@@ -4739,7 +4739,7 @@ bāši – 9. dāšte bāšid – 10. xaride bāšad – 11. šenāxte bāšid �
 dāšte bāšand
 
 <span id="anchor-388"></span>Az hāl‐e eltezāmi be gozašte‐ye eltezāmi
-tabdil kon\!
+tabdil kon!
 
 Momken‐ast, sāl‐e gozašte be Kānādā rafte bāšand. – Dānešjuyān bāyad in
 emtehān rā dāde bāšand. – Ehtemāl dārad, ke polis dozd rā diruz dastgir
@@ -4748,9 +4748,9 @@ karde bāšad. – Pedar‐am mitavānad ān nāme rā nevešte bāšad. – Dir
 bāšad.
 
 <span id="anchor-389"></span>Goftogu‐ye behamrixte rā morattab kon va be
-zabān‐e neveštāri benevis\!
+zabān‐e neveštāri benevis!
 
-– Salām\! Ce šode?
+– Salām! Ce šode?
 
 – Hicciz āqā‐ye doktor. Dandān‐am dard mikonad.
 
@@ -4774,7 +4774,7 @@ Bahrām barnāme‐aš rā sāat‐e noh šoru’ mikonad. Xodaš ham mizanad va
 mixānad. Mehmānān az šenidan‐e sedā‐ye u va tār‐aš besyār lezzat
 mibarand.
 
-##### <span id="anchor-392"></span>Pāsox bedeh\!
+##### <span id="anchor-392"></span>Pāsox bedeh!
 
 1.  Emšab dar xāne‐ye Sārā cexabar‐ast?
 2.  Bahrām qarār‐ast, ke emšab cekār konad?
@@ -4829,7 +4829,7 @@ xod“‐ešān”xodešān
     *hamdigar* hastand.
   - Gāh‐i *ham* be jā‐ye *hamdigar* miāyad: Ānhā az ham mitarsand.
 
-##### <span id="anchor-398"></span>Jāhā‐ye xāli rā bā zamir‐e monāseb por kon\!
+##### <span id="anchor-398"></span>Jāhā‐ye xāli rā bā zamir‐e monāseb por kon!
 
 1.  Kāmrān \_\_\_\_\_\_\_\_\_\_ bā minibus raft.
 2.  Mā bā māšin‐e \_\_\_\_\_\_\_\_\_\_ miāyim.
@@ -4883,7 +4883,7 @@ va badal‐i az ān dar maqarr‐e Sāzmān‐e Melal‐e Mottahed dar *New York
 negahdāri mišavad. Barx‐i az pažuhešgarān Manšur‐e Kuroš rā noxostin
 e’lāmiye‐ye hoquq‐e bašar dar jahān midānand.
 
-##### <span id="anchor-400"></span>Pāsox bedeh\!
+##### <span id="anchor-400"></span>Pāsox bedeh!
 
 1.  Kuroš‐e Bozorg ke bud?
 2.  Tā piš az zohur‐e Kuroš ce ciz‐i sābeqe nadāšt?
@@ -4894,7 +4894,7 @@ e’lāmiye‐ye hoquq‐e bašar dar jahān midānand.
 
 ## <span id="anchor-401"></span>Goftogu – Mitunam bā ... sohbat konam?
 
-Xānom‐e Gilāni: Befarmāyin\!
+Xānom‐e Gilāni: Befarmāyin!
 
 |                                                |                                                                                                         |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -4904,8 +4904,8 @@ Xānom‐e Gilāni: Befarmāyin\!
 | Xānom‐e Gilāni:                                | Jamšid jān, Farzād alān xune nist. Mixāy barā‐š peyqām bezāri?                                          |
 | Jamšid:                                        | Lotfan be‐heš begin, fardā qarār‐e, az ye pol‐e tārixi aks begirim. Hatman durbin‐eš‐o bā xodeš biyāre. |
 | Xānom‐e Gilāni:                                | Cašm, hatman be‐heš migam. Omidvār‐am, yād‐eš nare.                                                     |
-| Jamšid:                                        | Xeyl‐i mamnun. Xodā hāfez\!                                                                             |
-| Xānom‐e Gilāni: Xāheš mikonam, Xodā negahdār\! |                                                                                                         |
+| Jamšid:                                        | Xeyl‐i mamnun. Xodā hāfez!                                                                             |
+| Xānom‐e Gilāni: Xāheš mikonam, Xodā negahdār! |                                                                                                         |
 |                                                |                                                                                                         |
 | Goftāri                                        | Neveštāri                                                                                               |
 |                                                |                                                                                                         |
@@ -4950,7 +4950,7 @@ Xānom‐e Gilāni: Befarmāyin\!
 Qasr – muze – masjed – kelisā – qal’e – kāx – arg – bāq – borj – hammām
 – kārvānsarā
 
-##### <span id="anchor-403"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Goftogu‐ye bālā rā be zabān‐e neveštāri benevis\!
+##### <span id="anchor-403"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Goftogu‐ye bālā rā be zabān‐e neveštāri benevis!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -4970,11 +4970,11 @@ Qasr – muze – masjed – kelisā – qal’e – kāx – arg – bāq – b
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-##### <span id="anchor-404"></span>Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-404"></span>Jāhā‐ye xāli rā por kon!
 
-Negin:Alo, \_\_\_\_\_\_\_\_\_\_\!
+Negin:Alo, \_\_\_\_\_\_\_\_\_\_!
 
-Āqā‐ye Kāmyāb: Salām, \_\_\_\_\_\_\_\_\_\_\!
+Āqā‐ye Kāmyāb: Salām, \_\_\_\_\_\_\_\_\_\_!
 
 Negin:\_\_\_\_\_\_\_\_\_\_e Xānom‐e Xoršidi?
 
@@ -4988,16 +4988,16 @@ Negin:\_\_\_\_\_\_\_\_\_\_, mozāhem‐etun šodam.
 
 Pasoxhā-ye dars-e 
 
-Jāhā‐ye xāli rā bā zamir‐e monāseb por kon\!
+Jāhā‐ye xāli rā bā zamir‐e monāseb por kon!
 
 1\. xodaš – 2. xodemān – 3. u – 4. xodaš; mā – 5. xodaš – 6. xodetān –
 7. hamdigar – 8. xodat – 9. xodešān – 10. xodaš; xodaš – 11. ‐aš – 12.
 xodemān
 
 <span id="anchor-406"></span>Goftogu‐ye bālā rā be zabān‐e neveštāri
-benevis\!
+benevis!
 
-Xānom‐e Gilāni: Befarmāyid\!
+Xānom‐e Gilāni: Befarmāyid!
 
 Jamšid:Manzel‐e Āqā‐ye Gilāni?
 
@@ -5015,11 +5015,11 @@ begirim. Hatman durbin‐aš rā bā xodaš biāvarad.
 Xānom‐e Gilāni: Be ru‐ye cešm, hatman be u miguyam. Omidvār am, yād‐aš
 naravad.
 
-Jamšid:Xeyl‐i mamnun. Xodā hāfez\!
+Jamšid:Xeyl‐i mamnun. Xodā hāfez!
 
-Xānom‐e Gilāni: Xāheš mikonam, Xodā negahdār\!
+Xānom‐e Gilāni: Xāheš mikonam, Xodā negahdār!
 
-<span id="anchor-407"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-407"></span>Jāhā‐ye xāli rā por kon!
 
 salām – befarmāyin – manzel – naxeyr – bebaxšin – mikonam
 
@@ -5034,7 +5034,7 @@ eštebāh mikonad, u yek beyt az yek še’r‐e āmuzande rā barā‐yaš bāz
 mikonad. Gāh‐i ham az abyāt‐e bištar‐i estefāde mikonad. U yek moallem‐e
 delsuz‐ ast va hamiše be vazāyef‐e xod amal mikonad.
 
-##### <span id="anchor-410"></span>Pāsox bedeh\!
+##### <span id="anchor-410"></span>Pāsox bedeh!
 
 1.  Madrese‐ye Susan cejur āmuzgārān‐i dārad?
 2.  Moallem‐e adabiyāt‐e Susan ce cizhā‐yi rā azbar midānad?
@@ -5093,7 +5093,7 @@ enqelābi**~~i~~yu**n
 |       |       |         |         |      |       |        |        |
 | adad  | a’dād | mas’ale | masāel  | qarn | qorun | ālem   | olamā  |
 
-##### <span id="anchor-419"></span>Haryek az esmhā‐ye sotun‐e B jam’‐e kodām esm az sotun‐e A‐ast? Šomāre‐ye ān rā benevis\!
+##### <span id="anchor-419"></span>Haryek az esmhā‐ye sotun‐e B jam’‐e kodām esm az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 
 |             |           |        |
 | ----------- | --------- | ------ |
@@ -5148,7 +5148,7 @@ Irān, az su‐ye UNESCO dar Fehrest‐e Mirās‐e Farhangi‐ye Jahān jāy
 gerefte‐and. Az zibātarin bāqhā dar Irān mitavānim az Bāq‐e Eram dar
 Širāz va Bāq‐e Šāzde dar Māhān nām bebarim.
 
-##### <span id="anchor-421"></span>Pāsox bedeh\!
+##### <span id="anchor-421"></span>Pāsox bedeh!
 
 1.  Tārixce‐ye bāqhā‐ye irāni az key va kojā āqāz mišavad?
 2.  Sabk‐e bāqsāzi‐ye irāni ce manāteq‐i az jahān rā taht‐e ta’sir‐e xod
@@ -5160,7 +5160,7 @@ gerefte‐and. Az zibātarin bāqhā dar Irān mitavānim az Bāq‐e Eram dar
 
 ## <span id="anchor-422"></span>Goftogu – Cand šab eqāmat mikonin?
 
-Mas’ul‐e pazireš: Salām\! Xeyl‐i xoš āmadin\! Befarmāyin\!
+Mas’ul‐e pazireš: Salām! Xeyl‐i xoš āmadin! Befarmāyin!
 
 Āqā‐ye Tehrāni: Salām. Bande Tehrāni hastam. Otāq‐e dotaxte‐ye xāli
 dārin? Mas’ul‐e pazireš: Cand šab eqāmat mikonin?
@@ -5171,18 +5171,18 @@ Mas’ul‐e pazireš: Ye dotaxte‐ye xāli dārim, ru be daryā, šab‐i 150,
 Toman, hamrāh bā sobhāne. Āqā‐ye Tehrāni: Besyār xob. Hamun‐o bedin.
 
 Mas’ul‐e pazireš: Lotf konin, in form‐o por konin. Injā r‐am emzā
-befarmāyin. Āqā‐ye Tehrāni: Befarmāyin\!
+befarmāyin. Āqā‐ye Tehrāni: Befarmāyin!
 
 Mas’ul‐e pazireš: Lotfan kārt‐e melli‐tun‐am lotf befarmāyin. Āqā‐ye
-Tehrāni: Befarmāyin\!
+Tehrāni: Befarmāyin!
 
 Mas’ul‐e pazireš: In‐am kelid‐e otāq‐etun. Otāq‐e 701, tabaqe‐ye haftom.
-Āsānsor tah‐e rāhrow‐e. Āqā‐ye Tehrāni: Mamnun\! Sobhāne tā ce
+Āsānsor tah‐e rāhrow‐e. Āqā‐ye Tehrāni: Mamnun! Sobhāne tā ce
 sāat‐i‐ye?
 
 Mas’ul‐e pazireš: Az haft tā dah‐o nim‐e sobh tu sālon‐e qazāxori,
 tabaqe‐ye avval. Camedunā ro in āqā barā‐tun miāran bālā. Āqā‐ye
-Tehrāni: Xeyl‐i mot’šakker‐am\!
+Tehrāni: Xeyl‐i mot’šakker‐am!
 
 #### <span id="anchor-423"></span>Nokte
 
@@ -5237,7 +5237,7 @@ setaxte – ru be jangal
 
 Šenāsnāme – gozarnāme – pāsport
 
-##### <span id="anchor-425"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis\!
+##### <span id="anchor-425"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis!
 
 – Mamnun Āqā‐ye Pāknežād. In‐am kelid‐e otāq etun. Otāq‐e 312, tabaqe‐ye
 sevvom. In āqā šomā ro rāhnamāyi mikonan.
@@ -5247,12 +5247,12 @@ hamsar‐am telefoni rezerv kardam.
 
 – Sepāsgozār‐am.
 
-– Xoš ādamin\! Befarmāyin\!
+– Xoš ādamin! Befarmāyin!
 
 – Bale, albatte. Otāq‐e šomā āmāda‐st. Lotfan in form‐o por konin‐o emzā
 konin.
 
-– Befarmāyin\!
+– Befarmāyin!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -5271,7 +5271,7 @@ konin.
 Pasoxhā-ye dars-e 
 
 Haryek az esmhā‐ye sotun‐e B jam’‐e kodām esm az sotun‐e A‐ast?
-Šomāre‐ye ān rā benevis\!
+Šomāre‐ye ān rā benevis!
 
 |             |           |        |
 | ----------- | --------- | ------ |
@@ -5298,9 +5298,9 @@ Haryek az esmhā‐ye sotun‐e B jam’‐e kodām esm az sotun‐e A‐ast?
 | 10‐ manba’  | mavāze’   | 1      |
 
 <span id="anchor-427"></span>Goftogu‐ye behamrixte rā morattab kon va be
-zabān‐e neveštāri benevis\!
+zabān‐e neveštāri benevis!
 
-– Xoš āmadid\! Befarmāyid\!
+– Xoš āmadid! Befarmāyid!
 
 – Bande Pāknežād hastam. Diruz yek otāq‐e dotaxte barā‐ye xodam‐o
 hamsar‐am telefoni rezerv kardam.
@@ -5308,7 +5308,7 @@ hamsar‐am telefoni rezerv kardam.
 – Bale, albatte. Otāq‐e šomā āmāde‐ast. Lotfan in form rā por konid‐o
 emzā konid.
 
-– Befarmāyid\!
+– Befarmāyid!
 
 – Mamnun Āqā‐ye Pāknežād. In ham kelid‐e otāq‐etān. Otāq‐e 312,
 tabaqe‐ye sevvom. In āqā šomā rā rāhnamāyi mikonand.
@@ -5317,7 +5317,7 @@ tabaqe‐ye sevvom. In āqā šomā rā rāhnamāyi mikonand.
 
 # <span id="anchor-428"></span>Yādāvari II
 
-##### <span id="anchor-429"></span>Haryek az pāsoxhā‐ye sotun‐e B javāb‐e kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis\!
+##### <span id="anchor-429"></span>Haryek az pāsoxhā‐ye sotun‐e B javāb‐e kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 
 |                                |                           |        |
 | ------------------------------ | ------------------------- | ------ |
@@ -5351,7 +5351,7 @@ tabaqe‐ye sevvom. In āqā šomā rā rāhnamāyi mikonand.
 |                                |                           |        |
 | 14‐ Cegune u rā peydā kardi?   | Yek qahve lotfan.         |        |
 
-##### <span id="anchor-430"></span>Bārā‐ye jomlehā‐ye zir yek porseš besāz\!
+##### <span id="anchor-430"></span>Bārā‐ye jomlehā‐ye zir yek porseš besāz!
 
 1)  Man dar Ahvāz zendegi mikonam.
 
@@ -5377,7 +5377,7 @@ tabaqe‐ye sevvom. In āqā šomā rā rāhnamāyi mikonand.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-##### <span id="anchor-431"></span>Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon\!
+##### <span id="anchor-431"></span>Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon!
 
 1.  Man‐o Sārā mixāhim fardā be Yazd
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (raftan).
@@ -5407,7 +5407,7 @@ tabaqe‐ye sevvom. In āqā šomā rā rāhnamāyi mikonand.
 12. To haminjā \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (budan), tā bar
     gardam.
 
-##### <span id="anchor-432"></span>Az goftār‐e mostaqim be goftār‐e qeyremostaqim tabdil kon\!
+##### <span id="anchor-432"></span>Az goftār‐e mostaqim be goftār‐e qeyremostaqim tabdil kon!
 
 **MostaqimQeyremostaqim**
 
@@ -5419,7 +5419,7 @@ Narges goft: “Ābrizeš‐e bini dāštam”.
 
 Nāhid goft: “Be didār bā ostād‐am omid dāšte‐am.”
 
-##### <span id="anchor-433"></span>Zir‐e hame‐ye zamirhā‐ye matn‐e zir xat bekeš\!
+##### <span id="anchor-433"></span>Zir‐e hame‐ye zamirhā‐ye matn‐e zir xat bekeš!
 
 Yek‐i az dustān‐e Sārā Bahrām‐ast. Bahrām navāzande‐ye besyār xubi‐st.
 Sedā‐ye garm‐i ham dārad. Bahrām‐o Sārā moddathā‐ st ke hamdigar rā
@@ -5430,7 +5430,7 @@ Bahrām barnāme‐aš rā sāat‐e noh šoru’ mikonad. Xodaš ham mizanad va
 mixānad. Mehmānān az šenidan‐e sedā‐ye u va tār‐aš besyār lezzat
 mibarand.
 
-##### <span id="anchor-434"></span>Mošaxxasāt‐e hamkelāsi‐yat rā benevis\!
+##### <span id="anchor-434"></span>Mošaxxasāt‐e hamkelāsi‐yat rā benevis!
 
 Mošaxxasāt
 
@@ -5450,9 +5450,9 @@ Rang‐e cešm:
 
 Sargarmihā:
 
-##### <span id="anchor-435"></span>Bā elhām az nāme‐ye zir yek nāme be dust‐at dar bāre‐ye āxarin safar‐at benevis\!
+##### <span id="anchor-435"></span>Bā elhām az nāme‐ye zir yek nāme be dust‐at dar bāre‐ye āxarin safar‐at benevis!
 
-Nāhid jān, salām\!
+Nāhid jān, salām!
 
 Omidvār‐am, ke hāl‐at xub bāšad. Mā barā‐ye cand ruz‐i be Esfahān
 āmade‐im. Diruz pas az mostaqar šodan dar hotel be Meydān‐e Naqš‐e
@@ -5461,7 +5461,7 @@ didan kardim. Dar ānjā doroške ham savār šodim. Vāqean ke in meydān
 xeyl‐i didani‐st. Šab raftim be Cāyxāne‐ye Hotel Abbāsi. Ānjā bā cand
 jahāngard‐e ālmāni āšnā šodim. Bā hamdigar qelyān ham kešidim. Fardā
 qarār‐ast, az Cehelsotun‐o Cāhārbāq‐o Menārjonbān bāzdid konim. Digar
-sar‐at rā dard nemiāvaram. Movāzeb‐e xodat bāš\!
+sar‐at rā dard nemiāvaram. Movāzeb‐e xodat bāš!
 
 Be omid‐e didār Parisā
 
@@ -5479,7 +5479,7 @@ Be omid‐e didār Parisā
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-##### <span id="anchor-436"></span>Vāžehā‐ye zir rā dastebandi kon\!
+##### <span id="anchor-436"></span>Vāžehā‐ye zir rā dastebandi kon!
 
 abru – adas – anār – angur – bāzu – berenj – bini – cešm – dahān – damāq
 – dandān – dast – del – galu – gandom – gardan – gilās – golābi – guš –
@@ -5495,13 +5495,13 @@ Mavādd‐e qazāyi:
 
 Mivehā:
 
-##### <span id="anchor-437"></span>Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān dar radif‐e pāyin mottasel kon\!
+##### <span id="anchor-437"></span>Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān dar radif‐e pāyin mottasel kon!
 
 bozorgtāriktamizbāriktalxporbolanddoroštxoškgerān
 
 kasifpahnširinrowšanrizxisarzānkucakxālikutāh
 
-##### <span id="anchor-438"></span>Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān dar radif‐e pāyin mottasel kon\!
+##### <span id="anchor-438"></span>Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān dar radif‐e pāyin mottasel kon!
 
 xabargondedānešāmuzfaršmarizqaribheyfdonyābāstānimardomān
 
@@ -5533,7 +5533,7 @@ nemigozārad. Az in ru hamiše sarzende‐vo pornešāt‐ast.
 
   - “Bā in ke senn‐i az u gozašte ast“ ya’ni “bā in ke senn‐aš bālā‐st“.
 
-##### <span id="anchor-443"></span>Pāsox bedeh\!
+##### <span id="anchor-443"></span>Pāsox bedeh!
 
 1.  Pedar‐e Sārā be ceciz alāqe dārad?
 2.  Cerā Manucehr varzeš rā dust dārad?
@@ -5599,7 +5599,7 @@ yā ... yāna ... naham ... hamce ... cena tanhā ... balke ... ham
       - o Be Tehrān ke residi, telefon kon. o Ketāb‐i rā xāst, ke man
         nadāštam. o Be u goft, ke man xaste‐am.
 
-##### <span id="anchor-450"></span>Jomlehā‐ye zir rā kāmel kon\!
+##### <span id="anchor-450"></span>Jomlehā‐ye zir rā kāmel kon!
 
 1.  Man fārsi yād migiram, con
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -5668,7 +5668,7 @@ rosubāt‐e kalsiyom sefid‐ast.
 
   - “Šur‐e šur“ ya’ni “xeyl‐i šur”.
 
-##### <span id="anchor-453"></span>Pāsox bedeh\!
+##### <span id="anchor-453"></span>Pāsox bedeh!
 
 1.  Bādāb‐e Surt kojā‐st?
 2.  Cešmehā‐ye Bādāb‐e Surt be onvān‐e candomin asar‐e mirās‐e tabii dar
@@ -5681,7 +5681,7 @@ rosubāt‐e kalsiyom sefid‐ast.
 
 ## <span id="anchor-454"></span>Goftogu – Kojā tašrif mibarin?
 
-Modir‐e āžāns:Tāksiservis‐e Bahār, befarmāyin\!
+Modir‐e āžāns:Tāksiservis‐e Bahār, befarmāyin!
 
 Xānom‐e Āzari:Salām. Bebaxšin, ye māšin mixāstam.
 
@@ -5707,9 +5707,9 @@ Xānom‐e Āzari:Xāheš mikonam, 88 93 94 17.
 
 Modir‐e āžāns:Xānum‐e Āzari, māšin tā dah daiqe dige miyād xedmat‐etun.
 
-Xānom‐e Āzari:Motšakker‐am, xodā hāfez\!
+Xānom‐e Āzari:Motšakker‐am, xodā hāfez!
 
-Modir‐e āžāns:Tamannā mikonam, Xodā negahdār\!
+Modir‐e āžāns:Tamannā mikonam, Xodā negahdār!
 
 #### <span id="anchor-455"></span>Nokte
 
@@ -5773,19 +5773,19 @@ Forudgāh – rāhāhan – Termināl‐e Qarb Key mirese?
 
 Hamin alān – tā nim sāat‐e dige
 
-##### <span id="anchor-459"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis\!
+##### <span id="anchor-459"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis!
 
 – Besyār xob, pas barā sāat‐e cāhār ye māšin mifrestam xedmat‐etun.
 
-– Salām Jenāb‐e Behruzi. Amr befarmāyin\! Kojā tašrif mibarin?
+– Salām Jenāb‐e Behruzi. Amr befarmāyin! Kojā tašrif mibarin?
 
-– Tāksiservis‐e Pāsārgād, befarmāyin\!
+– Tāksiservis‐e Pāsārgād, befarmāyin!
 
 – Taqāzā mikonam. Mixāstam fardā sāat‐e panj‐e sobh forudgāh bāšam.
 
-– Xeyl‐i mamnun\!
+– Xeyl‐i mamnun!
 
-– Xaste nabāšin\! Behruzi hastam, moštarek‐e 121.
+– Xaste nabāšin! Behruzi hastam, moštarek‐e 121.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -5803,19 +5803,19 @@ Hamin alān – tā nim sāat‐e dige
 
 Pasoxhā-ye dars-e 
 
-Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis\!
+Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis!
 
-– Tāksiservis‐e Pāsārgād, befarmāyid\!
+– Tāksiservis‐e Pāsārgād, befarmāyid!
 
-– Xaste nabāšid\! Behruzi hastam, moštarek‐e 121.
+– Xaste nabāšid! Behruzi hastam, moštarek‐e 121.
 
-– Salām Jenāb‐e Behruzi. Amr befarmāyid\! Kojā tašrif mibarid?
+– Salām Jenāb‐e Behruzi. Amr befarmāyid! Kojā tašrif mibarid?
 
 – Taqāzā mikonam. Mixāstam fardā sāat‐e panj‐e sobh forudgāh bāšam.
 
 – Besyār xub, pas barā‐ye sāat‐e cāhār yek māšin miferestam xedmat‐etān.
 
-– Xeyl‐i mamnun\!
+– Xeyl‐i mamnun!
 
 # <span id="anchor-461"></span>Gomšode dar rāh
 
@@ -5833,7 +5833,7 @@ raftand va kam‐i ba’d be vilā residand.
 
   - “*Dir‐i nagozašt*” ya’ni ziyād tul nakešid.
 
-##### <span id="anchor-464"></span>Pāsox bedeh\!
+##### <span id="anchor-464"></span>Pāsox bedeh!
 
 1.  Sārā‐vo Faribā kojā dāštand miraftand?
 2.  Ānhā key rāh rā gom kardand?
@@ -5873,7 +5873,7 @@ raftand va kam‐i ba’d be vilā residand.
 
   - Dar ebārathā‐ye vasfi‐ye bālā maf’ul‐e jomle bivāsete‐ast.
 
-##### <span id="anchor-470"></span>Mānand‐e nemune jomle besāz\!
+##### <span id="anchor-470"></span>Mānand‐e nemune jomle besāz!
 
 1.  Ān doxtar šāgerdavval‐e kelās‐ast. Ān doxtar emruz be dāneškade
     nayāmade‐ast. Doxtar‐i ke šāgerdavval‐e kelās‐ast, emruz be
@@ -5882,7 +5882,7 @@ raftand va kam‐i ba’d be vilā residand.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1.  Dišab šām‐e xošmaze‐i xordim. Ān rā dorost kon\!
+1.  Dišab šām‐e xošmaze‐i xordim. Ān rā dorost kon!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -5964,7 +5964,7 @@ o mard soxan miguyand. In dar hāl‐i‐st ke dar ān zamān, va hattā
 moddathā pas az ān, zanān dar sāyer‐e noqāt‐e jahān yā barde be hesāb
 miāmadand yā az hoquq‐e nāciz‐i barxordār budand.
 
-##### <span id="anchor-472"></span>Pāsox bedeh\!
+##### <span id="anchor-472"></span>Pāsox bedeh!
 
 1.  Majmue‐ye Pārse kojā qarār dārad?
 2.  Qedmat‐e ān taqriban cand sāl‐ast?
@@ -5977,7 +5977,7 @@ miāmadand yā az hoquq‐e nāciz‐i barxordār budand.
 
 ## <span id="anchor-473"></span>Goftogu – Ce model‐i barā tun bezanam?
 
-Ārāyešgar:Befarmāyin\!
+Ārāyešgar:Befarmāyin!
 
 Moštari:Mixāstam muhā‐m‐o kutā konam.
 
@@ -6069,7 +6069,7 @@ Ceqad kutā beše? – Fer‐e riz yā fer‐e dorošt?
 
 Sešuār‐am bekešam? – Abruhā‐tun‐am morattab konam?
 
-##### <span id="anchor-477"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis\!
+##### <span id="anchor-477"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis!
 
 – Muhā‐tun‐o ke qabl‐eš rang nakardin, bale?
 
@@ -6107,10 +6107,10 @@ Sešuār‐am bekešam? – Abruhā‐tun‐am morattab konam?
 
 Pasoxhā-ye dars-e 
 
-Mānand‐e nemune jomle besāz\!
+Mānand‐e nemune jomle besāz!
 
 2\. Bacce‐i ke gerye mikonad, deldard dārad. – 3. Šām‐e xošmaze‐i rā ke
-dišab xordim, dorost kon\! – 4. Ketāb‐i rā ke be man dādi, hanuz
+dišab xordim, dorost kon! – 4. Ketāb‐i rā ke be man dādi, hanuz
 naxānde‐am. – 5. Xāne‐i rā ke dar ān si sāl zendegi karde budim,
 foruxtim. – 6. Ostād‐i ke diruz be injā āmad, emruz bar migardad. – 7.
 Boluz‐i rā ke hafte‐ye piš xaridam, be dust‐am hedye dādam. – 8. Howle‐i
@@ -6123,7 +6123,7 @@ yādgāri‐ye mādar‐am bud. – 14. Tim‐i ke barande‐ye in mosābeqe‐a
 bāzande‐ye mosābeqe‐ye hafte‐ye piš bud.
 
 <span id="anchor-479"></span>Goftogu‐ye behamrixte rā morattab kon va be
-zabān‐e neveštāri benevis\!
+zabān‐e neveštāri benevis!
 
 – Mixāstam muhā‐yam rā fer bezanam.
 
@@ -6155,7 +6155,7 @@ ke dar senn‐e davāzdahsālegi be candin sāz tasallot dāšt. Sārā tasmim
 dārad, ke nazd‐e Bahrām āmuzeš bebinad, dar surat‐i ke aqlab‐e dustān‐e
 u musiqi‐ye pāp rā bištar mipasandand.
 
-##### <span id="anchor-482"></span>Pāsox bedeh\!
+##### <span id="anchor-482"></span>Pāsox bedeh!
 
 1.  Sārā az key be musiqi‐ye asil‐e irāni bištar alāqemand šod?
 2.  Bahrām az key navāzandegi rā šoru’ kard?
@@ -6178,7 +6178,7 @@ u musiqi‐ye pāp rā bištar mipasandand.
 |                                                     |                                                    |                                                      |
 |                                                     | pas/ba’d az in ke                                  | Pas az in ke u sohbat kard, hame rāzi šodand.        |
 |                                                     |                                                    |                                                      |
-|                                                     | piš/qabl az ān ke                                  | Piš az ān ke soxan beguyi, kam‐i fekr kon\!          |
+|                                                     | piš/qabl az ān ke                                  | Piš az ān ke soxan beguyi, kam‐i fekr kon!          |
 |                                                     |                                                    |                                                      |
 | zamān                                               | harvaqt – hargāh                                   | Harvaqt u miāyad, xošhāl mišavam.                    |
 |                                                     |                                                    |                                                      |
@@ -6211,15 +6211,15 @@ u musiqi‐ye pāp rā bištar mipasandand.
   - Dar ebārathā‐ye qeydi gāh‐i az *ke* cešmpuši mišavad: Vaqt‐i (ke)
     Mahnāz āmad, hame sāket šodand.
 
-##### <span id="anchor-486"></span>Bā estefāde az vāžehā/ebārathā‐ye zir jomlehā‐ye zir rā be ham vasl kon\!
+##### <span id="anchor-486"></span>Bā estefāde az vāžehā/ebārathā‐ye zir jomlehā‐ye zir rā be ham vasl kon!
 
 keconān ... ketāaz vaqt‐i kedar hāl‐i keaz ānjā kezirconvaqt‐i
 keharvaqtbā in keba’d az in ke
 
 ā
 
-1.  Mosābeqe‐ye futbāl šoru’ šod. Be man telefon kon\! Mosābeqe‐ye
-    futbāl *ke* šoru’ šod, be man telefon kon\!
+1.  Mosābeqe‐ye futbāl šoru’ šod. Be man telefon kon! Mosābeqe‐ye
+    futbāl *ke* šoru’ šod, be man telefon kon!
 2.  Mahnāz xeyl‐i xaste bud. Tā sobh kār kard.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -6339,7 +6339,7 @@ Aks – peste – ājil – kādo – lebās
 
 Pāris – Rom
 
-##### <span id="anchor-490"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis\!
+##### <span id="anchor-490"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis!
 
 – Cāhārruze.
 
@@ -6387,7 +6387,7 @@ Haftsad Toman‐am tambr ru‐š becasbunin.
 Pasoxhā-ye dars-e 
 
 Bā estefāde az vāžehā/ebārathā‐ye zir jomlehā‐ye zir rā be ham vasl
-kon\!
+kon!
 
 2\. Bā in ke Mahnāz xeyl‐i xaste bud, tā sobh kār kard. – 3. Bā lagad
 conān mohkam dar rā bast, ke dar šekast. – 4. Harvaqt vāzeh nemibinam,
@@ -6403,7 +6403,7 @@ gerye mikardim, dar hāl‐i ke u mixandid. – 12. In dusti fāyede‐i
 nadārad, zirā dust bāyad dar qam‐o šādi‐ye ādam šarik bāšad.
 
 <span id="anchor-492"></span>Goftogu‐ye behamrixte rā morattab kon va be
-zabān‐e neveštāri benevis\!
+zabān‐e neveštāri benevis!
 
 – Mixāstam in nāme rā post konam?
 
@@ -6440,7 +6440,7 @@ Barf‐e šadid‐i mibārid va Sāmān hengām‐e entezār dar istgāh‐e oto
 hesābi milarzid. Xošbaxtāne otobus‐e ba’di zud āmad. Agar kam‐i dirtar
 āmade bud, Sāmān az sarmā yax zade bud.
 
-##### <span id="anchor-495"></span>Pāsox bedeh\!
+##### <span id="anchor-495"></span>Pāsox bedeh!
 
 1.  Cerā Sāmān be otobus naresid?
 2.  U cerā fekr mikard, ke mādar‐aš negarān mišavad?
@@ -6467,7 +6467,7 @@ hesābi milarzid. Xošbaxtāne otobus‐e ba’di zud āmad. Agar kam‐i dirtar
 
   - Ebārathā‐ye šarti bā *agar* āqāz mišavand.
 
-##### <span id="anchor-499"></span>Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon\!
+##### <span id="anchor-499"></span>Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon!
 
 1.  Fardā u rā mibinam. Agar movāfeq \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     (budan), be to xabar mideham.
@@ -6488,7 +6488,7 @@ hesābi milarzid. Xošbaxtāne otobus‐e ba’di zud āmad. Agar kam‐i dirtar
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (goftan), dastbekār mišodim.
 9.  Haminjā montazer‐e man bāš. Agar man
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (bar gaštan), xodat tanhā
-    savār šow\!
+    savār šow!
 10. Dastekam tā nim sāat piš xiyābānhā šoluq budand. Agar al’ān xalvat
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (budan), bā tāksi miravam.
 
@@ -6535,7 +6535,7 @@ gāhšomāri‐ye irāni bude‐ast. Taqvim‐e irāni az taqvim‐e milādi
 daqiqtar‐ast. Xayyām andišehā‐ye hakimāne‐ye xod rā be zabān‐ e sāde
 dar robāiyāt‐aš bayān mikonad. Robāiyāt‐e u šohrat‐e jahāni dārand.
 
-##### <span id="anchor-501"></span>Pāsox bedeh\!
+##### <span id="anchor-501"></span>Pāsox bedeh!
 
 1.  Xārazmi rā pedar‐e kodām šāxe az elm midānand?
 2.  Rāzi ce cizhā‐yi rā kašf kard?
@@ -6545,8 +6545,8 @@ dar robāiyāt‐aš bayān mikonad. Robāiyāt‐e u šohrat‐e jahāni dāran
 
 ## <span id="anchor-502"></span>Goftogu – Nerx‐e Dolār cand‐e?
 
-Āqā‐ye Xākbāz: Salām\! Bebaxšin, bāje‐ye xadamāt‐e arzi haminjā‐st?
-Kārmand‐e bānk: Bale. Amr‐etun‐o befarmāyin\!
+Āqā‐ye Xākbāz: Salām! Bebaxšin, bāje‐ye xadamāt‐e arzi haminjā‐st?
+Kārmand‐e bānk: Bale. Amr‐etun‐o befarmāyin!
 
 Āqā‐ye Xākbāz: Mixāstam age miše hezār‐o punsad Dolār tabdil konam.
 Nerx‐e emruz‐e Dolār cand‐e? Kārmand‐e bānk: Xāheš mikonam. Ye lahze
@@ -6601,11 +6601,11 @@ Yen – Pond
 
 Bālā rafte – taraqqi karde
 
-##### <span id="anchor-506"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis\!
+##### <span id="anchor-506"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis!
 
 – Ejāze bedin, nerx‐e ruz‐o negāh konam ... cāhār hezār‐o sad Toman.
 
-– Haminjā‐st. Befarmāyin\!
+– Haminjā‐st. Befarmāyin!
 
 – Mixāstam hezār Pond tabdil konam.
 
@@ -6632,18 +6632,18 @@ tā eskenās‐e panjhezārtomani.
 
 Pasoxhā-ye dars-e 
 
-Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon\!
+Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon!
 
 1\. bāšad – 2. xānde bud – 3. biyāvarim – 4. šerkat mikard – 5. nayāmade
 bud – 6. bāšad – 7. dide bāšad – 8. gofte budand – 9. bar nagaštam – 10.
 bāšand
 
 <span id="anchor-508"></span>Goftogu‐ye behamrixte rā morattab kon va be
-zabān‐e neveštāri benevis\!
+zabān‐e neveštāri benevis!
 
 – Bebaxšid, bāje‐ye xadamāt‐e arzi kojā‐st?
 
-– Haminjā‐st. Befarmāyid\!
+– Haminjā‐st. Befarmāyid!
 
 – Mixāstam hezār Pond tabdil konam.
 
@@ -6668,7 +6668,7 @@ Fowran be forušgāh raft va harce be nazar‐aš resid, xarid. In pišāmad u
 rā conān tarsānd, ke az ān zamān be ba’d qarārhā‐yaš rā dar taqvim
 yāddāšt mikonad.
 
-##### <span id="anchor-511"></span>Pāsox bedeh\!
+##### <span id="anchor-511"></span>Pāsox bedeh!
 
 1.  Mahnāz panjšanbešab dāšt cekār mikard?
 2.  Nāgahān ceciz yād‐aš oftād?
@@ -6728,13 +6728,13 @@ residanresāndan
     masdar‐i‐st, ke be “‐idan” xatm mišavad: tarsidan, tarsāndan;
     mālidan, mālāndan.
 
-##### <span id="anchor-518"></span>Jāhā‐ye xāli rā bā ebārat‐e qeyrešaxsi‐ye monāseb por kon\!
+##### <span id="anchor-518"></span>Jāhā‐ye xāli rā bā ebārat‐e qeyrešaxsi‐ye monāseb por kon!
 
 1.  Mahin az film‐e tarsnāk \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     (bad āmadan).
 2.  Harce fekr kardam, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (yād
     āmadan), ke u rā kojā dide budam.
-3.  Lotfan panjere rā beband\! Ānhā hassās hastand.
+3.  Lotfan panjere rā beband! Ānhā hassās hastand.
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (sard šodan).
 4.  Kāpšen‐at rā dar biyāvar, vagarna
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (garm šodan).
@@ -6759,7 +6759,7 @@ residanresāndan
 14. Āheste harf bezan, tā Susan \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     (xāb bordan).
 
-##### <span id="anchor-519"></span>Jāhā‐ye xāli rā dar matn‐e zir bā fe’lhā‐ye sababi por kon\!
+##### <span id="anchor-519"></span>Jāhā‐ye xāli rā dar matn‐e zir bā fe’lhā‐ye sababi por kon!
 
 Faribā, dust‐e Sārā, cand ruz piš bimār šode bud. Sārā be ayādat‐e u
 raft. Faribā xeyl‐i qamgin bud va dāruhā‐yaš rā nemixord. Sārā noxost u
@@ -6800,10 +6800,10 @@ dārand. Āsār‐e u bozorgtarin ta’sir rā dar adab‐ e ārefāne dāšte�
 qazal rā be noqte‐ye owj‐e xod resānd. Soxan‐e Hāfez hakimāne‐vo
 jāduyi‐st va hekāyat az setiz bā riyākāri‐yo jahl‐o taassob dārad.
 Hāfez az conān maqām‐i dar nazd‐e jahāniyān barxordār‐ ast, ke šifte‐ye
-u, Göthe, dar bāre‐aš conin miguyad: *“... Hāfez\! Xiš rā* *bā* *to
+u, Göthe, dar bāre‐aš conin miguyad: *“... Hāfez! Xiš rā* *bā* *to
 barābar nahādan, joz nešān‐e* *divānegi nist.”*
 
-##### <span id="anchor-521"></span>Pāsox bedeh\!
+##### <span id="anchor-521"></span>Pāsox bedeh!
 
 1.  Adabiyāt‐e fārsi ce jāygāh‐i dar jahān dārad?
 2.  Ma’ruftarin āsār‐e Sa’di ce nām dārand?
@@ -6817,7 +6817,7 @@ barābar nahādan, joz nešān‐e* *divānegi nist.”*
 
 Luthansa – Berlin – pesar – bist‐o panj kilu
 
-##### <span id="anchor-524"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis\!
+##### <span id="anchor-524"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis!
 
 – Ye parvāz‐e bedunetavaqqof bā Iran Air dārim, cāhārsad hezār Toman.
 
@@ -6848,7 +6848,7 @@ Luthansa – Berlin – pesar – bist‐o panj kilu
 
 Pasoxhā-ye dars-e 
 
-Jāhā‐ye xāli rā bā ebārat‐e qeyrešaxsi‐ye monāseb por kon\!
+Jāhā‐ye xāli rā bā ebārat‐e qeyrešaxsi‐ye monāseb por kon!
 
 1\. bad‐aš miāyad – 2. yād‐am nayāmad – 3. sard‐ešān mišavad – 4.
 garm‐at mišavad – 5. dard‐aš gereft – 6. rānandegi kard – 7. mišavad;
@@ -6856,12 +6856,12 @@ did – 8. goft – 9. raft – 10. yād‐aš raft – 11. xoš‐ešān miāya
 mitavān; xarid – 13. istād – 14. xāb‐aš bebarad
 
 <span id="anchor-526"></span>Jāhā‐ye xāli rā dar matn‐e zir bā fe’lhā‐ye
-sababi por kon\!
+sababi por kon!
 
 nešānd – bexandānad – xandānd – xorānd
 
 <span id="anchor-527"></span>Goftogu‐ye behamrixte rā morattab kon va be
-zabān‐e neveštāri benevis\!
+zabān‐e neveštāri benevis!
 
 – Yek belit‐e raftobargašt be Bārselon lotfan.
 
@@ -6887,7 +6887,7 @@ Sārā tavassot‐e cand rahgozar dide šode‐ and. In dovvomin bār‐i‐st k
 dar in mahalle dozdi šode‐ast. Avvalin dozdi hodud‐e cāhār sāl‐e piš rox
 dāde bud. Dozdān‐e ān dozdi be zudi tavassot‐e polis dastgir šodand.
 
-##### <span id="anchor-530"></span>Pāsox bedeh\!
+##### <span id="anchor-530"></span>Pāsox bedeh!
 
 1.  Hafte‐ye piš dozdi kojā surat gereft?
 2.  Rahgozarān tebq‐e gozāreš‐e polis dozdān rā kojā dide‐and?
@@ -6923,7 +6923,7 @@ Sāxtār
   - Barx‐i az fe’lhā‐ye morakkab sāxtārhā‐ye ma’lum‐o majhul dārand:
     āsib zadan (be), āsib didan (az).
 
-##### <span id="anchor-533"></span>Jomlehā ye‐e zir rā az ma’lum be majhul tabdil kon\!
+##### <span id="anchor-533"></span>Jomlehā ye‐e zir rā az ma’lum be majhul tabdil kon!
 
 1)Jāsusān‐e ānhā te’dād‐e ziyād‐i az dānešmandān rā robudand.
 
@@ -6997,7 +6997,7 @@ migozārand”. Laleh Seddigh, dānešju‐ye doktorā, nemune‐i rā be namāy
 gozāšt: U dar candin mosābeqe‐ye qahremāni‐ye otomobilrāni‐ye Irān
 raqibān‐e mard‐e xod rā šekast dād.
 
-##### <span id="anchor-535"></span>Pāsox bedeh\!
+##### <span id="anchor-535"></span>Pāsox bedeh!
 
 1.  Dar Irān varzeš‐o axlāq ce rābete‐i bā yekdigar dārand?
 2.  Be qahremānān‐e varzeš‐e bāstāni ce miguyand?
@@ -7010,7 +7010,7 @@ raqibān‐e mard‐e xod rā šekast dād.
 
 Motessadi:Bilitā‐tun‐o lotf konin.
 
-Xānom‐e Nāmju: Befarmāyin\!
+Xānom‐e Nāmju: Befarmāyin!
 
 Motessadi:Cand tā camedun dārin?
 
@@ -7024,7 +7024,7 @@ sandalihā‐ye F‐o G. Tašrif bebarin geyt‐e hašt.
 
 Ma’mur‐e kontorol: Gozarnāma‐tun lotfan.
 
-Xānom‐e Nāmju:Befarmāyin\!
+Xānom‐e Nāmju:Befarmāyin!
 
 Ma’mur‐e kontorol: Išun pesar‐etun‐an?
 
@@ -7076,7 +7076,7 @@ Sandali‐ye taraf‐e rāhrow
 
 Pāsport – hamsar
 
-##### <span id="anchor-539"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! E’lān‐e zir bā bā estefāde az in ebārathā/vāžehā be zabān‐e neveštāri bāznevisi kon\!
+##### <span id="anchor-539"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! E’lān‐e zir bā bā estefāde az in ebārathā/vāžehā be zabān‐e neveštāri bāznevisi kon!
 
 forudgāh‐e Tehrānbe maqsad‐e Munixpanj sāat‐o nimhašt daraje‐ye
 sāntigerādabrihālat‐e amudi
@@ -7104,7 +7104,7 @@ barā‐ tun ārezu mikonim.
 
 Pasoxhā-ye dars-e 
 
-Jomlehā ye‐e zir rā az ma’lum be majhul tabdil kon\!
+Jomlehā ye‐e zir rā az ma’lum be majhul tabdil kon!
 
 Candin qeyrenezāmi tavassot‐e sarbāzān‐e došman košte šodand. – 3) Hic
 dānešju‐yi tā konun tavassot‐e ostād‐e Sārā rad našode‐ast. – 4) U
@@ -7115,7 +7115,7 @@ bāre‐ye sud yā zarar‐e in moāmele tavassot‐e ānhā gofte našode‐ast
 In xodrowhā tavassot‐e šerkat‐e Iran Khodro sāxte mišavand.
 
 <span id="anchor-541"></span>E’lān‐e zir bā bā estefāde az in
-ebārathā/vāžehā be zabān‐e neveštāri bāznevisi kon\!
+ebārathā/vāžehā be zabān‐e neveštāri bāznevisi kon!
 
 Sarmehmāndār: Mosāferān‐e gerāmi, az taraf‐e Xalabān Pāknežād va
 hamkārān‐am be šomā xošāmad miguyam. Hamaknun forudgāh‐e Tehrān rā be
@@ -7141,7 +7141,7 @@ bebāzad, u divāne mišavad. Kāmbiz be u deldāri midehad. U be Sāmān
 xāternešān mikonad, ke Irān bāzikonān‐e bātajrobe‐i dārad va tā konun
 dar zamin‐e xod bāzi rā be Kore vāgozār nakarde‐ast.
 
-##### <span id="anchor-544"></span>Pāsox bedeh\!
+##### <span id="anchor-544"></span>Pāsox bedeh!
 
 1.  Sāmān‐o Kāmbiz kojā miravand?
 2.  Ānhā qarār‐ast, kodām bāzi rā bebinand?
@@ -7249,7 +7249,7 @@ dar zamin‐e xod bāzi rā be Kore vāgozār nakarde‐ast.
 |                  |                                |          |
 | ‐ār              | esmsāz                         | neveštār |
 
-##### <span id="anchor-552"></span>Zir‐e vāžehā‐ye moštaq‐e matn xat bekeš\!
+##### <span id="anchor-552"></span>Zir‐e vāžehā‐ye moštaq‐e matn xat bekeš!
 
 Sāmān, barādar‐e Sārā, va dust‐aš, Kāmbiz, emruz be Varzešgāh‐e Āzādi
 miravand, tā mosābeqe‐ye futbāl‐e Irān‐o Kore‐ ye Jonubi rā bebinand.
@@ -7262,7 +7262,7 @@ bebāzad, u divāne mišavad. Kāmbiz be u deldāri midehad. U be Sāmān
 xāternešān mikonad, ke Irān bāzikonān‐e bātajrobe‐i dārad va tā konun
 dar zamin‐e xod bāzi rā be Kore vāgozār nakarde‐ast.
 
-##### <span id="anchor-553"></span>Jadval‐e zir rā kāmel kon\!
+##### <span id="anchor-553"></span>Jadval‐e zir rā kāmel kon!
 
 |               |           |           |
 | ------------- | --------- | --------- |
@@ -7312,7 +7312,7 @@ hodudan šast sāl‐e piš, hengām‐i ke Vigen gitār rā vāred‐e musiqi�
 Irān kard, musiqi‐ye pāp‐e Irān gostareš yāft. Šāyad mašhurtarin va
 mahbubtarin xānande‐ye pāp‐ e Irān Googoosh bāšad.
 
-##### <span id="anchor-555"></span>Pāsox bedeh\!
+##### <span id="anchor-555"></span>Pāsox bedeh!
 
 1.  Navāzandegān‐e darbār‐e Sāsāniyān ce nām dāštand?
 2.  Bārbod rā pāyegozār‐e ce midānand?
@@ -7321,7 +7321,7 @@ mahbubtarin xānande‐ye pāp‐ e Irān Googoosh bāšad.
 5.  Bedāhenavāzi ya’ni ce?
 6.  Kodām sāzhā‐ye irāni rā mišenāsi?
 
-## <span id="anchor-556"></span>Goftogu – Lotfan camedun‐o bāz konin\!
+## <span id="anchor-556"></span>Goftogu – Lotfan camedun‐o bāz konin!
 
 Āqā‐ye Kāmyāb:Bebaxšin āqā, bār‐e parvāz‐e Pāris‐o kojā tahvil begirim?
 
@@ -7331,7 +7331,7 @@ Mas’ul‐e bār:Tašrif bebarin bānd‐e panj.
 
 Ma’mur‐e gomrok:Lotfan camedun etun‐o bāz konin.
 
-Āqā‐ye Kāmyāb:Befarmāyin\!
+Āqā‐ye Kāmyāb:Befarmāyin!
 
 Ma’mur‐e gomrok:Tu‐š ci dārin?
 
@@ -7367,7 +7367,7 @@ xoš‐i dāšte bāšin.
 
 Ketāb – lavāzem‐e šaxsi – kādo – asbābbāzi
 
-##### <span id="anchor-559"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! E’lān‐e zir bā bā estefāde az in ebārathā/vāžehā be zabān‐e neveštāri bāznevisi kon\!
+##### <span id="anchor-559"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! E’lān‐e zir bā bā estefāde az in ebārathā/vāžehā be zabān‐e neveštāri bāznevisi kon!
 
 be zamin mišinimsandalihā‐ye xod ro tark nakonin
 
@@ -7392,7 +7392,7 @@ mikonim.
 
 Pasoxhā-ye dars-e 
 
-Zir‐e vāžehā‐ye moštaq‐e matn xat bekeš\!
+Zir‐e vāžehā‐ye moštaq‐e matn xat bekeš!
 
 Sāmān, barādar‐e Sārā, va dust‐aš, Kāmbiz, emruz be *Varzešgāh*‐e
 *Āzādi* miravand, tā mosābeqe‐ye futbāl‐e Irān‐o Kore‐ye *Jonubi* rā
@@ -7405,7 +7405,7 @@ Agar Irān bebāzad, u *divāne* mišavad. Kāmbiz be u *deldāri* midehad. U
 be Sāmān xāternešān mikonad, ke Irān bāzikonān‐e *bātajrobe*‐i dārad va
 tā konun dar zamin‐e xod bāzi rā be Kore *vāgozār* nakarde‐ast.
 
-<span id="anchor-561"></span>Jadval‐e zir rā kāmel kon\!
+<span id="anchor-561"></span>Jadval‐e zir rā kāmel kon!
 
 |               |           |           |
 | ------------- | --------- | --------- |
@@ -7424,7 +7424,7 @@ tā konun dar zamin‐e xod bāzi rā be Kore *vāgozār* nakarde‐ast.
 | āmuxtan       | āmuzeš    | āmuzeši   |
 
 <span id="anchor-562"></span>E’lān‐e zir bā bā estefāde az in
-ebārathā/vāžehā be zabān‐e neveštāri bāznevisi kon\!
+ebārathā/vāžehā be zabān‐e neveštāri bāznevisi kon!
 
 Sarmehmāndār: Mosāferān‐e mohtaram, mā tā cand daqiqe‐ye dige dar
 forudgāh‐e Munix be zamin minešinim. Lotfan kamarbandhā‐ye imeni‐ye xod
@@ -7447,7 +7447,7 @@ dastband‐e mowredenazar‐ešān rā peydā mikonand va tāze cānezani šoru�
 mišavad. Pas az bist daqiqe Mahnāz‐o forušande be tavāfoq miresand.
 Sārā xošhāl‐ast, ke u va mādar‐aš bā dast‐e por be xāne bar migardand.
 
-##### <span id="anchor-565"></span>Pāsox bedeh\!
+##### <span id="anchor-565"></span>Pāsox bedeh!
 
 1.  Hafte‐ye āyande arusi‐ye ki‐st?
 2.  Cerā Sārā‐vo mādar‐aš be bāzār miravand?
@@ -7492,7 +7492,7 @@ Sārā xošhāl‐ast, ke u va mādar‐aš bā dast‐e por be xāne bar migard
   - Joz’‐i az tarkib mitavānad moštaq bāšad: rang+in \> rangin;
     rangin+kamān \> ranginkamān.
 
-##### <span id="anchor-569"></span>Zir‐e vāžehā‐ye morakkab‐e matn xat bekeš\!
+##### <span id="anchor-569"></span>Zir‐e vāžehā‐ye morakkab‐e matn xat bekeš!
 
 Hafte‐ye āyande arusi‐ye Faribā, dust‐e samimi‐ye Sārā‐st. Sārā be
 hamrāh‐e mādar‐aš, Mahnāz, bā metro be bāzār rafte‐ast, tā barā‐yaš
@@ -7558,7 +7558,7 @@ Hozur‐e sinamāgarān‐e zan niz dar Irān qābeletavajjoh‐ast. Az miyān�
 ānhā mitavān dar kenār‐e Rakhshan Bani‐Etemad az Samira Makhmalbaf yād
 kard.
 
-##### <span id="anchor-572"></span>Pāsox bedeh\!
+##### <span id="anchor-572"></span>Pāsox bedeh!
 
 |  |
 |  |
@@ -7591,7 +7591,7 @@ bozorgtarin kārgardānān‐e irāni be šomār miāyand. Filmhā‐yi con Bā�
 Ta’m‐e Gilās, Zir‐e Deraxtān‐e Zeytun va Jodāyi‐ye Nāder‐o Simin
 jozv‐e behtarin filmhā‐ye irāni hastand.
 
-Belitforuš:Befarmāyin\! Radif‐e do, sandaliyā‐ye dah‐o yāzdah. Miše se
+Belitforuš:Befarmāyin! Radif‐e do, sandaliyā‐ye dah‐o yāzdah. Miše se
 hezār Toman.
 
 Rowšanak:Xedmat‐e šomā.
@@ -7639,7 +7639,7 @@ dar‐e sālon‐o unmowqe mibandan.
 
 Radif‐e vasat – tā ye rob be dah xodetun‐o be sālon beresunin
 
-##### <span id="anchor-576"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon\! Jadval‐e zir rā, tā ānjā‐yi ke midāni, bā mošaxxasāt‐e yek film‐e mowredealāqe‐at por kon\!
+##### <span id="anchor-576"></span>Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jadval‐e zir rā, tā ānjā‐yi ke midāni, bā mošaxxasāt‐e yek film‐e mowredealāqe‐at por kon!
 
 Onvān:
 
@@ -7661,7 +7661,7 @@ Xolāse‐ye dāstān:
 
 Pasoxhā-ye dars-e 
 
-Zir‐e vāžehā‐ye morakkab‐e matn xat bekeš\!
+Zir‐e vāžehā‐ye morakkab‐e matn xat bekeš!
 
 Hafte‐ye āyande arusi‐ye Faribā, dust‐e samimi‐ye Sārā‐st. Sārā be
 hamrāh‐e mādar‐aš, Mahnāz, bā metro be bāzār rafte‐ast, tā barā‐yaš
@@ -7676,7 +7676,7 @@ xāne *bar migardand*.
 
 # <span id="anchor-578"></span>Yādāvari III
 
-##### <span id="anchor-579"></span>Haryek az pāsoxhā‐ye sotun‐e B javāb‐e kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis\!
+##### <span id="anchor-579"></span>Haryek az pāsoxhā‐ye sotun‐e B javāb‐e kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 
 |                                         |                                   |        |
 | --------------------------------------- | --------------------------------- | ------ |
@@ -7710,7 +7710,7 @@ xāne *bar migardand*.
 |                                         |                                   |        |
 | 14‐ Sandali‐ye kenār‐e panjere xub‐ast? | Naxeyr, hamsar‐am hastand.        |        |
 
-##### <span id="anchor-580"></span>In jomlehā rā az majhul be ma’lum tabdil kon\!
+##### <span id="anchor-580"></span>In jomlehā rā az majhul be ma’lum tabdil kon!
 
 1)  Goldān‐e ru‐ye miz šekaste šod. (Farid)
 
@@ -7732,7 +7732,7 @@ xāne *bar migardand*.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-##### <span id="anchor-581"></span>Jadval‐e zir rā kāmel kon\!
+##### <span id="anchor-581"></span>Jadval‐e zir rā kāmel kon!
 
 |  |       |                                                           |                  |                |
 |  | ----- | --------------------------------------------------------- | ---------------- | -------------- |
@@ -7751,7 +7751,7 @@ xāne *bar migardand*.
 
 Ānhāgofte budand
 
-##### <span id="anchor-582"></span>Jomlehā‐ye zir rā bā estefāde az horuf‐e rabt be ham vasl kon\!
+##### <span id="anchor-582"></span>Jomlehā‐ye zir rā bā estefāde az horuf‐e rabt be ham vasl kon!
 
 1.  Pedar‐am raft. Rāhat šodam. (ba’d az in ke)
 
@@ -7775,7 +7775,7 @@ xāne *bar migardand*.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-##### <span id="anchor-583"></span>Jāhā‐ye xāli rā bā pišvandhā‐vo pasvandhā‐ye zir por kon\!
+##### <span id="anchor-583"></span>Jāhā‐ye xāli rā bā pišvandhā‐vo pasvandhā‐ye zir por kon!
 
 ‐mand‐ibā‐‐ānebi‐ham‐‐ande‐gāh
 
@@ -7788,18 +7788,18 @@ xāne *bar migardand*.
 7.  Dar in butik pušāk‐e mard\_\_\_ peydā nemišavad.
 8.  U hargez az saxt\_\_\_ natarside‐ast.
 
-##### <span id="anchor-584"></span>Vāžehā‐ye morakkab‐e zir rā dastebandi kon\!
+##### <span id="anchor-584"></span>Vāžehā‐ye morakkab‐e zir rā dastebandi kon!
 
 cāhārpā – ābohavā – toxmemorq – qadkutāh – zarrebin – xošhāl – pesarxāle
 
 **Esm + o + esmAdad + esmEsm + setāk‐e hālEsm + esmEsm + e + esmEsm +
 sefatSefat + esm**
 
-##### <span id="anchor-585"></span>Vāžehā‐ye morakkab besāz\!
+##### <span id="anchor-585"></span>Vāžehā‐ye morakkab besāz!
 
 por\_\_\_\_\_\_\_\_\_xoš\_\_\_\_\_\_\_\_\_yek\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_foruš\_\_\_\_\_\_\_\_\_\_nāme\_\_\_\_\_\_\_\_\_\_xāne
 
-##### <span id="anchor-586"></span>Jomlehā‐ye vasfi besāz\!
+##### <span id="anchor-586"></span>Jomlehā‐ye vasfi besāz!
 
 1.Az to māšin xaridam. Māšin rā foruxtam.
 
@@ -7813,16 +7813,16 @@ Māšin‐i rā ke az to xaridam, foruxtam.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-##### <span id="anchor-587"></span>Jāhā‐ye xāli rā bā horuf‐e rabt‐e zir por kon\!
+##### <span id="anchor-587"></span>Jāhā‐ye xāli rā bā horuf‐e rabt‐e zir por kon!
 
 be jā‐ye in kebe dun‐e inkebe šart‐e in kepiš az in ke
 
 1.  Barā‐yat mixaram, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ xarāb‐aš nakoni.
 2.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ciz‐i beguyad, mehmāni rā tark kard.
 3.  Yekkam guš bedeh, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ inqadr harf bezani.
-4.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ biāyad, farār kon\!
+4.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ biāyad, farār kon!
 
-##### <span id="anchor-588"></span>Jāhā‐ye xāli rā por kon\!
+##### <span id="anchor-588"></span>Jāhā‐ye xāli rā por kon!
 
 1.  Agar diruz āmade bud, in ettefāq \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     (oftādan).
@@ -7834,7 +7834,7 @@ be jā‐ye in kebe dun‐e inkebe šart‐e in kepiš az in ke
 4.  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (yād
     raftan), ke emšab mehmān dārad.
 
-##### <span id="anchor-589"></span>Vāžehā‐ye zir rā dastebandi kon\!
+##### <span id="anchor-589"></span>Vāžehā‐ye zir rā dastebandi kon!
 
 basketbāl – cāqu – dis – docarxe – docarxesavāri – dow – eski – fer –
 ferizer – futbāl – havāpeymā – kābinet – kāmiyon – kārāte
@@ -7851,13 +7851,13 @@ Varzeš:
 
 Āšpazxāne:
 
-##### <span id="anchor-590"></span>Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān dar radif‐e pāyin mottasel kon\!
+##### <span id="anchor-590"></span>Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān dar radif‐e pāyin mottasel kon!
 
 šādigarmšoluqjangyavāšgozaštexatarnākxābyeknavāxtqavi
 
 amnbidārāyandeqamsardxalvatzaifmotenavve’solhtond
 
-##### <span id="anchor-591"></span>Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān dar radif‐e pāyin mottasel kon\!
+##### <span id="anchor-591"></span>Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān dar radif‐e pāyin mottasel kon!
 
 sademohaqqeqgunāgunpišinepeydāyešma’rufkešvarmadyunmoallembarx‐i
 
@@ -7874,7 +7874,7 @@ zohurvāmdārmašhurpažuhešgarmoxtalefsābeqeqarnba’z‐isarzamināmuzgār
 7.  duš – howle – mesvāk – sābun – šāmpu – xamirdandān
 8.  dāneš – bikār – āšnāyi – qam – šādi – kārmand
 
-##### <span id="anchor-593"></span>Enteqādhā va pišnahādhā‐ye xod rā dar bāre‐ye ketāb va āmuzgār‐at benevis\!
+##### <span id="anchor-593"></span>Enteqādhā va pišnahādhā‐ye xod rā dar bāre‐ye ketāb va āmuzgār‐at benevis!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -7895,7 +7895,7 @@ zohurvāmdārmašhurpažuhešgarmoxtalefsābeqeqarnba’z‐isarzamināmuzgār
 Yādāvari I
 
 <span id="anchor-594"></span>Haryek az pāsoxhā‐ye sotun‐e B javāb‐e
-kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis\!
+kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 
 |                                  |                               |        |
 | -------------------------------- | ----------------------------- | ------ |
@@ -7934,12 +7934,12 @@ kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis\!
 hašt‐o rob’ – yāzdah‐o cehel‐o panj daqiqe – bist‐o yek‐o dah daqiqe –
 hejdah‐o si daqiqe
 
-<span id="anchor-596"></span>Adadhā‐ye zir rā be horuf benevis\!
+<span id="anchor-596"></span>Adadhā‐ye zir rā be horuf benevis!
 
 davāzdah – yekdovvom – haft‐o bistopanjsadom – sad‐o si‐yo panj
 
 <span id="anchor-597"></span>Esmhā‐ye zir rā bā “‐hā” va, dar surat‐e
-emkān “‐ān” jam’ beband\!
+emkān “‐ān” jam’ beband!
 
 Xānandehā; xānandegān – dānešjuhā; dānešjuyān – jurābhā – livānhā –
 mizhā – šāhhā; šāhān
@@ -7948,29 +7948,29 @@ mizhā – šāhhā; šāhān
 
 1\. c) – 2. b) – 3. a) – 4. b) – 5. c) – 6. c) – 7. d)
 
-<span id="anchor-599"></span>Kāmel kon\!
+<span id="anchor-599"></span>Kāmel kon!
 
 To ketāb‐at rā mixāni. – U ketāb‐aš rā mixānad. – Mā ketāb‐emān rā
 mixānim. – Šomā ketāb‐etān rā mixānid. – Ānhā ketāb‐ ešān rā mixānand.
 
 <span id="anchor-600"></span>Jomlehā‐ye zir rā az mosbat be manfi yā bar
-aks tabdil kon\!
+aks tabdil kon!
 
-Pedar‐am šabhā qazā mixorad. – Sar‐e jā‐yat nanešin\! – Lotfan dar rā
-nabandid\! – Ānhā bastani dust dārand. – Rāmin sešanbehā futbāl bāzi
+Pedar‐am šabhā qazā mixorad. – Sar‐e jā‐yat nanešin! – Lotfan dar rā
+nabandid! – Ānhā bastani dust dārand. – Rāmin sešanbehā futbāl bāzi
 nemikonad. – Man ādam‐e xošbaxt‐i nistam.
 
 <span id="anchor-601"></span>Jomlehā‐ye zir rā be hālat‐e amri tabdil
-kon\!
+kon!
 
-Barā‐yam ājil biyāvar\! – Ketābhā‐yetān rā bāz konid\! – Emruz dar
-dānešgāh bāšid\! – Barā‐yešān qesse ta’rif kon\!
+Barā‐yam ājil biyāvar! – Ketābhā‐yetān rā bāz konid! – Emruz dar
+dānešgāh bāšid! – Barā‐yešān qesse ta’rif kon!
 
 <span id="anchor-602"></span>Kodām gozine dorost‐ast?
 
 1\. d) – 2. c) – 3. a) – 4. c)
 
-<span id="anchor-603"></span>Vāžehā‐ye zir rā dastebandi kon\!
+<span id="anchor-603"></span>Vāžehā‐ye zir rā dastebandi kon!
 
 **Xānevāde: **amme – amu – bacce – barādar – dāyi – doxtar – farzand –
 mādar – mādarbozorg – pedar – pedarbozorg – pesar –** **xāhar –xāle
@@ -7981,7 +7981,7 @@ jurāb – kafš – kerāvāt – kot – pāltow – pirāhan – šalvār –
 tišert
 
 <span id="anchor-604"></span>Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān
-dar radif‐e pāyin mottasel kon\!
+dar radif‐e pāyin mottasel kon!
 
 xošhāl; nārāhat – qadboland; qadkutāh – sefid; siyāh – cāq; lāqar –
 kucak; bozorg – gorosne; tešne – kohne; now – pesar; doxtar
@@ -7989,7 +7989,7 @@ kucak; bozorg – gorosne; tešne – kohne; now – pesar; doxtar
 – javān; pir – sālem; bimār
 
 <span id="anchor-605"></span>Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān
-dar radif‐e pāyin mottasel kon\!
+dar radif‐e pāyin mottasel kon!
 
 omr; zendegi – farzand; bacce – tu; dar – didani; jāleb – dust; rafiq –
 tekān; harekat – pāšidan; rixtan – xošhāl; šād – forsat; vaqt
@@ -8004,7 +8004,7 @@ kuce – 8) ketāb
 <span id="anchor-607"></span>Yādāvari II
 
 <span id="anchor-608"></span>Haryek az pāsoxhā‐ye sotun‐e B javāb‐e
-kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis\!
+kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 
 |                                |                           |        |
 | ------------------------------ | ------------------------- | ------ |
@@ -8038,27 +8038,27 @@ kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis\!
 |                                |                           |        |
 | 14‐ Cegune u rā peydā kardi?   | Yek qahve lotfan.         | 6      |
 
-<span id="anchor-609"></span>Bārā‐ye jomlehā‐ye zir yek porseš besāz\!
+<span id="anchor-609"></span>Bārā‐ye jomlehā‐ye zir yek porseš besāz!
 
 1\) Kojā zendegi mikoni? – 2) Cegune be dānešgāh miravi? – 3) Ce
 sāndevic‐i dust dāri? – 4) Sāat‐e cand bar migardi? – 5) Cāhāršanbehā
 cekār mikoni? – 6) In ketāb cand‐ast?
 
-<span id="anchor-610"></span>Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon\!
+<span id="anchor-610"></span>Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon!
 
 1\. beravim – 2. bešavi – 3. koni – 4. mixāndim – 5. karde‐i – 6. rafte
 bud – 7. budim – 8. dars midādam – 9. šenide‐am – 10. dārim – 11. rafte
 bāšad – 12. bāš
 
 <span id="anchor-611"></span>Az goftār‐e mostaqim be goftār‐e
-qeyremostaqim tabdil kon\!
+qeyremostaqim tabdil kon!
 
 Ostādān goftand, ke digar dars nadāde budand. – Mahšid goft, ke pedar‐aš
 bimār bude‐ast. – Narges goft, ke ābrizeš‐e bini dāšt. – Nāhid goft, ke
 be didār bā ostād‐aš omid dāšte‐ast.
 
 <span id="anchor-612"></span>Zir‐e hame‐ye zamirhā‐ye matn‐e zir xat
-bekeš\!
+bekeš!
 
 Yek‐i az dustān‐e Sārā Bahrām‐ast. Bahrām navāzande‐ye besyār xubi‐st.
 Sedā‐ye garm‐i ham dārad. Bahrām‐o Sārā moddathā‐ st ke *hamdigar* rā
@@ -8069,7 +8069,7 @@ mibarad. Bahrām barnāme‐*aš* rā sāat‐e noh šoru’ mikonad. *Xodaš* h
 mizanad va ham mixānad. Mehmānān az šenidan‐e sedā‐ye *u* va tār‐*aš*
 besyār lezzat mibarand.
 
-<span id="anchor-613"></span>Vāžehā‐ye zir rā dastebandi kon\!
+<span id="anchor-613"></span>Vāžehā‐ye zir rā dastebandi kon!
 
 **Andāmhā‐ye badan: **abru – bāzu – bini – cešm – dahān – damāq – dandān
 – dast – del – galu – gardan – guš – lab – mu – pā** **–** **sāed – sar
@@ -8082,13 +8082,13 @@ besyār lezzat mibarand.
 nārengi – porteqāl – sib – tutfarangi – xiyār
 
 <span id="anchor-614"></span>Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān
-dar radif‐e pāyin mottasel kon\!
+dar radif‐e pāyin mottasel kon!
 
 bozorg; kucak – tārik; rowšan – tamiz; kasif – bārik; pahn – talx; širin
 – por; xāli – boland; kutāh – dorošt; riz – xošk; xis – gerān; arzān
 
 <span id="anchor-615"></span>Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān
-dar radif‐e pāyin mottasel kon\!
+dar radif‐e pāyin mottasel kon!
 
 xabar; ettelā’ – gonde; bozorg – dānešāmuz; šāgerd – farš; qāli – mariz;
 bimār – qarib; bigāne – heyf; afsus – donyā; jahān – bāstāni; kohan –
@@ -8102,7 +8102,7 @@ mardomān; aqvām
 <span id="anchor-617"></span>Yādāvari III
 
 <span id="anchor-618"></span>Haryek az pāsoxhā‐ye sotun‐e B javāb‐e
-kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis\!
+kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 
 |                                         |                                   |        |
 | --------------------------------------- | --------------------------------- | ------ |
@@ -8137,14 +8137,14 @@ kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis\!
 | 14‐ Sandali‐ye kenār‐e panjere xub‐ast? | Naxeyr, hamsar‐am hastand.        | 10     |
 
 <span id="anchor-619"></span>In jomlehā rā az majhul be ma’lum tabdil
-kon\!
+kon!
 
 1\) Farid goldān‐e ru‐ye miz rā šekast. – 2) Ta’mirkārān māšin‐at rā
 ta’mir mikonand. – 3) Ferdowsi Šāhnāme rā 1,000 sāl‐e piš sorud. – 4)
 Vaqt‐i be xāne āmadam, pedar‐am xāne rā tamiz karde bud. – 5) Hamsar‐aš
 in borj rā bist sāl‐e piš sāxte‐ast.
 
-<span id="anchor-620"></span>Jadval‐e zir rā kāmel kon\!
+<span id="anchor-620"></span>Jadval‐e zir rā kāmel kon!
 
 |       |            |                 |                      |              |                  |                |
 | ----- | ---------- | --------------- | -------------------- | ------------ | ---------------- | -------------- |
@@ -8163,7 +8163,7 @@ in borj rā bist sāl‐e piš sāxte‐ast.
 | Ānhā  | miguyand   | goftand         | migoftand            | xāhand goft  | gofte‐and        | gofte budand   |
 
 <span id="anchor-621"></span>Jomlehā‐ye zir rā bā estefāde az horuf‐e
-rabt be ham vasl kon\!
+rabt be ham vasl kon!
 
 1\. Ba’d az in ke pedar‐am raft, rāhat šodam. – 2. Ham Qormesabzi
 mipazad ham Fesenjān.; Na Qormesabzi mipazad na Fesenjān.; Na tanhā
@@ -8171,13 +8171,13 @@ Qormesabzi balke Fesenjān ham mipazad. – 3. Bā in ke / garce / bā
 vojud‐e in ke xeyl‐i xaste bud, sar‐e kār mānd, tā moškel hal šavad.
 
 <span id="anchor-622"></span>Jāhā‐ye xāli rā bā pišvandhā va
-pasvandhā‐ye zir por kon\!
+pasvandhā‐ye zir por kon!
 
 1\. bi‐ – 2. bā‐ – 3. ham‐ – 4. ‐gāh – 5. ‐ande – 6. ‐mand – 7. ‐āne –
 8. ‐i
 
 <span id="anchor-623"></span>Vāžehā‐ye morakkab‐e zir rā dastebandi
-kon\!
+kon!
 
 |               |            |                   |           |               |             |             |
 | ------------- | ---------- | ----------------- | --------- | ------------- | ----------- | ----------- |
@@ -8185,22 +8185,22 @@ kon\!
 |               |            |                   |           |               |             |             |
 | ābohavā       | cāhārpā    | zarrebin          | pesarxāle | toxmemorq     | qadkutāh    | xošhāl      |
 
-<span id="anchor-624"></span>Jomlehā‐ye vasfi besāz\!
+<span id="anchor-624"></span>Jomlehā‐ye vasfi besāz!
 
 2\. Mard‐i ke hamiše barā‐yešān kār mikard, digar bikār šode‐ast. – 3.
 Ketāb‐i rā ke be man dādi, tā āxar xāndam.
 
 <span id="anchor-625"></span>Jāhā‐ye xāli rā bā horuf‐e rabt‐e zir por
-kon\!
+kon!
 
 1\. be šart‐e in ke – 2. Be dun‐e inke – 3. be jā‐ye in ke – 4. Piš az
 in ke
 
-<span id="anchor-626"></span>Jāhā‐ye xāli rā por kon\!
+<span id="anchor-626"></span>Jāhā‐ye xāli rā por kon!
 
 1\. nemioftād – 2. bešuyi – 3. garm‐aš šod – 4. Yād‐aš raft
 
-<span id="anchor-627"></span>Vāžehā‐ye zir rā dastebandi kon\!
+<span id="anchor-627"></span>Vāžehā‐ye zir rā dastebandi kon!
 
 **Vasāyel‐e naqliye: **docarxe – havāpeymā** **– kāmiyon – kešti – metro
 – minibus – motorsiklet – otobus – otomobil – qatār –** **qāyeq – tāksi
@@ -8211,14 +8211,14 @@ košti – šenā** **– tenis – tirandāzi – vālibāl – vaznebardāri**
 – ojāq – qāblame – quri – satl‐e** **āšqāl – yaxcāl – zarfšuyi
 
 <span id="anchor-628"></span>Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān
-dar radif‐e pāyin mottasel kon\!
+dar radif‐e pāyin mottasel kon!
 
 šādi; qam – garm; sard – šoluq; xalvat – jang; solh – yavāš; tond –
 gozašte; āyande – xatarnāk; amn – xāb; bidār – yeknavāxt; motenavve’ –
 qavi; zaif
 
 <span id="anchor-629"></span>Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān
-dar radif‐e pāyin mottasel kon\!
+dar radif‐e pāyin mottasel kon!
 
 sade; qarn – mohaqqeq; pažuhešgar – gunāgun; moxtalef – pišine; sābeqe –
 peydāyeš; zohur – ma’ruf; mašhur – kešvar; sarzamin – madyun; vāmdār –
