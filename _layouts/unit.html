@@ -2,6 +2,6 @@
 layout: page
 ---
 
-<a href="dars{{ page.order - 1 |  prepend: "0" | modulo: 100 }}">←</a>	<a href="dars{{ page.order + 1 |  prepend: "0" | modulo: 100 }}">→</a>
+<a href="dars{{ page.order | minus: 1 |  prepend: "0" | slice: -2,2 }}">←</a>	<a href="dars{{ page.order | plus :  1 |  prepend: "0" | modulo: 100 }}">→</a>
 
 {{ content }}
