@@ -1,7 +1,35 @@
 ---
-layout: page
+layout: default
 ---
 
-<a href="dars{{ page.order | minus: 1 |  prepend: "0" | slice: -2,2 }}">←</a>	<a href="dars{{ page.order | plus :  1 |  prepend: "0" | slice: -2,2 }}">→</a>
+{% assign unit=site.data.units | where: "order", page.order | first %}
+<h1>{{site.data.lexicons[unit.category]}} {{unit.id}}{% if unit.title %} — {{unit.title }}{% endif %}</h1>
+
+{% include nav.html %}
+
+{% if unit.category=="lesson" %}
+<h2><span style="color:gray;">Matn ♫</span> &emsp; {{unit.title}}</h2>
+
+<p>{{unit.textcontent}}</p>
+
+{% if unit.textcomment %}<h4>Nokte</h4><p>{{unit.textcomment}}</p>{% endif %}
+
+<h5>{{unit.texttask}}</h5><p>{{unit.textquestions}}</p>
+
+{% if unit.textcomment2 %}<h4>Nokte</h4><p>{{unit.textcomment2}}</p>{% endif %}
+
+{% if unit.texttask2 %}<h5>{{unit.texttask2}}</h5><p>______________________________________ ______________________________________</p>{% endif %}
+
+<h2><span style="color:gray;">Sāxtār</span> &emsp; {{unit.title}}</h2>
+
+<h2><span style="color:gray;">Irān‐o irāni</span> &emsp; {{unit.linggeoname}}</h2>
+
+<h2><span style="color:gray;">Goftogu</span> &emsp; {{unit.dialogname}}</h2>
+{% endif %}
 
 {{ content }}
+
+{% assign words=site.data.dictionary | where: "chapter", page.order %}
+{% for word in words %}<strong>{{ word.farsi }}</strong> {{ word.exactr }} &emsp;&emsp;{% endfor %}
+
+{% include nav.html %}

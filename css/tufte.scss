@@ -114,6 +114,24 @@ h3 { font-family: $heading-font;
      margin-bottom: 0;
      line-height: 1.08888888888889; }
 
+h4 { font-family: $heading-font;
+     font-style: bold;
+     font-weight: 400;
+     font-size: 1.5rem;
+     margin-top: 2.4rem;
+     margin-bottom: 0;
+     line-height: 1.28888888888889; }
+
+h5 { font-family: $heading-font;
+     font-style: bold;
+     font-weight: 400;
+     font-size: 1.3rem;
+     margin-top: 2.8rem;
+     margin-bottom: 0;
+     line-height: 1.38888888888889; }
+
+
+
 // ET says a need for more than 3 levels of headings is the sign of a diseased mind
 
 p .subtitle { font-style: italic;

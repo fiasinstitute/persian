@@ -1,12 +1,11 @@
 ---
 layout: unit
-order: 09
-title: Yādāvari I
+order: 9
 ---
-##### Haryek az pāsoxhā‐ye sotun‐e B javāb‐e kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
+ ##### Haryek az pāsoxhā‐ye sotun‐e B javāb‐e kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 
 |                                  |                               |        |  |
-| -------------------------------- | ----------------------------- | ------ |  |
+|--------------------------------|-----------------------------|------ |  |
 | A                                | B                             | Šomāre |  |
 |                                  |                               |        |  |
 | 1‐ Cand sāl‐at‐ast?              | Ahl‐e Kermānšāh.              | 8      |  |
@@ -48,7 +47,7 @@ title: Yādāvari I
 ##### Esmhā‐ye zir rā bā “‐hā” va, dar surat‐e emkān “‐ān” jam’ beband!
 
 |         |       |
-| ------- | ----- |
+|-------|----- |
 | xānande | livān |
 |         |       |
 | dānešju | miz   |
@@ -58,7 +57,10 @@ title: Yādāvari I
 ##### Kodām gozine dorost‐ast?
 
 |     |                                    |            |            |            |
-| --- | ---------------------------------- | ---------- | ---------- | ---------- |
+|
+---
+
+|----------------------------------|----------|----------|---------- |
 | 1\. | Golhā ... goldān hastand.          |            |            |            |
 |     | a) bālā‐ye                         | b) pošt‐e  | c) dar     | d) birun‐e |
 | 2\. | Man ... māšin be dānešgāh miravam. |            |            |            |
@@ -67,7 +69,7 @@ title: Yādāvari I
 |     | a) kenār‐e                         | b) dāxel‐e | c) birun‐e | d) dar     |
 
 |                                              |                                         |               |             |            |
-| -------------------------------------------- | --------------------------------------- | ------------- | ----------- | ---------- |
+|--------------------------------------------|---------------------------------------|-------------|-----------|---------- |
 | 4\.                                          | In maqāle ... mojassamesāzi‐st.         |               |             |            |
 |                                              | a) be dalil‐e                           | b) rāje’ be   | c) qeyr az  | d) magar   |
 | 5\.                                          | Ānhā ... Tabriz harekat mikonand.       |               |             |            |
@@ -122,7 +124,7 @@ To barā‐yešān qesse ta’rif mikoni.
 a) hameb) harc) aqlabd) hickodām
 
 |                                                      |                                            |           |           |             |
-| ---------------------------------------------------- | ------------------------------------------ | --------- | --------- | ----------- |
+|----------------------------------------------------|------------------------------------------|---------|---------|----------- |
 | 2\. ... az dānešjuyān emruz be dāneškade nemiravand. |                                            |           |           |             |
 |                                                      | a) hickas                                  | b) hic    | c) barx‐i | d) harkas   |
 | 3\.                                                  | Mā barā‐ye ... mas’uliyat qabul nemikonim. |           |           |             |
@@ -156,12 +158,9 @@ Telefon:
 
 ##### Vāžehā‐ye zir rā dastebandi kon!
 
-amme – amu – āmuzgār – bacce – barādar – boluz – dāman – dāyi – doxtar –
-farzand – žākat – jurāb – kafš – kārgar – kārmand
+amme – amu – āmuzgār – bacce – barādar – boluz – dāman – dāyi – doxtar – farzand – žākat – jurāb – kafš – kārgar – kārmand
 
-– kerāvāt – kešāvarz – kot – mādar – mādarbozorg – mohandes – monši –
-pāltow – parastār – pedar – pedarbozorg – pesar – pezešk – pirāhan –
-šalvār – šalvārjin – tišert – vakil – xāhar – xalabān – xāle
+– kerāvāt – kešāvarz – kot – mādar – mādarbozorg – mohandes – monši – pāltow – parastār – pedar – pedarbozorg – pesar – pezešk – pirāhan – šalvār – šalvārjin – tišert – vakil – xāhar – xalabān – xāle
 
 Xānevāde:
 
@@ -183,12 +182,5 @@ darharekatvaqtzendegišādbastebaccerafiqrixtanjāleb
 
 ##### Kodām vāže bā baqiye ertebāt nadārad?
 
-1)  kuh – qolle – šahr – darre – saxre – tappe
-2)  irāni – Žāpon – ālmāni – engelisi – kānādāyi – āmrikāyi
-3)  zanamu – pesaramu – šowharamme – pesarxāle – doxtaramu – dust
-4)  doxtaramme – doxtarxāle – šowharxāle – zandāyi – hamsāye – pesardāyi
-5)  daryā – daryāce – xiyābān – xalij – oqyānus – rud
-6)  daqiqe – sāniye – aqrabe – buq – daqiqešomār – sāniyešomār
-7)  dar – divār – panjere – saqf – kuce – bālkon
-8)  neveštan – ketāb – raftan – didan – oftādan – bordan
+1)  kuh – qolle – šahr – darre – saxre – tappe 2)  irāni – Žāpon – ālmāni – engelisi – kānādāyi – āmrikāyi 3)  zanamu – pesaramu – šowharamme – pesarxāle – doxtaramu – dust 4)  doxtaramme – doxtarxāle – šowharxāle – zandāyi – hamsāye – pesardāyi 5)  daryā – daryāce – xiyābān – xalij – oqyānus – rud 6)  daqiqe – sāniye – aqrabe – buq – daqiqešomār – sāniyešomār 7)  dar – divār – panjere – saqf – kuce – bālkon 8)  neveštan – ketāb – raftan – didan – oftādan – bordan
 

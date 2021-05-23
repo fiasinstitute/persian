@@ -1,0 +1,12 @@
+{% assign prevorder = page.order | minus: 1 %}
+{% assign nextorder = page.order | plus: 1 %}
+{% assign prevunit=site.data.units | where: "order", prevorder | first %}
+{% assign nextunit=site.data.units | where: "order", nextorder | first %}
+
+
+{% if prevunit %}{% assign prevurl = prevunit.order | prepend: '00' | slice: -2, 2 | prepend : "dars" %}{% assign prevname = site.data.lexicons[prevunit.category] | append: " "| append: prevunit.id %}{% endif %}
+{% if nextunit %}{% assign nexturl = nextunit.order | prepend: '00' | slice: -2, 2 | prepend : "dars" %}{% assign nextname = site.data.lexicons[nextunit.category] | append: " "| append: nextunit.id %}{% endif %}
+<div class="PageNavigation"><p style="display:flow-root;">
+        {% if prevurl %}<a class="prev" href="{{prevurl}}" style="float:left;background:lightgrey;padding:0.45rem;">&laquo; {{ prevname  | truncate: 20 }}</a>{% endif %}
+        {% if nexturl %}<a class="next" href="{{nexturl}}" style="float:right;background:lightgrey;padding:0.45rem;">{{ nextname  | truncate: 20 }} &raquo;</a>{% endif %}
+</p></div>

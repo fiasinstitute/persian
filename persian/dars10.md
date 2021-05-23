@@ -1,33 +1,15 @@
 ---
 layout: unit
 order: 10
-title: Dar jostoju‐ye Ketāb
 ---
-## Matn – Dar jostoju‐ye ketāb
 
-Sārā‐vo Faribā emruz dar yek ketābforuši hastand. Ānhā be donbāl‐e yek
-ketāb‐e āmuzeš‐e zabān‐e fārsi barā‐ye yek dust‐e āmrikāyi migardand.
-Cand ketāb rā varaq mizanad. Yek‐i az ketābhā barā‐yešān xeyl‐i
-jāleb‐ast. Onvān‐e darshā‐ye in ketāb hamiše yek porseš‐ast: "Esm‐e
-šomā ci‐st?", "Šomā kojāyi hastid?", "Meydān‐e Naqš‐e Jahān rā
-mišenāsid?", "Dar bāre‐ye Nowruz ce midānid?", ... Sārā in ketāb rā
-barā‐ye xarid pišnahād mikonad. Faribā be u miguyad ke pišnahād‐aš rā
-mipazirad, va ānhā ketāb rā mixarand.
-
-##### Dorost yā qalat?
-
-1.  Faribā‐vo Sārā emruz dar yek ketābxāne hastand.
-2.  Ānhā dar jostoju‐ye yek ketāb‐e āmuzeš‐e zabān‐e fārsi hastand.
-3.  Ānhā yek dust‐e āmrikāyi dārand.
-4.  Onvān‐e darshā‐ye yek‐i az ketābhā hamiše yek soāl‐ast.
-5.  Faribā pišnahād‐e Sārā rā qabul mikonad.
 
 ## Sāxtār
 
 ### Jomlehā‐ye axbāri
 
 |      |                   |                   |             |
-| ---- | ----------------- | ----------------- | ----------- |
+|----|-----------------|-----------------|----------- |
 | Fāel | Maf’ul‐e bivāsete | Maf’ul‐e bāvāsete | Fe’l        |
 |      |                   |                   |             |
 | Man  | Mahnāz rā         |                   | dust dāram. |
@@ -36,13 +18,12 @@ mipazirad, va ānhā ketāb rā mixarand.
 
 #### Nokte
 
-  - Agar maf’ul‐e bivāsete yek mafhum‐e kolli dāšte bāšad, āngāh *rā*
-    nemiāyad: Man sib dust dāram.
+  - Agar maf’ul‐e bivāsete yek mafhum‐e kolli dāšte bāšad, āngāh *rā*     nemiāyad: Man sib dust dāram.
 
 ### Jomlehā‐ye taajjobi
 
 |            |              |                                                               |                            |
-| ---------- | ------------ | ------------------------------------------------------------- | -------------------------- |
+|----------|------------|-------------------------------------------------------------|-------------------------- |
 | Ce + sefat | Ce + esm + i | Ce + esm +‐e + sefat + i Ce + esm +‐e + sefat +‐o + sefat + i |                            |
 |            |              |                                                               |                            |
 | Ce xub!   | Ce pesar‐i! | Ce pesar‐e xub‐i!                                            | Ce pesar‐e xub‐o tamiz‐i! |
@@ -54,7 +35,7 @@ mipazirad, va ānhā ketāb rā mixarand.
 ### Porseš bā pāsox‐e bale yā na
 
 |       |      |                   |                   |            |                     |
-| ----- | ---- | ----------------- | ----------------- | ---------- | ------------------- |
+|-----|----|-----------------|-----------------|----------|------------------- |
 | (Āyā) | Fāel | Maf’ul‐e bivāsete | Maf’ul‐e bāvāsete | Fe’l       | Pāsox               |
 |       |      |                   |                   |            |                     |
 | (Āyā) | to   | Mahnāz rā         |                   | dust dāri? | ‐ Bale, dust dāram. |
@@ -63,14 +44,13 @@ mipazirad, va ānhā ketāb rā mixarand.
 
 #### Nokte
 
-  - Tartib‐e vāžehā mānand‐e jomlehā‐ye axbāri‐st. Tanhā lahn‐e jomle
-    soāli mišavad. Tekye bar vāže‐ye mowredesoāl‐ast.
-  - *Āyā *bištar dar jomlehā‐ye rasmi be kār miravad.
+  - Tartib‐e vāžehā mānand‐e jomlehā‐ye axbāri‐st. Tanhā lahn‐e jomle     soāli mišavad. Tekye bar vāže‐ye mowredesoāl‐ast.   - *Āyā *bištar dar jomlehā‐ye rasmi be kār miravad.
 
 ### Porseš‐e manfi bā pāsox‐e mosbat
 
 |  |       |      |                   |                        |                     |
-|  | ----- | ---- | ----------------- | ---------------------- | ------------------- |
+| 
+|-----|----|-----------------|----------------------|------------------- |
 |  | (Āyā) | Fāel | Maf’ul‐e bivāsete | Maf’ul‐e bāvāsete Fe’l | Pāsox               |
 |  |       |      |                   |                        |                     |
 |  | (Āyā) | to   | Mahnāz rā         | dust nadāri?           | ‐ Cerā, dust dāram. |
@@ -81,7 +61,7 @@ mipazirad, va ānhā ketāb rā mixarand.
 ### Porseš bā pāsox‐e moxālef
 
 |       |                     |                   |                   |            |                     |
-| ----- | ------------------- | ----------------- | ----------------- | ---------- | ------------------- |
+|-----|-------------------|-----------------|-----------------|----------|------------------- |
 | Magar | Fāel                | Maf’ul‐e bivāsete | Maf’ul‐e bāvāsete | Fe’l       | Pāsox               |
 |       |                     |                   |                   |            |                     |
 | Magar | to                  | Mahnāz rā         |                   | dust dāri? | ‐ Bale, dust dāram. |
@@ -95,7 +75,7 @@ mipazirad, va ānhā ketāb rā mixarand.
 ### Porseš‐e qeyremostaqim
 
 |              |      |       |               |        |
-| ------------ | ---- | ----- | ------------- | ------ |
+|------------|----|-----|-------------|------ |
 | Baxš‐e manfi | (ke) | (āyā) | Baxš‐e mosbat | Yā na  |
 |              |      |       |               |        |
 | Nemidānam    | (ke) | (āyā) | miāyad        | yā na. |
@@ -103,7 +83,7 @@ mipazirad, va ānhā ketāb rā mixarand.
 ### Jomlehā‐ye porseši
 
 |                     |                                     |                                 |
-| ------------------- | ----------------------------------- | ------------------------------- |
+|-------------------|-----------------------------------|------------------------------- |
 | Zamir‐e porseši     | Qeyd‐e porseši                      | Sefat‐e porseši                 |
 |                     |                                     |                                 |
 | Ke/ki miāyad?       | Emšab kojā miravi?                  | Cejur kafš‐i mixāhi?            |
@@ -116,23 +96,19 @@ mipazirad, va ānhā ketāb rā mixarand.
 
 #### Nokte
 
-  - Tartib‐e vāžehā mānand‐e jomlehā‐ye axbāri‐st. Tanhā lahn‐e jomle
-    soāli mišavad.
+  - Tartib‐e vāžehā mānand‐e jomlehā‐ye axbāri‐st. Tanhā lahn‐e jomle     soāli mišavad.
 
 ### Goftār‐e qeyremostaqim
 
 |                        |                                    |                                              |
-| ---------------------- | ---------------------------------- | -------------------------------------------- |
+|----------------------|----------------------------------|-------------------------------------------- |
 | Goftār‐e mostaqim      | Mahnāz miguyad: “Miāy**am**.”      | Ānhā miguyand: “Šām‐emān rā mixor**im**.”    |
 |                        |                                    |                                              |
 | Goftāt‐e qeyremostaqim | Mahnāz miguyad, **ke** miāy**ad**. | Ānhā miguyand, ke šām‐ešān rā mixor**and**.” |
 
 #### Nokte
 
-  - Dar goftār‐e mostaqim gofte 1‐1 bāzgu mišavad.
-  - Goftār‐e qeyremostaqim bā *ke* šoru’ mišavad.
-  - Dar goftār‐e qeyremostaqim šenāse‐ye fe’l va zamir bā bāzgukonande
-    hamxāni dārand.
+  - Dar goftār‐e mostaqim gofte 1‐1 bāzgu mišavad.   - Goftār‐e qeyremostaqim bā *ke* šoru’ mišavad.   - Dar goftār‐e qeyremostaqim šenāse‐ye fe’l va zamir bā bāzgukonande     hamxāni dārand.
 
 ##### Jomlehā‐ye behamrixte rā morattab kon!
 
@@ -154,35 +130,35 @@ nāxonhā / boland / ye / ce / dārad / i / !
 
 1)  Sārā emšab be didan‐e Faribā miravad. (key)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_
 
 1)  Barā‐ye poxtan‐e in keyk nim litr šir lāzem dārim. (ceqadr)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_
 
 1)  Bābak dar Dānešgāh‐e Tehrān pezeški mixānad. (ke)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_
 
 1)  Mahnāz pirāhan‐e ābi rā bištar mipasandad. (kodām)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_
 
 1)  Nāder kār‐aš rā xeyl‐i xub anjām midehad. (cegune)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_
 
 1)  Emruz adas, lappe, noxod va lubiyā mixaram. (ce)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_
 
 1)  Yek mobl‐e rāhat‐o sabok‐o arzān mixāhand. (cejur)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_
 
 1)  Sag‐ešān kenār‐e jādde‐ast. (kojā)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_
 
 ##### Az goftār‐e mostaqim be goftār‐e qeyremostaqim tabdil kon!
 
@@ -204,26 +180,11 @@ Nāhid miguyad: “Be didār bā ostād‐am omid dāram.”
 
 ## Irān‐o irāni – Damāvand
 
-![](Pictures/10000000000002B8000001C97C101A43C2122844.jpg)Dar
-69‐kilometri‐ye šomāl‐e šarq‐e Tehrān va dar dāmane‐ye reštekuh‐e
-Alborz bolandtarin kuh‐e Irān‐o Xāvar‐e Miyāne va bolandtarin qolle‐ye
-ātašfešāni‐ye Āsiyā qarār dārad. In kuh maxrutišekl‐ast va Damāvand nām
-dārad. Ertefā‐e Damāvand 5,671 metr‐ast. Damāvand avvalin asar‐e
-sabtšode‐ye tabii dar Fehrest‐e Āsār‐e Melli‐ye Irān‐ast. Dar ruzhā‐yi
-ke āsemān sāf‐ast, in kuh‐e bāšokuh az dāxel‐e Tehrān qābelero’yat‐ast.
-Damāvand dar afsānehā‐ vo asātir‐e irāni jāygāh‐e viže‐i dārad.
-Nevisandegān va šāerān‐e irāni niz dar āsār‐ešān ešārehā‐ye farāvān‐i be
-Damāvand dārand.
+![](Pictures/10000000000002B8000001C97C101A43C2122844.jpg)Dar 69‐kilometri‐ye šomāl‐e šarq‐e Tehrān va dar dāmane‐ye reštekuh‐e Alborz bolandtarin kuh‐e Irān‐o Xāvar‐e Miyāne va bolandtarin qolle‐ye ātašfešāni‐ye Āsiyā qarār dārad. In kuh maxrutišekl‐ast va Damāvand nām dārad. Ertefā‐e Damāvand 5,671 metr‐ast. Damāvand avvalin asar‐e sabtšode‐ye tabii dar Fehrest‐e Āsār‐e Melli‐ye Irān‐ast. Dar ruzhā‐yi ke āsemān sāf‐ast, in kuh‐e bāšokuh az dāxel‐e Tehrān qābelero’yat‐ast. Damāvand dar afsānehā‐ vo asātir‐e irāni jāygāh‐e viže‐i dārad. Nevisandegān va šāerān‐e irāni niz dar āsār‐ešān ešārehā‐ye farāvān‐i be Damāvand dārand.
 
 ##### Pāsox bedeh!
 
-1.  Kuh‐e Damāvand kojā qarār dārad?
-2.  Ertefā‐e Damāvand cand metr‐ast?
-3.  Āyā dar Xāvar‐e Miyāne kuh‐i bolandtar az Damāvand dārim?
-4.  Dar ce ruzhā‐yi Damāvand az dāxel‐e Tehrān qābeledidan‐ast?
-5.  Damāvand candomin asar‐e sabtšode‐ye tabii dar Fehrest‐e Āsār‐e
-    Melli‐ye Irān‐ast?
-6.  Āyā Damāvand dar afsānehā‐vo adab‐e fārsi jāygāh‐e xāss‐i dārad?
+1.  Kuh‐e Damāvand kojā qarār dārad? 2.  Ertefā‐e Damāvand cand metr‐ast? 3.  Āyā dar Xāvar‐e Miyāne kuh‐i bolandtar az Damāvand dārim? 4.  Dar ce ruzhā‐yi Damāvand az dāxel‐e Tehrān qābeledidan‐ast? 5.  Damāvand candomin asar‐e sabtšode‐ye tabii dar Fehrest‐e Āsār‐e     Melli‐ye Irān‐ast? 6.  Āyā Damāvand dar afsānehā‐vo adab‐e fārsi jāygāh‐e xāss‐i dārad?
 
 ## Goftogu – Ceqad miše?
 
@@ -231,16 +192,13 @@ Maqāzedār:Befarmāyin.
 
 Moštari:Ye kilu angur mixāstam, nim kilu‐am gilās.
 
-Maqāzedār: In ye kilu angur‐o in‐am nim kilu gilās. Farmāyeš‐e dige‐i
-nadārin? Moštari: Na, mamnun‐am. Ceqad miše?
+Maqāzedār: In ye kilu angur‐o in‐am nim kilu gilās. Farmāyeš‐e dige‐i nadārin? Moštari: Na, mamnun‐am. Ceqad miše?
 
 Maqāzedār:Qābel‐i nadāre.
 
 Moštari:Xāheš mikonam. Sāheb‐eš qābel dāre.
 
-Maqāzedār: Angur kilu‐yi do hezār‐o punsad Toman, gilās‐am kilu‐yi se
-hezār Toman. Ruham miše cāhār hezār Toman. Moštari: Befarmāyin, in‐am
-cāhār hezār Toman.
+Maqāzedār: Angur kilu‐yi do hezār‐o punsad Toman, gilās‐am kilu‐yi se hezār Toman. Ruham miše cāhār hezār Toman. Moštari: Befarmāyin, in‐am cāhār hezār Toman.
 
 Maqāzedār:Dast‐e šomā dard nakone!
 
@@ -248,13 +206,13 @@ Moštari:Sar‐e šomā dard nakone! Xodā hāfez!
 
 #### Nokte
 
-  - *Mixāstam *dar injā* *hamān ma’ni‐ye* mixāham *rā* *dārad, vali
-    kam‐i moaddabānetar‐ast.
+  - *Mixāstam *dar injā* *hamān ma’ni‐ye* mixāham *rā* *dārad, vali     kam‐i moaddabānetar‐ast.
 
 #### Nokte
 
 |  |            |            |
-|  | ---------- | ---------- |
+| 
+|----------|---------- |
 |  | Goftāri    | Neveštāri  |
 |  |            |            |
 |  | befarmāyin | befarmāyid |
@@ -284,8 +242,7 @@ nakonenakonad
 
 ### Ebārathā/vāžehā
 
-Porteqāl – sib – golābi – anār – ālbālu – ālu – holu – mowz – tutfarangi
-– nārengi
+Porteqāl – sib – golābi – anār – ālbālu – ālu – holu – mowz – tutfarangi – nārengi
 
 ##### Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
 
@@ -293,24 +250,21 @@ Maqāzedār:Befarmāyin.
 
 Moštari:Lotfan ye kilu peste, nim kilu‐am zerešk.
 
-Maqāzedār:Befarmāyin, in ye \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_‐vo
-in‐am nim kilu zerešk. Amr‐e \_\_\_\_\_\_\_\_\_\_‐i
-\_\_\_\_\_\_\_\_\_\_?
+Maqāzedār:Befarmāyin, in ye \_\_ \_\_‐vo in‐am nim kilu zerešk. Amr‐e \_\_‐i \_\_?
 
-Moštari:Na, mersi. \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_?
+Moštari:Na, mersi. \_\_ \_\_?
 
-Maqāzedār:\_\_\_\_\_\_\_\_\_\_‐i \_\_\_\_\_\_\_\_\_\_.
+Maqāzedār:\_\_‐i \_\_.
 
-Moštari:\_\_\_\_\_\_\_\_\_\_‐eš qābel \_\_\_\_\_\_\_\_\_\_.
+Moštari:\_\_‐eš qābel \_\_.
 
-Maqāzedār:Peste kilu‐yi 12,000 Toman, \_\_\_\_\_\_\_\_\_\_‐am kilu‐yi
-\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_. Ruham miše 16,000 Toman.
+Maqāzedār:Peste kilu‐yi 12,000 Toman, \_\_‐am kilu‐yi \_\_ \_\_. Ruham miše 16,000 Toman.
 
-Moštari:\_\_\_\_\_\_\_\_\_\_ in‐am 16,000 Toman.
+Moštari:\_\_ in‐am 16,000 Toman.
 
-Maqāzedār:Dast‐e šomā \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_.
+Maqāzedār:Dast‐e šomā \_\_ \_\_.
 
-Moštari:\_\_\_\_\_\_\_\_\_\_‐e \_\_\_\_\_\_\_\_\_\_ dard nakone.
+Moštari:\_\_‐e \_\_ dard nakone.
 
 ##### Az goftāri be neveštāri tabdil kon!
 
@@ -334,36 +288,23 @@ Dorost yā qalat?
 
 Jomlehā‐ye behamrixte rā morattab kon!
 
-Ce boluz‐e qašang‐i dāri! – U key nāhār mixorad? – Āyā tārixce‐ye
-Nowruz rā midāni? – In bolvār ce deraxthā‐ye zibā‐yi dārad!
+Ce boluz‐e qašang‐i dāri! – U key nāhār mixorad? – Āyā tārixce‐ye Nowruz rā midāni? – In bolvār ce deraxthā‐ye zibā‐yi dārad!
 
 – Cerā bā mā be konsert nemiāyi? – Ce nāxonhā‐ye boland‐i dārad!
 
-Bā vāžehā‐ye dāxel‐e parāntez porseš
-besāz!
+Bā vāžehā‐ye dāxel‐e parāntez porseš besāz!
 
-1\) Sārā key be didan‐e Faribā miravad? – 2) Barā‐ye poxtan‐e in keyk
-ceqadr šir lāzem dārim? – 3) Ke dar Dānešgāh‐e Tehrān pezeški mixānad? –
-4) Mahnāz kodām pirāhan rā bištar mipasandad? – 5) Nāder kār‐aš rā
-cegune anjām midehad? – 6) Emruz ce mixaram? – 7) Cejur mobl‐i mixāhand?
-– 8) Sag‐ešān kojā‐st?
+1\) Sārā key be didan‐e Faribā miravad? – 2) Barā‐ye poxtan‐e in keyk ceqadr šir lāzem dārim? – 3) Ke dar Dānešgāh‐e Tehrān pezeški mixānad? – 4) Mahnāz kodām pirāhan rā bištar mipasandad? – 5) Nāder kār‐aš rā cegune anjām midehad? – 6) Emruz ce mixaram? – 7) Cejur mobl‐i mixāhand? – 8) Sag‐ešān kojā‐st?
 
-Az goftār‐e mostaqim be goftār‐e
-qeyremostaqim tabdil kon!
+Az goftār‐e mostaqim be goftār‐e qeyremostaqim tabdil kon!
 
-Ostādān miguyand, ke digar dars nemidehand. – Navid miguyad, ke bā to
-hicjā nemiāyad. – Mahšid miguyad, ke pedar‐aš bimār‐ ast. – Kāmrān
-miguyad, ke ketāb‐aš rā be to midehad. – Narges miguyad, ke ābrizeš‐e
-bini dārad. – Jāvid miguyad, ke zur‐e bāzu‐yaš ziyād‐ast. – Nāhid
-miguyad, ke be didār bā ostād‐aš omid dārad.
+Ostādān miguyand, ke digar dars nemidehand. – Navid miguyad, ke bā to hicjā nemiāyad. – Mahšid miguyad, ke pedar‐aš bimār‐ ast. – Kāmrān miguyad, ke ketāb‐aš rā be to midehad. – Narges miguyad, ke ābrizeš‐e bini dārad. – Jāvid miguyad, ke zur‐e bāzu‐yaš ziyād‐ast. – Nāhid miguyad, ke be didār bā ostād‐aš omid dārad.
 
 Jāhā‐ye xāli rā por kon!
 
-kilu – peste – dige – nadārin – ceqad – miše – qābel – nadāre – sāhāb –
-dāre – zerešk – 8,000 – befarmāyin – dard – nakone – sar – šomā
+kilu – peste – dige – nadārin – ceqad – miše – qābel – nadāre – sāhāb – dāre – zerešk – 8,000 – befarmāyin – dard – nakone – sar – šomā
 
 Az goftāri be neveštāri tabdil kon!
 
-In ham yek kilu xiyār. – Ruyeham mišavad se hezār‐o pānsad Tumān. –
-Dast‐etān dard nakonad. – Amr‐e digar‐i nadārid?
+In ham yek kilu xiyār. – Ruyeham mišavad se hezār‐o pānsad Tumān. – Dast‐etān dard nakonad. – Amr‐e digar‐i nadārid?
 

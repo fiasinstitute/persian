@@ -1,15 +1,13 @@
 ---
 layout: unit
-order: 28
-title: Pāsoxhā-ye yādāvari
+order: 28 
 ---
-Yādāvari I
+ Yādāvari I
 
-Haryek az pāsoxhā‐ye sotun‐e B javāb‐e
-kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
+Haryek az pāsoxhā‐ye sotun‐e B javāb‐e kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 
 |                                  |                               |        |
-| -------------------------------- | ----------------------------- | ------ |
+|--------------------------------|-----------------------------|------ |
 | A                                | B                             | Šomāre |
 |                                  |                               |        |
 | 1‐ Cand sāl‐at‐ast?              | Ahl‐e Kermānšāh.              | 8      |
@@ -42,18 +40,15 @@ kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 
 Sāat cand‐ast?
 
-hašt‐o rob’ – yāzdah‐o cehel‐o panj daqiqe – bist‐o yek‐o dah daqiqe –
-hejdah‐o si daqiqe
+hašt‐o rob’ – yāzdah‐o cehel‐o panj daqiqe – bist‐o yek‐o dah daqiqe – hejdah‐o si daqiqe
 
 Adadhā‐ye zir rā be horuf benevis!
 
 davāzdah – yekdovvom – haft‐o bistopanjsadom – sad‐o si‐yo panj
 
-Esmhā‐ye zir rā bā “‐hā” va, dar surat‐e
-emkān “‐ān” jam’ beband!
+Esmhā‐ye zir rā bā “‐hā” va, dar surat‐e emkān “‐ān” jam’ beband!
 
-Xānandehā; xānandegān – dānešjuhā; dānešjuyān – jurābhā – livānhā –
-mizhā – šāhhā; šāhān
+Xānandehā; xānandegān – dānešjuhā; dānešjuyān – jurābhā – livānhā – mizhā – šāhhā; šāhān
 
 Kodām gozine dorost‐ast?
 
@@ -61,21 +56,15 @@ Kodām gozine dorost‐ast?
 
 Kāmel kon!
 
-To ketāb‐at rā mixāni. – U ketāb‐aš rā mixānad. – Mā ketāb‐emān rā
-mixānim. – Šomā ketāb‐etān rā mixānid. – Ānhā ketāb‐ ešān rā mixānand.
+To ketāb‐at rā mixāni. – U ketāb‐aš rā mixānad. – Mā ketāb‐emān rā mixānim. – Šomā ketāb‐etān rā mixānid. – Ānhā ketāb‐ ešān rā mixānand.
 
-Jomlehā‐ye zir rā az mosbat be manfi yā bar
-aks tabdil kon!
+Jomlehā‐ye zir rā az mosbat be manfi yā bar aks tabdil kon!
 
-Pedar‐am šabhā qazā mixorad. – Sar‐e jā‐yat nanešin! – Lotfan dar rā
-nabandid! – Ānhā bastani dust dārand. – Rāmin sešanbehā futbāl bāzi
-nemikonad. – Man ādam‐e xošbaxt‐i nistam.
+Pedar‐am šabhā qazā mixorad. – Sar‐e jā‐yat nanešin! – Lotfan dar rā nabandid! – Ānhā bastani dust dārand. – Rāmin sešanbehā futbāl bāzi nemikonad. – Man ādam‐e xošbaxt‐i nistam.
 
-Jomlehā‐ye zir rā be hālat‐e amri tabdil
-kon!
+Jomlehā‐ye zir rā be hālat‐e amri tabdil kon!
 
-Barā‐yam ājil biyāvar! – Ketābhā‐yetān rā bāz konid! – Emruz dar
-dānešgāh bāšid! – Barā‐yešān qesse ta’rif kon!
+Barā‐yam ājil biyāvar! – Ketābhā‐yetān rā bāz konid! – Emruz dar dānešgāh bāšid! – Barā‐yešān qesse ta’rif kon!
 
 Kodām gozine dorost‐ast?
 
@@ -83,42 +72,32 @@ Kodām gozine dorost‐ast?
 
 Vāžehā‐ye zir rā dastebandi kon!
 
-**Xānevāde: **amme – amu – bacce – barādar – dāyi – doxtar – farzand –
-mādar – mādarbozorg – pedar – pedarbozorg – pesar –** **xāhar –xāle
+**Xānevāde: **amme – amu – bacce – barādar – dāyi – doxtar – farzand – mādar – mādarbozorg – pedar – pedarbozorg – pesar –** **xāhar –xāle
 
-**Šoqlhā: **āmuzgār – kārgar – kārmand – kešāvarz – mohandes – monši –
-parastār – pezešk – vakil – xalabān** Pušāk: **boluz – dāman – žākat –
-jurāb – kafš – kerāvāt – kot – pāltow – pirāhan – šalvār – šalvārjin –
-tišert
+**Šoqlhā: **āmuzgār – kārgar – kārmand – kešāvarz – mohandes – monši – parastār – pezešk – vakil – xalabān** Pušāk: **boluz – dāman – žākat – jurāb – kafš – kerāvāt – kot – pāltow – pirāhan – šalvār – šalvārjin – tišert
 
-Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān
-dar radif‐e pāyin mottasel kon!
+Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān dar radif‐e pāyin mottasel kon!
 
-xošhāl; nārāhat – qadboland; qadkutāh – sefid; siyāh – cāq; lāqar –
-kucak; bozorg – gorosne; tešne – kohne; now – pesar; doxtar
+xošhāl; nārāhat – qadboland; qadkutāh – sefid; siyāh – cāq; lāqar – kucak; bozorg – gorosne; tešne – kohne; now – pesar; doxtar
 
 – javān; pir – sālem; bimār
 
-Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān
-dar radif‐e pāyin mottasel kon!
+Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān dar radif‐e pāyin mottasel kon!
 
-omr; zendegi – farzand; bacce – tu; dar – didani; jāleb – dust; rafiq –
-tekān; harekat – pāšidan; rixtan – xošhāl; šād – forsat; vaqt
+omr; zendegi – farzand; bacce – tu; dar – didani; jāleb – dust; rafiq – tekān; harekat – pāšidan; rixtan – xošhāl; šād – forsat; vaqt
 
 – ta’til; baste
 
 Kodām vāže bā baqiye ertebāt nadārad?
 
-1\) šahr – 2) Žāpon – 3) dust – 4) hamsāye – 5) xiyābān – 6) buq – 7)
-kuce – 8) ketāb
+1\) šahr – 2) Žāpon – 3) dust – 4) hamsāye – 5) xiyābān – 6) buq – 7) kuce – 8) ketāb
 
 Yādāvari II
 
-Haryek az pāsoxhā‐ye sotun‐e B javāb‐e
-kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
+Haryek az pāsoxhā‐ye sotun‐e B javāb‐e kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 
 |                                |                           |        |
-| ------------------------------ | ------------------------- | ------ |
+|------------------------------|-------------------------|------ |
 | A                              | B                         | Šomāre |
 |                                |                           |        |
 | 1‐ Cand šab eqāmat mikonid?    | Bāyad beravim doktor.     | 3      |
@@ -151,72 +130,46 @@ kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 
 Bārā‐ye jomlehā‐ye zir yek porseš besāz!
 
-1\) Kojā zendegi mikoni? – 2) Cegune be dānešgāh miravi? – 3) Ce
-sāndevic‐i dust dāri? – 4) Sāat‐e cand bar migardi? – 5) Cāhāršanbehā
-cekār mikoni? – 6) In ketāb cand‐ast?
+1\) Kojā zendegi mikoni? – 2) Cegune be dānešgāh miravi? – 3) Ce sāndevic‐i dust dāri? – 4) Sāat‐e cand bar migardi? – 5) Cāhāršanbehā cekār mikoni? – 6) In ketāb cand‐ast?
 
 Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon!
 
-1\. beravim – 2. bešavi – 3. koni – 4. mixāndim – 5. karde‐i – 6. rafte
-bud – 7. budim – 8. dars midādam – 9. šenide‐am – 10. dārim – 11. rafte
-bāšad – 12. bāš
+1\. beravim – 2. bešavi – 3. koni – 4. mixāndim – 5. karde‐i – 6. rafte bud – 7. budim – 8. dars midādam – 9. šenide‐am – 10. dārim – 11. rafte bāšad – 12. bāš
 
-Az goftār‐e mostaqim be goftār‐e
-qeyremostaqim tabdil kon!
+Az goftār‐e mostaqim be goftār‐e qeyremostaqim tabdil kon!
 
-Ostādān goftand, ke digar dars nadāde budand. – Mahšid goft, ke pedar‐aš
-bimār bude‐ast. – Narges goft, ke ābrizeš‐e bini dāšt. – Nāhid goft, ke
-be didār bā ostād‐aš omid dāšte‐ast.
+Ostādān goftand, ke digar dars nadāde budand. – Mahšid goft, ke pedar‐aš bimār bude‐ast. – Narges goft, ke ābrizeš‐e bini dāšt. – Nāhid goft, ke be didār bā ostād‐aš omid dāšte‐ast.
 
-Zir‐e hame‐ye zamirhā‐ye matn‐e zir xat
-bekeš!
+Zir‐e hame‐ye zamirhā‐ye matn‐e zir xat bekeš!
 
-Yek‐i az dustān‐e Sārā Bahrām‐ast. Bahrām navāzande‐ye besyār xubi‐st.
-Sedā‐ye garm‐i ham dārad. Bahrām‐o Sārā moddathā‐ st ke *hamdigar* rā
-mišenāsand. Emšab dar xāne‐ye Sārā yek mehmāni‐st. Sārā az Bahrām xāheš
-karde‐ast tā, emšab majles‐e *ānhā* rā garm konad. Bahrām qarār‐ast, ke
-sāat‐e hašt be xāne‐ye Sārā beravad. *U* tār‐e *xod* rā niz bā *xod*
-mibarad. Bahrām barnāme‐*aš* rā sāat‐e noh šoru’ mikonad. *Xodaš* ham
-mizanad va ham mixānad. Mehmānān az šenidan‐e sedā‐ye *u* va tār‐*aš*
-besyār lezzat mibarand.
+Yek‐i az dustān‐e Sārā Bahrām‐ast. Bahrām navāzande‐ye besyār xubi‐st. Sedā‐ye garm‐i ham dārad. Bahrām‐o Sārā moddathā‐ st ke *hamdigar* rā mišenāsand. Emšab dar xāne‐ye Sārā yek mehmāni‐st. Sārā az Bahrām xāheš karde‐ast tā, emšab majles‐e *ānhā* rā garm konad. Bahrām qarār‐ast, ke sāat‐e hašt be xāne‐ye Sārā beravad. *U* tār‐e *xod* rā niz bā *xod* mibarad. Bahrām barnāme‐*aš* rā sāat‐e noh šoru’ mikonad. *Xodaš* ham mizanad va ham mixānad. Mehmānān az šenidan‐e sedā‐ye *u* va tār‐*aš* besyār lezzat mibarand.
 
 Vāžehā‐ye zir rā dastebandi kon!
 
-**Andāmhā‐ye badan: **abru – bāzu – bini – cešm – dahān – damāq – dandān
-– dast – del – galu – gardan – guš – lab – mu – pā** **–** **sāed – sar
-– šekam – sine – surat – zānu
+**Andāmhā‐ye badan: **abru – bāzu – bini – cešm – dahān – damāq – dandān – dast – del – galu – gardan – guš – lab – mu – pā** **–** **sāed – sar – šekam – sine – surat – zānu
 
-**Mavādd‐e qazāyi: **adas – berenj – gandom – gušt – kare – lappe – limu
-– lubiyā** **– māhi – morq – nān – noxod – panir – xāme –** **zorrat
+**Mavādd‐e qazāyi: **adas – berenj – gandom – gušt – kare – lappe – limu – lubiyā** **– māhi – morq – nān – noxod – panir – xāme –** **zorrat
 
-**Mivehā: **anār – angur – gilās – golābi – hendevāne – holu – mowz –
-nārengi – porteqāl – sib – tutfarangi – xiyār
+**Mivehā: **anār – angur – gilās – golābi – hendevāne – holu – mowz – nārengi – porteqāl – sib – tutfarangi – xiyār
 
-Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān
-dar radif‐e pāyin mottasel kon!
+Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān dar radif‐e pāyin mottasel kon!
 
-bozorg; kucak – tārik; rowšan – tamiz; kasif – bārik; pahn – talx; širin
-– por; xāli – boland; kutāh – dorošt; riz – xošk; xis – gerān; arzān
+bozorg; kucak – tārik; rowšan – tamiz; kasif – bārik; pahn – talx; širin – por; xāli – boland; kutāh – dorošt; riz – xošk; xis – gerān; arzān
 
-Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān
-dar radif‐e pāyin mottasel kon!
+Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān dar radif‐e pāyin mottasel kon!
 
-xabar; ettelā’ – gonde; bozorg – dānešāmuz; šāgerd – farš; qāli – mariz;
-bimār – qarib; bigāne – heyf; afsus – donyā; jahān – bāstāni; kohan –
-mardomān; aqvām
+xabar; ettelā’ – gonde; bozorg – dānešāmuz; šāgerd – farš; qāli – mariz; bimār – qarib; bigāne – heyf; afsus – donyā; jahān – bāstāni; kohan – mardomān; aqvām
 
 Kodām vāže bā baqiye ertebāt nadārad?
 
-1\) eynak – 2) qahve – 3) māhi – 4) jādde – 5) āšpazxāne – 6) pompbenzin
-– 7) yaxcāl – 8) xub
+1\) eynak – 2) qahve – 3) māhi – 4) jādde – 5) āšpazxāne – 6) pompbenzin – 7) yaxcāl – 8) xub
 
 Yādāvari III
 
-Haryek az pāsoxhā‐ye sotun‐e B javāb‐e
-kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
+Haryek az pāsoxhā‐ye sotun‐e B javāb‐e kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 
 |                                         |                                   |        |
-| --------------------------------------- | --------------------------------- | ------ |
+|---------------------------------------|---------------------------------|------ |
 | A                                       | B                                 | Šomāre |
 |                                         |                                   |        |
 | 1‐ Kojā tašrif mibarid?                 | Bale, xošbaxtāne dastgir šod.     | 13     |
@@ -247,18 +200,14 @@ kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 |                                         |                                   |        |
 | 14‐ Sandali‐ye kenār‐e panjere xub‐ast? | Naxeyr, hamsar‐am hastand.        | 10     |
 
-In jomlehā rā az majhul be ma’lum tabdil
-kon!
+In jomlehā rā az majhul be ma’lum tabdil kon!
 
-1\) Farid goldān‐e ru‐ye miz rā šekast. – 2) Ta’mirkārān māšin‐at rā
-ta’mir mikonand. – 3) Ferdowsi Šāhnāme rā 1,000 sāl‐e piš sorud. – 4)
-Vaqt‐i be xāne āmadam, pedar‐am xāne rā tamiz karde bud. – 5) Hamsar‐aš
-in borj rā bist sāl‐e piš sāxte‐ast.
+1\) Farid goldān‐e ru‐ye miz rā šekast. – 2) Ta’mirkārān māšin‐at rā ta’mir mikonand. – 3) Ferdowsi Šāhnāme rā 1,000 sāl‐e piš sorud. – 4) Vaqt‐i be xāne āmadam, pedar‐am xāne rā tamiz karde bud. – 5) Hamsar‐aš in borj rā bist sāl‐e piš sāxte‐ast.
 
 Jadval‐e zir rā kāmel kon!
 
 |       |            |                 |                      |              |                  |                |
-| ----- | ---------- | --------------- | -------------------- | ------------ | ---------------- | -------------- |
+|-----|----------|---------------|--------------------|------------|----------------|-------------- |
 | Zamir | Hāl‐e sāde | Gozašte‐ye sāde | Gozašte‐ye estemrāri | Āyande       | Gozašte‐ye naqli | Gozašte‐ye dur |
 |       |            |                 |                      |              |                  |                |
 | Man   | mixoram    | xordam          | mixordam             | xāham xord   | xorde‐am         | xorde budam    |
@@ -273,39 +222,29 @@ Jadval‐e zir rā kāmel kon!
 |       |            |                 |                      |              |                  |                |
 | Ānhā  | miguyand   | goftand         | migoftand            | xāhand goft  | gofte‐and        | gofte budand   |
 
-Jomlehā‐ye zir rā bā estefāde az horuf‐e
-rabt be ham vasl kon!
+Jomlehā‐ye zir rā bā estefāde az horuf‐e rabt be ham vasl kon!
 
-1\. Ba’d az in ke pedar‐am raft, rāhat šodam. – 2. Ham Qormesabzi
-mipazad ham Fesenjān.; Na Qormesabzi mipazad na Fesenjān.; Na tanhā
-Qormesabzi balke Fesenjān ham mipazad. – 3. Bā in ke / garce / bā
-vojud‐e in ke xeyl‐i xaste bud, sar‐e kār mānd, tā moškel hal šavad.
+1\. Ba’d az in ke pedar‐am raft, rāhat šodam. – 2. Ham Qormesabzi mipazad ham Fesenjān.; Na Qormesabzi mipazad na Fesenjān.; Na tanhā Qormesabzi balke Fesenjān ham mipazad. – 3. Bā in ke / garce / bā vojud‐e in ke xeyl‐i xaste bud, sar‐e kār mānd, tā moškel hal šavad.
 
-Jāhā‐ye xāli rā bā pišvandhā va
-pasvandhā‐ye zir por kon!
+Jāhā‐ye xāli rā bā pišvandhā va pasvandhā‐ye zir por kon!
 
-1\. bi‐ – 2. bā‐ – 3. ham‐ – 4. ‐gāh – 5. ‐ande – 6. ‐mand – 7. ‐āne –
-8. ‐i
+1\. bi‐ – 2. bā‐ – 3. ham‐ – 4. ‐gāh – 5. ‐ande – 6. ‐mand – 7. ‐āne – 8. ‐i
 
-Vāžehā‐ye morakkab‐e zir rā dastebandi
-kon!
+Vāžehā‐ye morakkab‐e zir rā dastebandi kon!
 
 |               |            |                   |           |               |             |             |
-| ------------- | ---------- | ----------------- | --------- | ------------- | ----------- | ----------- |
+|-------------|----------|-----------------|---------|-------------|-----------|----------- |
 | Esm +‐o + esm | Adad + esm | Esm + setāk‐e hāl | Esm + esm | Esm +‐e + esm | Esm + sefat | Sefat + esm |
 |               |            |                   |           |               |             |             |
 | ābohavā       | cāhārpā    | zarrebin          | pesarxāle | toxmemorq     | qadkutāh    | xošhāl      |
 
 Jomlehā‐ye vasfi besāz!
 
-2\. Mard‐i ke hamiše barā‐yešān kār mikard, digar bikār šode‐ast. – 3.
-Ketāb‐i rā ke be man dādi, tā āxar xāndam.
+2\. Mard‐i ke hamiše barā‐yešān kār mikard, digar bikār šode‐ast. – 3. Ketāb‐i rā ke be man dādi, tā āxar xāndam.
 
-Jāhā‐ye xāli rā bā horuf‐e rabt‐e zir por
-kon!
+Jāhā‐ye xāli rā bā horuf‐e rabt‐e zir por kon!
 
-1\. be šart‐e in ke – 2. Be dun‐e inke – 3. be jā‐ye in ke – 4. Piš az
-in ke
+1\. be šart‐e in ke – 2. Be dun‐e inke – 3. be jā‐ye in ke – 4. Piš az in ke
 
 Jāhā‐ye xāli rā por kon!
 
@@ -313,30 +252,19 @@ Jāhā‐ye xāli rā por kon!
 
 Vāžehā‐ye zir rā dastebandi kon!
 
-**Vasāyel‐e naqliye: **docarxe – havāpeymā** **– kāmiyon – kešti – metro
-– minibus – motorsiklet – otobus – otomobil – qatār –** **qāyeq – tāksi
+**Vasāyel‐e naqliye: **docarxe – havāpeymā** **– kāmiyon – kešti – metro – minibus – motorsiklet – otobus – otomobil – qatār –** **qāyeq – tāksi
 
-**Varzeš: **basketbāl – docarxesavāri – dow – eski – futbāl – kārāte –
-košti – šenā** **– tenis – tirandāzi – vālibāl – vaznebardāri**
-Āšpazxāne: **cāqu – dis – fer – ferizer – kābinet – ketri – māhitābe
-– ojāq – qāblame – quri – satl‐e** **āšqāl – yaxcāl – zarfšuyi
+**Varzeš: **basketbāl – docarxesavāri – dow – eski – futbāl – kārāte – košti – šenā** **– tenis – tirandāzi – vālibāl – vaznebardāri** Āšpazxāne: **cāqu – dis – fer – ferizer – kābinet – ketri – māhitābe – ojāq – qāblame – quri – satl‐e** **āšqāl – yaxcāl – zarfšuyi
 
-Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān
-dar radif‐e pāyin mottasel kon!
+Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān dar radif‐e pāyin mottasel kon!
 
-šādi; qam – garm; sard – šoluq; xalvat – jang; solh – yavāš; tond –
-gozašte; āyande – xatarnāk; amn – xāb; bidār – yeknavāxt; motenavve’ –
-qavi; zaif
+šādi; qam – garm; sard – šoluq; xalvat – jang; solh – yavāš; tond – gozašte; āyande – xatarnāk; amn – xāb; bidār – yeknavāxt; motenavve’ – qavi; zaif
 
-Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān
-dar radif‐e pāyin mottasel kon!
+Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān dar radif‐e pāyin mottasel kon!
 
-sade; qarn – mohaqqeq; pažuhešgar – gunāgun; moxtalef – pišine; sābeqe –
-peydāyeš; zohur – ma’ruf; mašhur – kešvar; sarzamin – madyun; vāmdār –
-moallem; āmuzgār – barx‐i; ba’z‐i
+sade; qarn – mohaqqeq; pažuhešgar – gunāgun; moxtalef – pišine; sābeqe – peydāyeš; zohur – ma’ruf; mašhur – kešvar; sarzamin – madyun; vāmdār – moallem; āmuzgār – barx‐i; ba’z‐i
 
 Kodām vāže bā baqiye ertebāt nadārad?
 
-1\) dānešmand – 2) sāns – 3) daryā – 4) pārk – 5) sešuār – 6) kelid – 7)
-duš – 8) qam
+1\) dānešmand – 2) sāns – 3) daryā – 4) pārk – 5) sešuār – 6) kelid – 7) duš – 8) qam
 

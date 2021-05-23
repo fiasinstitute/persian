@@ -1,7 +1,6 @@
 ---
 layout: unit
-order: 30
-title: Parvāne‐ye tasvirhā
+order: 30 
 ---
 ## Jeld
 
@@ -51,23 +50,17 @@ Mālekiyat‐e omumi
 
 Dizi: Ben‐and Asho – CC BY NC SA 2.0
 
-Kabāb: Mahmoudreza Shirinsokhan – CC BY NC SA 2.0 Mirzāqāsemi:
-Mālekiyat‐e omumi
+Kabāb: Mahmoudreza Shirinsokhan – CC BY NC SA 2.0 Mirzāqāsemi: Mālekiyat‐e omumi
 
 ## Dars‐e 11
 
 Bāq‐e Eram: Arad – CC BY NC SA 3.0
 
-Ārāmgāh‐e Hāfez: Amir Hussain Zolfaghary – CC BY NC SA 3.0 Arg‐e
-Karimxāni: Amir Hussain Zolfaghary – CC BY NC SA 2.0 Masjed‐e Vakil:
-Dynamosquito – CC BY NC SA 2.0 Ārāmgāh‐e Sa’di: Fabien Dany – CC BY NC
-SA 2.5
+Ārāmgāh‐e Hāfez: Amir Hussain Zolfaghary – CC BY NC SA 3.0 Arg‐e Karimxāni: Amir Hussain Zolfaghary – CC BY NC SA 2.0 Masjed‐e Vakil: Dynamosquito – CC BY NC SA 2.0 Ārāmgāh‐e Sa’di: Fabien Dany – CC BY NC SA 2.5
 
 ## Dars‐e 12
 
-Šāhanšāhi‐ye Haxāmaneši: Gabagool – CC BY 1.0 Šāhanšāhi‐ye Aškāni:
-Keeby101 – CC BY‐SA 3.0 Šāhanšāhi‐ye Sāsāni: Gabagool – CC BY 1.0
-Šāhanšāhi‐ye Safavi: Mālekiyat‐e omumi
+Šāhanšāhi‐ye Haxāmaneši: Gabagool – CC BY 1.0 Šāhanšāhi‐ye Aškāni: Keeby101 – CC BY‐SA 3.0 Šāhanšāhi‐ye Sāsāni: Gabagool – CC BY 1.0 Šāhanšāhi‐ye Safavi: Mālekiyat‐e omumi
 
 ## Dars‐e 13
 
@@ -89,8 +82,7 @@ Talfiq: Marmoulak – CC BY 3.0
 
 ## Dars‐e 15
 
-Ārāmgāh‐e Kuroš: Truth Seeker – CC BY SA 3.0 Ostovāne‐ye Kuroš: Mike
-Peel – CC BY SA 3.0
+Ārāmgāh‐e Kuroš: Truth Seeker – CC BY SA 3.0 Ostovāne‐ye Kuroš: Mike Peel – CC BY SA 3.0
 
 ## Dars‐e 16
 
@@ -110,13 +102,11 @@ Tasvir‐e pāyin: Phillip Maiwald ‐ CC BY‐SA 3.0
 
 ## Dars‐e 19
 
-Tandis‐e Ferdowsi: Mālekiyat‐e omumi Ārāmgāh‐e Ferdowsi: Nima Vojdani –
-CC BY 3.0
+Tandis‐e Ferdowsi: Mālekiyat‐e omumi Ārāmgāh‐e Ferdowsi: Nima Vojdani – CC BY 3.0
 
 ## Dars‐e 20
 
-Xārazmi: KazcmoT .M – CC BY‐SA 3.0 Rāzi: Mehdi Delkhasteh‐ CC BY‐SA 3.0
-Pur‐e Sinā: Mālekiyat‐e omumi
+Xārazmi: KazcmoT .M – CC BY‐SA 3.0 Rāzi: Mehdi Delkhasteh‐ CC BY‐SA 3.0 Pur‐e Sinā: Mālekiyat‐e omumi
 
 Xayyām: Muhammad Mahdi Karim – GNU Free Documentation License1.2
 
@@ -130,9 +120,7 @@ Hāfez: Mālekiyat‐e omumi
 
 ## Dars‐e 22
 
-Cowgān: Mālekiyat‐e omumi Varzešgāh‐e Āzādi: Mālekiyat‐e omumi Takhti:
-Mālekiyat‐e omumi Rezazadeh: Mardetanha – CC BY‐SA 3.0 Dayi: Hesam
-Armandehi – CC BY‐SA 3.0
+Cowgān: Mālekiyat‐e omumi Varzešgāh‐e Āzādi: Mālekiyat‐e omumi Takhti: Mālekiyat‐e omumi Rezazadeh: Mardetanha – CC BY‐SA 3.0 Dayi: Hesam Armandehi – CC BY‐SA 3.0
 
 Laleh Seddigh: Female Single Combat Club, http://fscclub.com
 
@@ -140,8 +128,7 @@ Laleh Seddigh: Female Single Combat Club, http://fscclub.com
 
 Sāzhā‐ye irāni: Mālekiyat‐e omumi
 
-Alizadeh‐vo Nazeri: Maryam Moayyeri – CC BY‐SA 3.0 Shajarian: Masih
-Azarakhsh – CC BY‐SA 2.0
+Alizadeh‐vo Nazeri: Maryam Moayyeri – CC BY‐SA 3.0 Shajarian: Masih Azarakhsh – CC BY‐SA 2.0
 
 Parisa: Mālekiyat‐e omumi Vigen: Mālekiyat‐e omumi
 
@@ -155,4 +142,4 @@ Panahi: Siebbi – CC BY 3.0
 
 Farhadi: Georges Biard – CC BY‐SA 3.0
 
-Bani Etemad: Masih Azarakhsh – CC BY‐SA 2.0
+Bani Etemad: Masih Azarakhsh – CC BY‐SA 2.0 

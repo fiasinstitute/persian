@@ -1,36 +1,15 @@
 ---
 layout: unit
-order: 07
-title: Kārhā‐ye ruzmarre
+order: 7
 ---
-## Matn – Kārhā‐ye ruzmarre
 
-Sārā ruzhā‐ye šanbe tā cāhāršanbe be dānešgāh miravad. U sobhhā sāat‐e
-yek rob’ be haft az xāb bidār mišavad va nim sāat dar pārk midavad. Cand
-daqiqe ham narmeš mikonad. U sepas duš migirad, lebāshā‐yaš rā mipušad,
-sobhāne mixorad va sāat‐ e hašt be dānešgāh miravad. U ma’mulan tā
-sāat‐e cāhār‐e ba’dazzohr kelās dārad. Sārā zohrhā dar sālon‐e
-qazāxori‐ye dānešgāh qazā mixorad. Pas az bargašt be xāne kam‐i
-esterāhat mikonad va sepas darshā‐yaš rā morur mikonad. Hafte‐i yek bār
-ham be dust‐aš, Mehrān, riyāziyāt dars midehad. Sārā asrhā ma’mulan bā
-dustān‐aš tafrih mikonad. Ānhā gāh‐i be sinamā, teātr yā gardeš
-miravand. Ba’z‐i šabhā ham be konsert miravand. Sārā hic tafrih‐i rā
-bištar az raftan be konsert dust nadārad.
-
-##### Dorost yā qalat?
-
-1.  Sārā az šanbe tā panjšanbe be dānešgāh miravad.
-2.  Sāat‐e hašt az xāb bidār mišavad.
-3.  Nāhār rā dar xāne nemixorad.
-4.  Dar hafte yek bār be Mehrān riyāziyāt dars midehad.
-5.  Sārā raftan be konsert rā az hame‐ye tafrihhā bištar dust dārad.
 
 ## Sāxtār
 
 ### Sefat‐e nāmošaxxas
 
 |                 |               |            |
-| --------------- | ------------- | ---------- |
+|---------------|-------------|---------- |
 | Piš az esm      | Esm           | Pas az esm |
 |                 |               |            |
 |                 | dānešjuyān‐e  | bištar‐i   |
@@ -53,17 +32,12 @@ bištar az raftan be konsert dust nadārad.
 
 #### Nokte
 
-  - Sefat‐e nāmošaxxas‐e šomāreši bā esm‐e mofrad miāyad: cand/candin
-    ketāb.
-  - Barx‐i az sefathā‐ye nāmošaxxas bā harf‐e ezāfe‐ye *az* ham miāyand:
-    ba’z‐i mardom / ba’z‐i az mardom.
-  - *Hic *bā* *esm‐e nāmošaxxas va fe’l‐e manfi miāyad: hic dānešju‐yi
-    nayāmad.
+  - Sefat‐e nāmošaxxas‐e šomāreši bā esm‐e mofrad miāyad: cand/candin     ketāb.   - Barx‐i az sefathā‐ye nāmošaxxas bā harf‐e ezāfe‐ye *az* ham miāyand:     ba’z‐i mardom / ba’z‐i az mardom.   - *Hic *bā* *esm‐e nāmošaxxas va fe’l‐e manfi miāyad: hic dānešju‐yi     nayāmad.
 
 ### Zamir‐e nāmošaxxas
 
 |                                                 |                                 |
-| ----------------------------------------------- | ------------------------------- |
+|-----------------------------------------------|------------------------------- |
 | **Harkas**/**hamekas **miguyad.                 | **Hickodām **xub nist.          |
 |                                                 |                                 |
 | **Harciz**/**harkodām**/**hameciz **momken‐ast. | **Besyār**‐i midānand.          |
@@ -72,13 +46,12 @@ bištar az raftan be konsert dust nadārad.
 
 #### Nokte
 
-  - Zamirhā‐ye nāmošaxxas bištar tarkibhā‐yi az vāžehā‐ye *har*, *hic*
-    yā *hame* hastand: harjā, hicjā, hamejā.
+  - Zamirhā‐ye nāmošaxxas bištar tarkibhā‐yi az vāžehā‐ye *har*, *hic*     yā *hame* hastand: harjā, hicjā, hamejā.
 
 ### Moqāyese: sefat‐o zamir‐e nāmošaxxas
 
 |               |        |
-| ------------- | ------ |
+|-------------|------ |
 | Sefat + esm   | Zamir  |
 |               |        |
 | hame‐ye jāhā  | hamejā |
@@ -94,7 +67,7 @@ bištar az raftan be konsert dust nadārad.
 ### Bayān‐e zamān
 
 |                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
-| ------------------------ | -------------- | ---------------- | ------------------------ | ----------------------------------------------------- | --------------------- | --------------------- | --------------------- | --------------------- | ----- |
+|------------------------|--------------|----------------|------------------------|-----------------------------------------------------|---------------------|---------------------|---------------------|---------------------|----- |
 | Soāl                     |                |                  |                          | Javāb                                                 |                       | Sāat be raqam         | Bāmdād/ba’dazzohr     |                       |       |
 |                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
 | Sāat cand‐ast?           |                | (Sāat) haft‐ast. |                          | 07:00 / 19:00                                         |                       | 07:00 bd. / 07:00 bz. |                       |                       |       |
@@ -117,18 +90,7 @@ bištar az raftan be konsert dust nadārad.
 |                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
 | har                      | hic            | hame             | barx‐i  ba’z‐i  hickodām | aqlab                                                 | hickas                | hicjā                 | hamejā                | harkas                | harjā |
 
-1.  Be \_\_\_\_\_\_\_\_\_\_ kas‐i ke mixāhi, begu!
-2.  \_\_\_\_\_\_\_\_\_\_ yek jur fekr mikonad.
-3.  \_\_\_\_\_\_\_\_\_\_ hamin‐ast.
-4.  Az \_\_\_\_\_\_\_\_\_\_‐ye kārmandān motešakker‐am.
-5.  Dar donyā \_\_\_\_\_\_\_\_\_\_ jā‐ye behtar‐i peydā nemikoni.
-6.  \_\_\_\_\_\_\_\_\_\_ ke miravam, u rā mibinam.
-7.  \_\_\_\_\_\_\_\_\_\_ az mardom tanbal‐and.
-8.  Bā \_\_\_\_\_\_\_\_\_\_ az ānhā āšnā hastam.
-9.  \_\_\_\_\_\_\_\_\_\_‐e mardom kār kardan rā dust dārand.
-10. \_\_\_\_\_\_\_\_\_\_ rā dust nadāram.
-11. Be \_\_\_\_\_\_\_\_\_\_ e’temād nakon!
-12. Bā to \_\_\_\_\_\_\_\_\_\_ nemiāyam.
+1.  Be \_\_ kas‐i ke mixāhi, begu! 2.  \_\_ yek jur fekr mikonad. 3.  \_\_ hamin‐ast. 4.  Az \_\_‐ye kārmandān motešakker‐am. 5.  Dar donyā \_\_ jā‐ye behtar‐i peydā nemikoni. 6.  \_\_ ke miravam, u rā mibinam. 7.  \_\_ az mardom tanbal‐and. 8.  Bā \_\_ az ānhā āšnā hastam. 9.  \_\_‐e mardom kār kardan rā dust dārand. 10. \_\_ rā dust nadāram. 11. Be \_\_ e’temād nakon! 12. Bā to \_\_ nemiāyam.
 
 ##### Sāat cand‐ast?
 
@@ -149,7 +111,7 @@ bištar az raftan be konsert dust nadārad.
 ##### Barā‐ye harkodām az javābhā‐ye zir yek soāl benevis!
 
 |                                              |                |
-| -------------------------------------------- | -------------- |
+|--------------------------------------------|-------------- |
 | Javāb                                        | Soāl           |
 |                                              |                |
 | Sāat haft‐o nim‐ast.                         | Sāat cand‐ast? |
@@ -166,29 +128,11 @@ bištar az raftan be konsert dust nadārad.
 
 ## Irān‐o irāni – Mardom‐e Irān
 
-![  
-Tasvir·e 3: Naqše‐ye kuc‐e mardonām‐e hendoorupāyi, azjomle mohājerat‐e
-Āryāyiyān be Irān dar hezāre‐ye dovvom‐e piš az
-milād](Pictures/10000000000001C200000113BA9B703FBEBE42CA.jpg)Irān be
-ma’ni‐ye Sarzamin‐e Āryāyiyān‐ast. Mardom‐e Irān az nežād‐e āryāyi
-hastand. Āryāyiyān tirehā‐ye moxtalef‐i dārand. Ma’ruftarin‐e ānhā
-Pārs‐ast. Bozorgtarin daste az mardom‐e Irān pārsi hastand. Az su‐ ye
-digar, az gozaštehā‐ye dur tā emruz dar Irān aqvām‐e gunāgun‐i zendegi
-mikonand. Emruze dar Irān aqvām‐e Pārs, Kord, Lor, Tork, Torkaman,
-Baluc, Arab, armani, gorji va āšuri dar kenār‐e yekdigar dar solh‐o
-ārāmeš zendegi mikonand. Aksariyat‐e mardom‐e Irān mosalmān‐and.
-Aqalliyathā‐ye mazhabi dar Irān aqlab zartošti, masihi va yahudi
-hastand. Haryek az aqvām‐e irāni zabān, farhang va ādāb‐o rosum‐e
-jāleb‐i dārad. Zabān‐e rasmi‐ye Irān fārsi‐st. Fārsi hamān pārsi‐st.
+![   Tasvir·e 3: Naqše‐ye kuc‐e mardonām‐e hendoorupāyi, azjomle mohājerat‐e Āryāyiyān be Irān dar hezāre‐ye dovvom‐e piš az milād](Pictures/10000000000001C200000113BA9B703FBEBE42CA.jpg)Irān be ma’ni‐ye Sarzamin‐e Āryāyiyān‐ast. Mardom‐e Irān az nežād‐e āryāyi hastand. Āryāyiyān tirehā‐ye moxtalef‐i dārand. Ma’ruftarin‐e ānhā Pārs‐ast. Bozorgtarin daste az mardom‐e Irān pārsi hastand. Az su‐ ye digar, az gozaštehā‐ye dur tā emruz dar Irān aqvām‐e gunāgun‐i zendegi mikonand. Emruze dar Irān aqvām‐e Pārs, Kord, Lor, Tork, Torkaman, Baluc, Arab, armani, gorji va āšuri dar kenār‐e yekdigar dar solh‐o ārāmeš zendegi mikonand. Aksariyat‐e mardom‐e Irān mosalmān‐and. Aqalliyathā‐ye mazhabi dar Irān aqlab zartošti, masihi va yahudi hastand. Haryek az aqvām‐e irāni zabān, farhang va ādāb‐o rosum‐e jāleb‐i dārad. Zabān‐e rasmi‐ye Irān fārsi‐st. Fārsi hamān pārsi‐st.
 
 ##### Dorost yā qalat?
 
-1.  Irān ya’ni Sarzamin‐e Āryāyiyān.
-2.  Irān cand zabān‐e rasmi dārad.
-3.  Dar Irān aqvām‐e moxtalef‐i zendegi nemikonand.
-4.  Bozorgtarin aqalliyathā‐ye mazhabi dar Irān masihiyān, zartoštiyān
-    va yahudiyān hastand.
-5.  Aqvām‐e irāni bā yekdigar dar āšti‐o ārāmeš zendegi mikonand.
+1.  Irān ya’ni Sarzamin‐e Āryāyiyān. 2.  Irān cand zabān‐e rasmi dārad. 3.  Dar Irān aqvām‐e moxtalef‐i zendegi nemikonand. 4.  Bozorgtarin aqalliyathā‐ye mazhabi dar Irān masihiyān, zartoštiyān     va yahudiyān hastand. 5.  Aqvām‐e irāni bā yekdigar dar āšti‐o ārāmeš zendegi mikonand.
 
 ## Goftogu – Sāat cand‐e?
 
@@ -215,7 +159,7 @@ Farhād:Sāat panj‐e. Se sāat‐o nim‐e dige vaxt dārim.
 #### Nokte
 
 |              |               |
-| ------------ | ------------- |
+|------------|------------- |
 | Goftāri      | Neveštāri     |
 |              |               |
 | candšanba‐st | candšanbe‐ast |
@@ -238,25 +182,23 @@ Farhād:Sāat panj‐e. Se sāat‐o nim‐e dige vaxt dārim.
 
 ### Ebārathā/vāžehā
 
-Šanbe – yešanbe (yekšanbe) – došanbe – sešanbe – cāršanbe (cāhāršanbe) –
-panšanbe (panjšanbe) – jom’e
+Šanbe – yešanbe (yekšanbe) – došanbe – sešanbe – cāršanbe (cāhāršanbe) – panšanbe (panjšanbe) – jom’e
 
-Konsert‐e Ebi – film‐e sinamāyi – mosābeqe‐ye tenis – paxš‐e mostaqim‐e
-futbāl – arusi‐ye Minā – jašn‐e tavallod‐e Bābak
+Konsert‐e Ebi – film‐e sinamāyi – mosābeqe‐ye tenis – paxš‐e mostaqim‐e futbāl – arusi‐ye Minā – jašn‐e tavallod‐e Bābak
 
 ##### Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
 
-Nāzi:Farhād, fardā \_\_\_\_\_\_\_\_\_\_‐st?
+Nāzi:Farhād, fardā \_\_‐st?
 
-Farhād:Panšanbe. \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_?
+Farhād:Panšanbe. \_\_ \_\_?
 
-Nāzi:Televiziyon ye \_\_\_\_\_\_\_\_\_\_‐e xub nešun mide.
+Nāzi:Televiziyon ye \_\_‐e xub nešun mide.
 
-Farhād:Ce \_\_\_\_\_\_\_\_\_\_‐i?
+Farhād:Ce \_\_‐i?
 
-Nāzi:\_\_\_\_\_\_\_\_\_\_‐e \_\_\_\_\_\_\_\_\_\_.
+Nāzi:\_\_‐e \_\_.
 
-Farhād:Pas biyā xune‐ye mā. Mā ye \_\_\_\_\_\_\_\_\_\_‐e bozorg dārim.
+Farhād:Pas biyā xune‐ye mā. Mā ye \_\_‐e bozorg dārim.
 
 ##### Az goftāri be neveštāri tabdil kon!
 
@@ -284,21 +226,15 @@ Dorost yā qalat?
 
 Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 
-1\. har – 2. harkas – 3. hamejā – 4. hame – 5. hic – 6. harjā – 7.
-ba’z‐i – 8. barx‐i – 9. aqlab – 10. hickodām – 11. hickas – 12.
-hicjā
+1\. har – 2. harkas – 3. hamejā – 4. hame – 5. hic – 6. harjā – 7. ba’z‐i – 8. barx‐i – 9. aqlab – 10. hickodām – 11. hickas – 12. hicjā
 
 Sāat cand‐ast?
 
-Sāat noh‐o rob’‐ast. – Sāat noh‐o nim‐ast. – Sāat noh‐o si‐yo panj
-daqiqe‐ast. – Sāat noh‐o cehel‐o panj daqiqe‐ast. – Sāat dah daqiqe be
-dah‐ast.
+Sāat noh‐o rob’‐ast. – Sāat noh‐o nim‐ast. – Sāat noh‐o si‐yo panj daqiqe‐ast. – Sāat noh‐o cehel‐o panj daqiqe‐ast. – Sāat dah daqiqe be dah‐ast.
 
-Barā‐ye harkodām az javābhā‐ye zir yek soāl
-benevis!
+Barā‐ye harkodām az javābhā‐ye zir yek soāl benevis!
 
-Sāat‐e cand bā ānhā qarār dārid? – Film‐e emšab ce sāat‐i šoru’ mišavad?
-– Sāat‐e cand miāyand? – Sāat cand‐ast? – Mā cand sāat vaqt dārim?
+Sāat‐e cand bā ānhā qarār dārid? – Film‐e emšab ce sāat‐i šoru’ mišavad? – Sāat‐e cand miāyand? – Sāat cand‐ast? – Mā cand sāat vaqt dārim?
 
 Dorost yā qalat?
 
@@ -306,12 +242,9 @@ Dorost yā qalat?
 
 Jāhā‐ye xāli rā por kon!
 
-candšanba – Cetowr – mage – film – sāat – sāat – hašt‐o rob’ –
-televiziyon
+candšanba – Cetowr – mage – film – sāat – sāat – hašt‐o rob’ – televiziyon
 
 Az goftāri be neveštāri tabdil kon!
 
-Ozr mixāham, fardā candšanbe‐ast? – Bale, sāat haft‐ast. – Al’ān sāat
-cand‐ast? – Yek sāat‐o nim‐e digar vaqt dārid. – Aqrabe‐ ye sāniyešomār
-derāztar az aqrabe‐ye daqiqešomār‐ast. – Har daqiqe šast sāniye dārad.
+Ozr mixāham, fardā candšanbe‐ast? – Bale, sāat haft‐ast. – Al’ān sāat cand‐ast? – Yek sāat‐o nim‐e digar vaqt dārid. – Aqrabe‐ ye sāniyešomār derāztar az aqrabe‐ye daqiqešomār‐ast. – Har daqiqe šast sāniye dārad.
 
