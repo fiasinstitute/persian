@@ -3,57 +3,11 @@ layout: unit
 order: 6
 ---
 
-## Sāxtār
 
-### Fe’l‐e amri
 
-bordan (bar)neveštan (nevis)
 
-|                        |                     |       |  |
-|----------------------|-------------------|----- |  |
-| Moxātab Pišvand‐e sarf | Setāk‐e hāl  Šenāse |       |  |
-|                        |                     |       |  |
-| to                     | bar                 |       |  |
-|                        | be                  | nevis |  |
-|                        |                     |       |  |
-| šomā                   | id                  |       |  |
-|                        |                     |       |  |
 
-#### Nokte
 
-  - “Be‐“ tekyebar‐ast: b*e*barid.   - Hālat‐e amri‐ye budan *bāš*‐ast: Šomā injā hastid. Injā bāšid!   - Hargāh sedāhā‐ye “av” dar yek hejā qarār begirand, be “ow” tabdil     mišavand: bešavid vali bešow.
-
-### Degarguni‐ye āvāyi
-
-|                      |                    |                                     |           |
-|--------------------|------------------|-----------------------------------|--------- |
-| andāxtan (**a**ndāz) | āvardan (**ā**var) | oftādan (**o**ft)  yāftan (**y**āb) |           |
-|                      |                    |                                     |           |
-| **biya**ndāz         | **biy**āvar        | **biy**oft                          | **bi**yāb |
-
-#### Nokte
-
-  - Agar setāk‐e hāl takhejāyi va az gune‐ye hamxān+o+hamxān bāšad,     mitavānim ma’mulan “be‐“ rā be “bo‐“ tabdil konim: bexor/boxor,     bekoš/bokoš.   - Dar zabān‐e adabi gāh‐i az “be‐“ cešmpuši mišavad: be xod ā / be xod     biyā.   - Agar setāk‐e hāl bā “ā” / “u” pāyān yābad, gune‐ye digar‐i ham     dārad, ke bā “āy”/“uy” pāyān miyābad: afzudan (afzā(y)), jostan     (ju(y)). In gune bištar dar še’r be kār miravad:   - *Conin goft peyqambar‐e nāmjuyze gahvāre tā gur dāneš bejuy!*   - “Ze” gune‐i az “az”‐ast, ke dar še’r be kār miravad.
-
-### Nafy
-
-|                |                            |
-|--------------|-------------------------- |
-| bordan (bar)   | neveštan (nevis)           |
-| Pišvand‐e sarf | Setāk‐e fe’l (hāl/gozašte) |
-|                |                            |
-| na             | bar                        |
-| nevis          |                            |
-
-#### Nokte
-
-  - “Na‐“ tekyebar‐ast: n*a*bar.   - “Na‐“ ma’mulan tanhā pišvand‐ast: bebar, nabar.   - Tanhā “mi‐“ be “nemi” tabdil mišavad: m*i*baram, n*e*mibaram.   - Nafy‐e setāk‐e hāl‐e budan (hast) biqāede‐ast: nistam, nisti, nist,     nistim, nistid, nistand.
-
-### Āvā‐ye miyāni
-
-andāxtan (**a**ndāz)āvardan (**ā**var)oftādan (**o**ft)
-
-na**y**andāzna**y**āvarna**y**oft
 
 ##### Jomlehā‐ye zir rā be hālat‐e amri tabdil kon!
 

@@ -6,55 +6,11 @@ order: 2
 
 ## Sāxtār
 
-### Hāl‐e sāde‐ye dāštan (dār) – šenāsehā‐ye hāl
 
-dār**am**dār**im**
 
-dār**i**dār**id**
 
-dār**ad**dār**and**
 
-#### Nokte
 
-  - Šenāsehā ma’mulan tekye nadārand: d*ā*ram.
-
-  - Gāh‐i yek esm bā dāštan yek fe’l‐e morakkab misāzad:            - *dust dāštan*: Man Celowkabāb dust dāram.       - *qarār dāštan*: Irān dar qārre‐ye Āsiyā qarār dārad. Mahnāz         fardā bā dandānpezešk qarār dārad. o *kār dāštan*: Ānhā bā to         kār dārand.       - *nām dāštan*: Pedar‐aš Manucehr nām dārad.
-
-### O / va
-
-man va toman‐o to
-
-### Āvā‐ye miyānji
-
-|                   |                   |                      |                           |                      |
-|-----------------|-----------------|--------------------|-------------------------|-------------------- |
-| sed**ā**          | xān**e**          | bāz**i**             | rādiyo                    | jār**u**             |
-| sedā**‐vo** surat | xāne‐**v**o māšin | bāzi‐**y**o sargarmi | rādiyo‐**v**o televiziyon | jāru‐**v**o xākandāz |
-
-#### Nokte
-
-  - “O” tekye nadārad va bā vāže‐ye pišin xānde mišavad: ped*a*r‐o     pes*a*r.
-
-### Ezāfe II
-
-|        |                                     |                   |
-|------|-----------------------------------|----------------- |
-| Towsif | Tehrān šahr‐ast. Tehrān bozorg‐ast. | šahr‐e bozorg     |
-|        | Kāmbiz pesar‐ast. Kāmbiz lāqar‐ast. | pesar‐e lāqar     |
-| Ta’yin | In māšin barā‐ye camanzani‐st.      | māšin‐e camanzani |
-|        | In eynak barā‐ye motālee‐ast.       | eynak‐e motālee   |
-|        | In kešvar Irān‐ast.                 | kešvar‐e Irān     |
-|        | In šahr Širāz‐ast.                  | šahr‐e Širāz      |
-
-|                       |                 |
-|---------------------|--------------- |
-| In kuh Damāvand‐ast.  | Kuh‐e Damāvand  |
-| In rud Kārun‐ast.     | Rud‐e Kārun     |
-| In ketāb Šāhnāme‐ast. | Ketāb‐e Šāhnāme |
-
-#### Nokte
-
-  - Ezāfe mitavānad edāme dāšte bāšad: ketāb‐e pedar‐e Navid.
 
 ##### Jāhā‐ye xāli rā por kon!
 

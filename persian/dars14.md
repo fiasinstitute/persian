@@ -3,44 +3,9 @@ layout: unit
 order: 14 
 ---
 
-## Sāxtār
 
-### Esm‐e maf’ul
 
-|                 |        |              |  |
-|---------------|------|------------ |  |
-| Setāk‐e gozašte |        | Esm‐e maf’ul |  |
-|                 |        |              |  |
-| bast            |        | baste        |  |
-|                 | \+     | “‐e”  =      |  |
-|                 | šenide |              |  |
-| šenid           |        |              |  |
 
-#### Nokte
-
-  - Esm‐e maf’ul be onvān‐e sefat ham be kār miravad: reside, šoste,     ālude.
-
-### Gozašte‐ye naqli
-
-|        |         |       |
-|------|-------|----- |
-| (man)  | borde   | budam |
-|        |         |       |
-| (to)   | budi    |       |
-| āmade  |         |       |
-|        |         |       |
-| (u)    | gofte   | bud   |
-| (mā)   | nevešte | budim |
-|        | šoste   |       |
-| (šomā) | budid   |       |
-| rafte  |         |       |
-|        |         |       |
-| (ānhā) | budand  |       |
-|        |         |       |
-
-#### Nokte
-
-  - Gozašte‐ye dur amal‐i rā bāzgu mikonad, ke piš az amal‐e digar‐i     anjām gerefte‐ast: Piš az āmadan‐e u man rafte budam.   - Hargāh biš az yek esm‐e maf’ul dāšte bāšim, mitavānim gozašte‐ye     naqli/dur rā yek bār besāzim: Man u rā dide‐vo pasandide‐am /     pasandide budam.
 
 ##### Pāsox bedeh!
 

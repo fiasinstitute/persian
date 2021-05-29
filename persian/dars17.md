@@ -4,53 +4,12 @@ order: 17
 ---
 
 
-## Sāxtār
 
-### Jam’‐e arabi bā “‐āt”
 
-**MofradJam’**
 
-enteqādenteqād**āt**
 
-#### Nokte
 
-  - Barx‐i az vāmvāžehā‐ye arabi surat‐e jam’‐e xod rā negah dāšte‐and.   - Jam’‐e arabi kamābiš biqāede‐ast.   - Jam’ bā “‐āt” gāh‐i barā‐ye vāžehā‐ye fārsi niz be kār miravad: deh,     dehāt.
 
-### Āvā‐ye miyānji
-
-miv**e**sabz**i**
-
-mive**j**ātsabzi**j**āt
-
-### Hazf‐e āvā
-
-kalam**e**
-
-kalam**~~e~~**āt
-
-### Jam’‐e arabi bā “‐in”
-
-**MofradJam’**
-
-moallemmoallem**in**
-
-### Degarguni‐ye āvāyi
-
-enqelāb**i**
-
-enqelābi**~~i~~yu**n
-
-### Jam’‐e šekaste‐ye arabi
-
-**MofradJam’MofradJam’MofradJam’MofradJam’**
-
-|       |       |         |         |      |       |        |        |
-|-----|-----|-------|-------|----|-----|------|------ |
-| hadaf | ahdāf | markaz  | marākez | harf | horuf | rais   | roasā  |
-|       |       |         |         |      |       |        |        |
-| raqam | arqām | mowred  | mavāred | fasl | fosul | xalife | xolafā |
-|       |       |         |         |      |       |        |        |
-| adad  | a’dād | mas’ale | masāel  | qarn | qorun | ālem   | olamā  |
 
 ##### Haryek az esmhā‐ye sotun‐e B jam’‐e kodām esm az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
 

@@ -4,35 +4,8 @@ order: 20
 ---
 
 
-## Sāxtār
 
-### Ebārathā‐ye vasfi (vasf‐e fāel)
 
-|      |    |            |                                        |
-|---- | --|----------|-------------------------------------- |
-| Fāel | ‐i | ke  Nemune |                                        |
-|      |    |            |                                        |
-| Mard | ‐i | ke         | ānjā istāde‐ast, ostād‐e man‐ast.      |
-|      |    |            |                                        |
-| Muze | ‐i | ke         | dar xiyābān‐e mā‐st, besyār jāleb‐ast. |
-
-#### Nokte
-
-  - Dar injā “i” nešāne‐ye nesbat‐ast va mānand‐e nešāne‐ye nāmošaxxas     tekye nadārad.
-
-### Ebārathā‐ye vasfi (vasf‐e maf’ul)
-
-|        |    |    |    |                            |
-|------ | -- | -- | --|-------------------------- |
-| Maf’ul | ‐i | rā | ke | Nemune                     |
-|        |    |    |    |                            |
-| Ketāb  | ‐i | rā | ke | xaridam, hanuz naxānde‐am. |
-|        |    |    |    |                            |
-| Matn   | ‐i | rā | ke | mixānam, nemifahmam.       |
-
-#### Nokte
-
-  - Dar ebārathā‐ye vasfi‐ye bālā maf’ul‐e jomle bivāsete‐ast.
 
 ##### Mānand‐e nemune jomle besāz!
 

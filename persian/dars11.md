@@ -5,45 +5,7 @@ order: 11
 
 
 
-## Sāxtār
 
-### Hāl‐e eltezāmi
-
-|                                                         |                                                            |  |                |             |                 |
-|-------------------------------------------------------|---------------------------------------------------------- | 
-|--------------|-----------|--------------- |
-| bordan (bar)   goftan (gu)   raftan (rav)   didan (bin) | sāxtan (sāz)   xāndan (xān)   istādan (ist)   māndan (mān) |  |                |             |                 |
-| Kārbord                                                 | Nemune                                                     |  | Pišvand‐e sarf | Setāk‐e hāl | Šenāse (nemune) |
-|                                                         |                                                            |  |                |             |                 |
-| Ārezu                                                   | Mixāham – dust dāram – māyel‐am                            |  |                | bar         | am.             |
-|                                                         |                                                            |  |                |             |                 |
-| Tasmim                                                  | Tasmim dāri – qasd dāri                                    |  |                | gu          | yi.             |
-|                                                         |                                                            |  |                |             |                 |
-| Tarjih                                                  | Tarjih midehad                                             |  |                | rav         | ad.             |
-|                                                         |                                                            |  |                |             |                 |
-| Niyāz                                                   | Lāzem‐ast – niyāz‐ast                                      |  |                | bin         | im.             |
-|                                                         |                                                            |  |                |             |                 |
-| Ejbār                                                   | Majbur‐id – nāgozir‐id                                     |  |                | sāz         | id.             |
-|                                                         |                                                            |  |                |             |                 |
-| Vazife                                                  | Bāyad                                                      |  |                | xān         | am.             |
-|                                                         |                                                            |  |                |             |                 |
-| Tavānāyi                                                | Mitavānand – qāder‐and                                     |  | be             | ist         | and.            |
-|                                                         |                                                            |  |                |             |                 |
-| Ejāze                                                   | Ejāze bedehid – begozārid                                  |  |                | gu          | yam.            |
-|                                                         |                                                            |  |                |             |                 |
-| Forsat                                                  | Forsat dāram – vaqt dāram – heyf‐ast                       |  |                | rav         | am.             |
-|                                                         |                                                            |  |                |             |                 |
-| Ehtemāl                                                 | Šāyad – momken‐ast – qarār‐ast                             |  |                | mān         | im.             |
-|                                                         |                                                            |  |                |             |                 |
-| Kefāyat                                                 | Kāfi‐st                                                    |  |                | bin         | i.              |
-|                                                         |                                                            |  |                |             |                 |
-| Pišnahād                                                |                                                            |  |                | rav         | im!            |
-|                                                         |                                                            |  |                |             |                 |
-| Darxāst‐e pišnahād                                      | Kojā                                                       |  |                | rav         | im?             |
-
-#### Nokte
-
-  - Āvāhā‐ye miyānji va degarguni‐ye *be* be *bi* mānand‐e fe’l‐e     amri‐st: Bāyad biyāyim.   - Hāl‐e eltezāmi‐ye budan *bāš*‐ast: Mixāham injā bāšam.   - Hāl‐e eltezāmi‐ye dāštan *dāšte bāš*‐ast: Bāyad in ketāb rā dāšte     bāšam.   - Dar fe’lhā‐ye morakkab va pišvandi gāh‐i az *be‐* cešmpuši mišavad:     Bāyad tamiz (be)konam. Šāyad dar (biy)āvaram.   - Hāl‐e eltezāmi aqlab bā *ke* hamrāh mišavad: Kāfi‐st, ke yek bār     emtehān koni.   - Barā‐ye residan be yek hadaf ma’mulan *tā* be kār miravad: Miravam,     tā bebinam.
 
 ##### Jāhā‐ye xāli rā bā hāl‐e eltezāmi por kon!
 

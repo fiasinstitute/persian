@@ -4,27 +4,7 @@ order: 24
 ---
 
 
-## Sāxtār
 
-### Majhul
-
-|              |                                 |
-|------------|------------------------------- |
-| Esm‐e maf’ul | Fe’l az masdar‐e šodan (nemune) |
-|              |                                 |
-| košte        | mišavad                         |
-|              |                                 |
-| dide         | šod                             |
-|              |                                 |
-| robude       | šode‐ast                        |
-|              |                                 |
-| gofte        | šode bud                        |
-|              |                                 |
-| baste        | xāhad šod                       |
-
-#### Nokte
-
-  - Agar bexāhim, fāel‐e jomle rā bāzgu konim, ma’mulan az ebārathā‐ye     *be dast‐e* va *tavassot‐e* estefāde mikonim: Mardom be dast‐e ānhā     košte šodand. Havāpeymā tavassot‐e sāreqin robude šod.   - Dar fe’lhā‐ye morakkab *kardan* ma’mulan be *šodan* tabdil mišavad:     jāygozin kard, jāygozin šod.   - Barx‐i az fe’lhā‐ye morakkab sāxtārhā‐ye ma’lum‐o majhul dārand:     āsib zadan (be), āsib didan (az).
 
 ##### Jomlehā ye‐e zir rā az ma’lum be majhul tabdil kon!
 

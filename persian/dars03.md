@@ -5,77 +5,15 @@ order: 3
 
 ## Sāxtār
 
-### Hāl‐e sāde
 
-|              |                |                       |                                                  |        |    |  |
-|------------|--------------|---------------------|------------------------------------------------|------ | -- |  |
-| bordan (bar) | āmadan (ā)     | šodan (šav, šow)      | neveštan (nevis)  šostan (šu)  raftan (rav, row) |        |    |  |
-| Zamir        | Pišvand‐e sarf | Setāk‐e hāl / miyānji |                                                  | Šenāse |    |  |
-| (man)        |                |                       | bar                                              |        | am |  |
-| (to)         |                |                       |                                                  | i      |    |  |
-|              |                | ā**y**                |                                                  |        |    |  |
-| (u)          | mi             |                       | šav                                              |        | ad |  |
-| (mā)         |                | nevis                 |                                                  | im     |    |  |
-|              |                |                       | šu**y**                                          |        |    |  |
-| (šomā)       |                |                       |                                                  | id     |    |  |
-|              |                | rav                   |                                                  |        |    |  |
-| (ānhā)       |                |                       |                                                  | and    |    |  |
 
-#### Nokte
 
-  - Setāk‐e hāl gāh‐i biqāede‐ast va dar parāntez nešān dāde mišavad.   - “Mi‐“ tekyebar‐ast: m*i*baram.   - Agar fāel‐e jomle ma’lum yā mohem nabāšad, sevvomšaxs‐e jam’ be     dun‐e zamir be kār miravad: Minevisand.   - Hargāh setāk‐e hāl bā “ā” yā “u” pāyān yābad, miyānji‐ye “y” miāyad.   - Hargāh sedāhā‐ye “av” dar yek hejā qarār begirand, be “ow” tabdil     mišavand: mišavand, šow.
 
-### Fe’l‐e qeyresāde
 
-|                      |                           |                  |                  |
-|--------------------|-------------------------|----------------|---------------- |
-|                      | Sāxtār                    | Nemune‐ye masdar | Nemune‐ye sarf   |
-| Pišvandi (qeydi)     | pišvand + fe’l            | bar dāštan       | bar midārad      |
-| Morakkab             | esm/sefat + fe’l          | yād gereftan     | yād migirad      |
-| Pišvandi‐ye morakkab | pišvand + esm + fe’l      | sar dar āvardan  | sar dar miāvarad |
-| Ebārat‐e fe’li       | harf‐e ezāfe + ... + fe’l | az kār oftādan   | az kār mioftad   |
 
-#### Nokte
 
-  - Fe’lhā va masdarhā‐ye sāde jodā nevešte mišavand.   - Dar fe’l‐e qeyresāde tanhā fe’l‐e sāde sarf mišavad.   - Pišvandhā (qeydhā): *bāz* gaštan, *bar* gereftan, *dar* *āvardan*,     *farā* xāndan, *foru* rixtan, *vā* dāštan, *var* oftādan
 
-### Maf’ul‐e bivāsete va bāvāsete
 
-|             |                              |                 |    |           |  |  |
-|-----------|----------------------------|--------------- | --|--------- |  |  |
-| didan (bin) | baxšidan (baxš)  goftan (gu) | porsidan (pors) |    |           |  |  |
-|             | Harf‐e ezāfe                 | Maf’ul          | rā | Fe’l      |  |  |
-| Bivāsete    |                              | Navid           | rā | mibinam.  |  |  |
-|             |                              | Navid           | rā | mibaxšam. |  |  |
-| Bāvāsete    | be                           | Navid           |    | miguyam.  |  |  |
-|             | az                           | Navid           |    | miporsam. |  |  |
-|             | ...                          | ...             |    | ...       |  |  |
-
-### Zamirhā‐ye maf’uli
-
-|                           |                   |
-|-------------------------|----------------- |
-| ma‐rā \[man rā\] mibaxšad | mibaxšad‐**am**   |
-| to rā mibaxšad            | mibaxšad‐**at**   |
-| u rā mibaxšad             | mibaxšad‐**aš**   |
-| mā rā mibaxšad            | mibaxšad‐e**mān** |
-| šomā rā mibaxšad          | mibaxšad‐e**tān** |
-| ānhā rā mibaxšad          | mibaxšad‐e**šān** |
-
-#### Nokte
-
-  - Tafāvot‐e zamirhā‐ye maf’uli bā zamirhā‐ye dārāyi tanhā dar in‐ast,     ke pas az fe’l (na esm) miāyand.   - Zamirhā‐ye maf’uli dar fe’lhā‐ye pišvandi‐yo morakkab paz az joz’‐e     qeyrefe’li niz miāyand: Dar‐aš miāvaram. Dust‐aš dāram.
-
-### Tartib‐e vāžehā
-
-|       |              |         |              |              |          |
-|-----|------------|-------|------------|------------|-------- |
-| Fāel  | Qeyd‐e zamān | Maf’ul  | Qeyd‐e hālat | Qeyd‐e makān | Fe’l     |
-| Navid | emruz        | Omid rā | tanhā        | dar dānešgāh | mibinad. |
-
-#### Nokte
-
-  - Dar jomlehā‐ye fārsi tanhā jā‐ye fe’l nesbatan sābet‐ast. Baste be     inke kodām joz’‐e jomle mohemtar be nazar miresad, mitavān tartib‐e     vāžehā rā taqyir dād.   - Dar fārsi sefathā ham mitavānand dar naqš‐e qeyd zāher šavand: In     māšin tond miravad.   - Dar fārsi esmhā ham mitavānand dar naqš‐e qeyd zāher šavand: U šab     miāyad.   - Qeyd‐e zamān, hālat yā makān gāh‐i bā yek harf‐e ezāfe va yek esm     sāxte mišavad: U dar tābestān mosāferat mikonad. Mā bā māšin     miravim. Ānhā dar dānešgāh qazā mixorand.
 
 ##### Jāhā‐ye xāli rā por kon!
 

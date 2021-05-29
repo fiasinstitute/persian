@@ -4,35 +4,7 @@ order: 26
 ---
 
 
-## Sāxtār
 
-### Vāžehā‐ye morakkab
-
-|                                       |                                      |
-|-------------------------------------|------------------------------------ |
-| Gune (nemune)                         | Nemune                               |
-|                                       |                                      |
-| Esm + setāk‐e hāl                     | ketābforuš – dāstānnevis – xandeāvar |
-|                                       |                                      |
-| Sefat + setāk‐e hāl                   | bolandgu – durbin – badandiš         |
-|                                       |                                      |
-| Esm + e + esm                         | toxmemorq – dardesar – āberu         |
-|                                       |                                      |
-| Esm + o + esm                         | ābohavā – sarosedā – sarovaz’        |
-|                                       |                                      |
-| Setāk‐e gozašte + o + setāk‐e gozašte | zadoxord – raftoāmad – bordobāxt     |
-|                                       |                                      |
-| Setāk‐e gozašte + o + setāk‐e hāl     | goftogu – jostoju – poxtopaz         |
-|                                       |                                      |
-| Esm + esm                             | ābanbār – pesarxāle – qulpeykar      |
-|                                       |                                      |
-| Adad + esm                            | cāhārpā – seguš – dolā               |
-|                                       |                                      |
-| Sefat + esm                           | tizhuš – kamhowsele – xošandām       |
-
-#### Nokte
-
-  - Barx‐i az vāžehā mesl‐e *bad* va *kam* ma’mulan joz’‐e avval‐e     tarkib hastand: badbin, kamāb.   - Barx‐i az vāžehā mesl‐e *xāne* va *nāme* ma’mulan joz’‐e dovvom‐e     tarkib hastand: golxāne, dānešnāme.   - Tarkib rā mitavān gostareš dād: pāk+kon \> pākkon; barf+pākkon \>     barfpākkon.   - Joz’‐i az tarkib mitavānad moštaq bāšad: rang+in \> rangin;     rangin+kamān \> ranginkamān.
 
 ##### Zir‐e vāžehā‐ye morakkab‐e matn xat bekeš!
 

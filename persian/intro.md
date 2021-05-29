@@ -1,18 +1,7 @@
 --- 
-title:	"Intro layout: unit"
-order: intro.md
+order: 0
+layout: unit
 ---
-
-
-
-
-
-
-![](Pictures/10000201000003DD0000038B553D6F4147967406.png)
-
-# MĀ FĀRSI BALAD‐IM!
-
-Be kušeš‐e Hamid Farroukh
 
 # Mā fārsi balad‐im!
 

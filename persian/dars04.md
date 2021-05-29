@@ -5,81 +5,14 @@ order: 4
 
 ## Sāxtār
 
-### Jam’ bā “‐hā”
 
-**MofradJam’**
 
-daftar**hā**
 
-1 daftar2 daftar3 daftar…
 
-#### Nokte
 
-  - Hame‐ye esmhā bā “‐hā” jam’ baste mišavand.   - Esm dar šomāreš mofrad mimānad: do ketāb (na do ketābhā).   - Pasvandhā tekyebar hastand: ketābh*ā*.
 
-### Jam’ bā “‐ān”
 
-|             |           |                               |
-|-----------|---------|----------------------------- |
-| Jāndār      | pedar     | pedarhā / pedar**ān**         |
-|             | dānešmand | dānešmandhā / dānešmand**ān** |
-|             | deraxt    | deraxthā / deraxt**ān**       |
-| Ozv‐e badan | cešm      | cešmhā / cešm**ān**           |
-|             | dast      | dasthā / dast**ān**           |
 
-### Āvā‐ye miyānji
-
-|             |                  |             |                |
-|-----------|----------------|-----------|-------------- |
-| Xod**ā**    | nevisand**e**    | tāz**i**    | dānešj**u**    |
-| Xodā**y**ān | nevisande**g**ān | tāzi**y**ān | dānešju**y**ān |
-
-### Sefat‐e ešāre
-
-|        |               |              |            |
-|------|-------------|------------|---------- |
-|        | Sefat‐e ešāre | Esm‐e mofrad | Esm‐e jam’ |
-| Nazdik | in            | daftar       | daftarhā   |
-| Dur    | ān            | zan          | zanān      |
-
-#### Nokte
-
-  - Sefat‐e ešāre jam’ nadārad.
-
-### Zamir‐e ešāre
-
-|                          |                           |                         |                             |              |  |
-|------------------------|-------------------------|-----------------------|---------------------------|------------ |  |
-|                          | Zamir‐e mofrad            | Zamir‐e jam’            |                             |              |  |
-| Nazdik                   | in                        | inhā                    |                             |              |  |
-| Dur                      | ān                        | ānhā                    |                             |              |  |
-|                          |                           |                         |                             |              |  |
-| Mošaxxas                 |                           | Nāmošaxxas              | Nāmošaxxas                  | Nāmošaxxas   |  |
-| doxtar                   |                           | yek doxtar              | doxtar‐i                    | yek doxtar‐i |  |
-| doxtar‐e xub             | yek doxtar‐e xub          | doxtar‐e xub‐i          | yek doxtar‐e xub‐i          |              |  |
-| doxtar‐e xub‐o zerang    | yek doxtar‐e xub‐o zerang | doxtar‐e xub‐o zerang‐i | yek doxtar‐e xub‐o zerang‐i |              |  |
-| doxtarhā‐ye xub‐o zerang |                           |                         | doxtarhā‐ye xub‐o zerang‐i  |              |  |
-
-#### Nokte
-
-  - Nešāne‐ye nāmošaxxas tekye nadārad va bā vāže‐ye pišin xānde     mišavad: ped*a*r‐i.
-
-  - Dar fārsi sefat gāh‐i naqs‐e esm rā ham bāzi mikonad: bozorg,     bozorgān, bozorg‐i.
-
-  - Pas az *ce* esm hamiše nāmošaxxas‐ast:            - oCe ketāb‐i!       - o Ce ketāb‐e jāleb‐i! o Ce ketāb‐i mixāni?
-
-### Āvā‐ye miyānji
-
-|             |            |            |               |             |
-|-----------|----------|----------|-------------|----------- |
-| sed**ā**    | xān**e**   | bāz**i**   | rādiyo        | jār**u**    |
-| sedā**‐y**i | xāne**‐**i | bāzi**‐**i | rādiyo‐**y**i | jāru**‐y**i |
-
-### Ruzhā‐ye hafte
-
-Emruz candšanbe‐ast?
-
-**šanbeyekšanbe  došanbe  sešanbecāhāršanbe  panjšanbejom’e / ādine**
 
 ##### Bā “‐hā” va/yā “‐ān” jam’ beband!
 

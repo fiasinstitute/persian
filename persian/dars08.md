@@ -5,77 +5,8 @@ order: 8
 
 
 
-## Sāxtār
 
-### Sāxtār‐e horuf‐e ezāfe
 
-|              |                       |                                   |                    |
-|------------|---------------------|---------------------------------|------------------ |
-| Harf‐e ezāfe | Esm + e               | Harf‐e ezāfe + esm + e            | Esm + harf‐e ezāfe |
-|              |                       |                                   |                    |
-| az           | kenār‐e               | be/bar ru‐ye                      | piš/qabl az        |
-|              |                       |                                   |                    |
-| bar          | sar‐e                 | be xāter‐e                        | pas/ba’d az        |
-|              |                       |                                   |                    |
-| bā           | beyn/miyān‐e          | dar bāre‐ye                       | banā bar           |
-|              |                       |                                   |                    |
-| be           | zir‐e                 | be dalil‐e                        | rāje’ be           |
-|              |                       |                                   |                    |
-| bi           | ra’s‐e                | be manzur‐e                       | qeyr az            |
-|              |                       |                                   |                    |
-| joz          | bālā‐ye               | az su‐ye – az taraf‐e – az samt‐e |                    |
-|              |                       |                                   |                    |
-| tā           | darun/dāxel‐e – tu‐ye | az zir‐e                          |                    |
-|              |                       |                                   |                    |
-|              | pošt/aqab‐e           | be jā‐ye                          |                    |
-|              |                       |                                   |                    |
-|              | jelow‐e               | dar beyn/miyān‐e                  |                    |
-|              |                       |                                   |                    |
-|              | piš‐e                 | dar kenār‐e                       |                    |
-|              |                       |                                   |                    |
-|              | ru‐ye                 | bā vojud‐e                        |                    |
-|              |                       |                                   |                    |
-|              | hodud‐e               | be su‐ye – be taraf‐e – be samt‐e |                    |
-|              |                       |                                   |                    |
-|              | pāyin‐e               | az bālā‐ye                        |                    |
-|              |                       |                                   |                    |
-|              | birun/xārej‐e         | be vasile‐ye                      |                    |
-|              |                       |                                   |                    |
-|              |                       | be dun‐e                          |                    |
-
-### Kārbord‐e horuf‐e ezāfe
-
-|  |                   |            |                   |                   |
-| 
-|-----------------|----------|-----------------|----------------- |
-|  | Zamān             | Makān      | Hālat             | Masir/harekat     |
-|  |                   |            |                   |                   |
-|  | ba’d az sāat‐e do | dar bālkon | bā māšin          | be su‐ye qolle    |
-|  |                   |            |                   |                   |
-|  | qabl az tābestān  | sar‐e miz  | bā sedā‐ye boland | az zir‐e zamin    |
-|  |                   |            |                   |                   |
-|  | dar māh‐e esfand  | dar kelās  | bā ajale          | be taraf‐e istgāh |
-|  |                   |            |                   |                   |
-
-|                    |                      |                  |                  |
-|------------------|--------------------|----------------|---------------- |
-| dar zemestān       | dar Xiyābān‐e Bahār  | bi sedā          | az samt‐e cap    |
-|                    |                      |                  |                  |
-| dar sāl‐e 1926     | beyn‐e miz‐o sandali | bā kelid         | be samt‐e rāst   |
-|                    |                      |                  |                  |
-| sar‐e sāat         | pošt‐e panjere       | bā kārt          | az bālā‐ye tappe |
-|                    |                      |                  |                  |
-| dar tul‐e hafte    | kenār‐e dar          | bā darbāzkon     | az ru‐ye miz     |
-|                    |                      |                  |                  |
-| dar arz‐e yek sāat | az ānjā              | bā docarxe       |                  |
-|                    |                      |                  |                  |
-| barā‐ye do sāat    | tā injā              | bā dust‐am       |                  |
-|                    |                      |                  |                  |
-| ra’s‐e sāāt‐e do   | be dānešgāh          | qeyr az mā       |                  |
-|                    |                      |                  |                  |
-|                    | jelow‐e forušgāh     | be vasile‐ye zur |                  |
-|                    |                      |                  |                  |
-|                    | ru‐ye divār          |                  |                  |
 
 ##### Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
 

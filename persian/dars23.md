@@ -4,49 +4,11 @@ order: 23
 ---
 
 
-## Sāxtār
 
-### Ebārathā‐ye qeyrešaxsi I
 
-|               |                   |                                         |                            |
-|-------------|-----------------|---------------------------------------|-------------------------- |
-| Zamir‐e fāeli | Joz’‐e qeyrefe’li | Zamir‐e maf’uli‐ye monāseb barā‐ye fāel | Fe’l‐e sevvomšaxs (nemune) |
-|               |                   |                                         |                            |
-| (Man)         | xande             | ‐am                                     | migirad.                   |
-|               |                   |                                         |                            |
-| (To)          | xāb               | ‐at                                     | mibord.                    |
-|               |                   |                                         |                            |
-| (U)           | yād               | ‐aš                                     | rafte‐ast.                 |
-|               |                   |                                         |                            |
-| (Mā)          | xoš               | ‐emān                                   | āmade bud.                 |
-|               |                   |                                         |                            |
-| (Šomā)        | gerye             | ‐tān                                    | gereft.                    |
-|               |                   |                                         |                            |
-| (Ānhā)        | farāmuš           | ‐ešān                                   | šod.                       |
 
-### Ebārathā‐ye qeyrešaxsi II
 
-**NemuneSetāk‐e gozašte**
 
-Mitavāngoft.
-
-Mišavaddid.
-
-Bāyadraft.
-
-### Fe’lhā‐ye sababi
-
-**MasdarMasdar‐e sababi**
-
-xordanxorāndan
-
-nešastannešāndan
-
-residanresāndan
-
-#### Nokte
-
-  - Fāel‐e jomle bā fe’l‐e sababi maf’ul rā be kār/vākoneš‐i vā midārad:     Bahrām mā rā tarsānd.   - Masdar‐e sababi bā “‐āndan” pāyān migirad va ma’mulan hamtā‐ye     masdar‐i‐st, ke be “‐idan” xatm mišavad: tarsidan, tarsāndan;     mālidan, mālāndan.
 
 ##### Jāhā‐ye xāli rā bā ebārat‐e qeyrešaxsi‐ye monāseb por kon!
 

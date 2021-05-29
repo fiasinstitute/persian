@@ -4,57 +4,13 @@ order: 19
 ---
 
 
-## Sāxtār
 
-### Horuf‐e rabt‐e sāde
 
-|      |     |       |       |     |       |      |
-|---- |
----
 
-|-----|----- |
----
 
-|-----|---- |
-| va   | yā  | tā    | zirā  | con | agar  | ammā |
-|      |     |       |       |     |       |      |
-| vali | ham | tanhā | faqat | pas | hattā | ke   |
 
-### Horuf‐e rabt‐e peydarpey
 
-yā ... yāna ... naham ... hamce ... cena tanhā ... balke ... ham
 
-### Horuf / ebārathā‐ye rabt (be dun‐e ke)
-
-|           |              |             |               |             |               |               |
-|---------|------------|-----------|-------------|-----------|-------------|------------- |
-| agarce    | alāve bar in | conānce     | bā vojud‐e in | vagarna     | az in ru      | be in dalil   |
-|           |              |             |               |             |               |               |
-| bā in hāl | az in jahat  | banā bar in | dar natije    | bā in vojud | bed‐in tartib | bed‐in vasile |
-
-### Horuf / ebārathā‐ye rabt (bā ke)
-
-|                  |                    |                   |                     |                    |
-|----------------|------------------|-----------------|-------------------|------------------ |
-| az ānjā ke       | piš/qabl az in ke  | pas/ba’d az ān ke | bi / be dun‐e in ke | bā ān ke           |
-|                  |                    |                   |                     |                    |
-| barā‐ye in ke    | be jā‐ye ān ke     | be šart‐e in ke   | vaqt/hengām‐i ke    | haminke            |
-|                  |                    |                   |                     |                    |
-| be dalil‐e ān ke | az vaqt/mowqe‐i ke | be xāter‐e in ke  | conke/zirāke        | dar surat/hāl‐i ke |
-
-#### Nokte
-
-  - Dar horuf/ebārathā‐ye bālā vāžehā‐ye *in* va *ān* ma’mulan     mitavānand jāygozin‐e yekdigar bešavand.   - Besyār‐i az horuf‐e rabt ma’mulan tanhā bā hāl‐e eltezāmi miāyand:
-
-<!-- end list -->
-
-  -   - o*be jā‐ye in ke: *Be jā‐ye in ke beravad, nešast.       - *be dun‐e inke: *Be dun‐e inke ciz‐i benevisad, raft.       - *be šart‐e in ke: *Miāyam, be šart‐e in ke naravi.       - *piš az in ke: *Piš az in ke ciz‐i beguyi, behtar‐ast, fekr         koni.
-
-  - Harf‐e rabt‐e *ke* na tanhā joz’‐i az horuf‐e morakkab‐e     gunāgun‐ast, balke be tanhāyi niz kārbordhā‐ye moxtalef dārad:
-
-<!-- end list -->
-
-  -   -   - Dāštam dars mixāndam, ke āmad.            - oSe sāl‐ast, ke dar in tim bāzi mikonam.            - o Be Tehrān ke residi, telefon kon. o Ketāb‐i rā xāst, ke man         nadāštam. o Be u goft, ke man xaste‐am.
 
 ##### Jomlehā‐ye zir rā kāmel kon!
 

@@ -4,57 +4,9 @@ order: 13
 ---
 
 
-## Sāxtār
 
-### Gozašte‐ye estemrāri
 
-|                      |                                             |                 |     |        |  |
-|--------------------|-------------------------------------------|--------------- |
----
 
-|------ |  |
-| bordan               | āmadangoftan   neveštan                     | šostan   raftan |     |        |  |
-| Zamir                | Pišvand‐e sarf                              | Setāk‐e gozašte |     | Šenāse |  |
-|                      |                                             |                 |     |        |  |
-| (man)                |                                             | bord            |     | am     |  |
-|                      |                                             |                 |     |        |  |
-| (to)                 |                                             |                 | i   |        |  |
-|                      | āmad                                        |                 |     |        |  |
-|                      |                                             |                 |     |        |  |
-| (u)                  | mi                                          | goft            |     |        |  |
-|                      | nevešt                                      |                 |     |        |  |
-| (mā)                 |                                             | im              |     |        |  |
-|                      |                                             |                 |     |        |  |
-|                      |                                             | šost            |     |        |  |
-| (šomā)               |                                             |                 | id  |        |  |
-|                      | raft                                        |                 |     |        |  |
-|                      |                                             |                 |     |        |  |
-| (ānhā)               |                                             |                 | and |        |  |
-|                      |                                             |                 |     |        |  |
-|                      |                                             |                 |     |        |  |
-| Zamān                |                                             | Nemune          |     |        |  |
-|                      |                                             |                 |     |        |  |
-| Hāl‐e sāde           | Man harruz be dānešgāh mi**rav**am.         |                 |     |        |  |
-|                      |                                             |                 |     |        |  |
-| Gozašte‐ye estemrāri | Man pārsāl harruz be dānešgāh mi**raft**am. |                 |     |        |  |
-
-#### Nokte
-
-  - Gozašte‐ye estemrāri amal‐i rā bāzgu mikonad, ke be towr‐e monazzam     dar gozašte anjām gerefte.
-
-### Hāl‐e nātamām, gozašte‐ye nātamām
-
-|                                                                          |                                       |                                  |
-|------------------------------------------------------------------------|-------------------------------------|-------------------------------- |
-| Zamān                                                                    | Sāxtār                                | Nemune                           |
-|                                                                          |                                       |                                  |
-| Hāl‐e nātamām                                                            | Hāl‐e sāde‐ye dāštan + hāl‐e sāde     | Man al’ān **dār**am mi**rav**am. |
-|                                                                          |                                       |                                  |
-| **Gozašte‐ye nātamām  **Gozašte‐ye sāde‐ye dāštan + gozašte‐ye estemrāri | Man ānmowqe’ **dāšt**am mi**raft**am. |                                  |
-
-#### Nokte
-
-  - Hāl‐e nātamām amal‐i rā bāzgu mikonad, ke aknun dar hāl‐e anjām     šodan‐ast.   - Gozašte‐ye nātamām amal‐i rā bāzgu mikonad, ke dar yek maqta‐e     gozašte dar hāl‐e anjām šodan bude.   - Dar hāl‐e nātamām setāk‐e hāl‐e *dāštan* (dār) hamgām bā fe’l‐e asli     sarf mišavad: dārad miravad.   - Dar gozašte‐ye nātamām setāk‐e gozašte‐ye *dāštan* (dāšt) hamgām bā     fe’l‐e asli sarf mišavad: dāšt miraft.
 
 ##### Bā tavajjoh be qeyd‐e zamān jāhā‐ye xāli rā bā fe’l‐e monāseb por kon!
 

@@ -4,38 +4,8 @@ order: 15
 ---
 
 
-## Sāxtār
 
-### Gozašte‐ye eltezāmi
 
-|            |              |              |                         |
-|----------|------------|------------|----------------------- |
-| Nemune     | Esm‐e maf’ul |              | Hāl‐e eltezāmi‐ye budan |
-|            |              |              |                         |
-|            | borde        |              | bāšam.                  |
-|            |              |              |                         |
-| Šāyad      |              | bāši.        |                         |
-| āmade      |              |              |                         |
-|            |              |              |                         |
-| Bāyad      | gofte        | **+ **bāšad. |                         |
-| Momken‐ast | nevešte      |              |                         |
-|            | bāšim.       |              |                         |
-| Omidvār‐am | šoste        |              |                         |
-|            | bāšid.       |              |                         |
-|            | rafte        |              |                         |
-|            |              |              |                         |
-|            |              | bāšand.      |                         |
-|            |              |              |                         |
-
-### Moqāyese bā hāl‐e eltezāmi
-
-|                |                        |
-|--------------|---------------------- |
-| Zamān          | Nemune                 |
-|                |                        |
-| Hāl‐e eltezāmi | Mitavānam **begu**yam. |
-
-**Gozašte‐ye eltezāmi**Mitavānam **gofte bāš**am.
 
 ##### Jāhā‐ye xāli rā bā gozašte‐ye eltezāmi por kon!
 

@@ -3,41 +3,9 @@ layout: unit
 order: 16 
 ---
 
-## Sāxtār
 
-### Zamirhā‐ye ta’kidi/en’ekāsi
 
-**XodŠenāseZamir**
 
-xod“‐am”xodam
-
-xod“‐at”xodat
-
-xod**+**“‐aš”**=**xodaš
-
-xod“‐emān”xodemān
-
-xod“‐etān”xodetān
-
-xod“‐ešān”xodešān
-
-#### Nokte
-
-  - Šenāsehā mānand‐e zamirhā‐ye dārāyi/maf’uli hastand.   - Zamir‐e en’ekāsi naqš‐e maf’ul rā dārad va be fāel‐e jomle ešāre     mikonad: Navid saranjām xodaš rā āzād kard.   - Zamir‐e ta’kidi bištar belāfāsele pas az fāel miāyad: Man xodam     goftam.   - Az fāel mitavān sarfenazar kard: Xodaš rā āzād kard. Xodam goftam.   - Zamir‐e ta’kidi/en’ekāsi be dun‐e šenāse ham be kār miravad: Xod rā     āzād kard. Xod goftam.   - Gāh‐i *xod* be onvān‐e zamir‐e en’ekāsi‐ye tanhā bā *xiš* jāygozin     mišavad: Xiš rā āzād kard.
-
-### Zamirhā‐ye moteqābel
-
-|          |                                                                        |
-|--------|---------------------------------------------------------------------- |
-| Zamir    | Nemune                                                                 |
-|          |                                                                        |
-| yekdigar | Ānhā yekdigar rā mišenāsand. Mahnāz‐o Parviz bā yekdigar āšnā hastand. |
-|          |                                                                        |
-| hamdigar | Ānhā hamdigar rā mišenāsand. Mahnāz‐o Parviz bā hamdigar āšnā hastand. |
-
-#### Nokte
-
-  - Porkārbordtarin zamirhā‐ye moteqābel dar fārsi *yekdigar* va     *hamdigar* hastand.   - Gāh‐i *ham* be jā‐ye *hamdigar* miāyad: Ānhā az ham mitarsand.
 
 ##### Jāhā‐ye xāli rā bā zamir‐e monāseb por kon!
 

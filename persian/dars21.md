@@ -4,48 +4,7 @@ order: 21
 ---
 
 
-## Sāxtār
 
-### Ebārathā‐ye qeydi
-
-|                                                     |                                                    |                                                      |
-|---------------------------------------------------|--------------------------------------------------|---------------------------------------------------- |
-| Kārbord                                             | Horuf/ebārathā‐ye rabt                             | Nemune                                               |
-|                                                     |                                                    |                                                      |
-| gunāgun                                             | ke                                                 | Farid ke āmad, hame sāket šodand.                    |
-|                                                     |                                                    |                                                      |
-|                                                     | vaqt/hengām/zamān/mowqe‐i ke                       | Vaqt‐i ke u rā didam, zowqzade šodam.                |
-|                                                     |                                                    |                                                      |
-|                                                     | pas/ba’d az in ke                                  | Pas az in ke u sohbat kard, hame rāzi šodand.        |
-|                                                     |                                                    |                                                      |
-|                                                     | piš/qabl az ān ke                                  | Piš az ān ke soxan beguyi, kam‐i fekr kon!          |
-|                                                     |                                                    |                                                      |
-| zamān                                               | harvaqt – hargāh                                   | Harvaqt u miāyad, xošhāl mišavam.                    |
-|                                                     |                                                    |                                                      |
-|                                                     | con                                                | Con be mā resid, sāket šod.                          |
-|                                                     |                                                    |                                                      |
-|                                                     | tā                                                 | Tā mā rā did, digar harf nazad.                      |
-|                                                     |                                                    |                                                      |
-|                                                     | az vaqt/hengām/zamān/mowqe‐i ke                    | Az vaqt‐i ke in qors rā xordam, kamar‐am behtar šod. |
-|                                                     |                                                    |                                                      |
-| dalil                                               | con – conke – zirā – zirāke – barā‐ye in ke        | Be xāne raftam, con xaste budam.                     |
-|                                                     |                                                    |                                                      |
-| az ānjā(‐yi) ke – az in jahat ke – be ellat‐e in ke | Az ānjā ke u rā nemišenāsam, be u e’temād nadāram. |                                                      |
-|                                                     |                                                    |                                                      |
-|                                                     |                                                    |                                                      |
-| qiyās                                               | hamān towr‐i ke – be towr‐i ke – conānke           | Xašmgin šod, hamān towr‐i ke pedar‐aš šode bud.      |
-|                                                     |                                                    |                                                      |
-| peydarpey                                           | conān ... ke – be towr‐i ... ke                    | Conān faryād zad, ke hesābi tarsidam.                |
-|                                                     |                                                    |                                                      |
-| tanāqoz                                             | dar surat/hāl‐i ke                                 | Mā hame gušt mixorim, dar surat‐i ke u giyāhxār‐ast. |
-|                                                     |                                                    |                                                      |
-| hadaf                                               | tā                                                 | Barā‐yat ta’rif mikonam, tā ebrat begiri.            |
-|                                                     |                                                    |                                                      |
-| dalil‐e nākāfi                                      | agarce – bā in ke – harcand – bā vojud‐i ke        | Agarce xaste bud, vali tā sobh kenār‐aš bidār mānd.  |
-
-#### Nokte
-
-  - Besyār‐i az ebārathā‐ye qeydi vāže‐ye *ke* rā dar bar migirand.     Ma’mulan vāže‐ye piš az *ke* kārbord rā mošaxxas mikonad. Agar     *ke* tanhā bāšad, kārbord tanhā az ma’ni‐ye jomle mošaxxas mišavad.   - Dar ebārathā‐ye qeydi gāh‐i az *ke* cešmpuši mišavad: Vaqt‐i (ke)     Mahnāz āmad, hame sāket šodand.
 
 ##### Bā estefāde az vāžehā/ebārathā‐ye zir jomlehā‐ye zir rā be ham vasl kon!
 

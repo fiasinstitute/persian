@@ -4,25 +4,7 @@ order: 22
 ---
 
 
-## Sāxtār
 
-### Ebārathā‐ye šarti
-
-|              |              |                      |                                    |
-|------------|------------|--------------------|---------------------------------- |
-| Emkān‐e šart | Zamān‐e šart | Fe’l‐e ebārat        | Nemune                             |
-|              |              |                      |                                    |
-| Momken       | hāl / āyande | hāl‐e eltezāmi       | Agar beravad, man ham miravam.     |
-|              |              |                      |                                    |
-| Momken       | gozašte      | gozašte‐ye eltezāmi  | Agar rafte bāšad, man ham miravam. |
-|              |              |                      |                                    |
-| Qeyremomken  | gozašte      | gozašte‐ye estemrāri | Agar miraft, man ham miraftam.     |
-|              |              |                      |                                    |
-| Qeyremomken  | gozašte      | gozašte‐ye dur       | Agar rafte bud, man ham miraftam.  |
-
-#### Nokte
-
-  - Ebārathā‐ye šarti bā *agar* āqāz mišavand.
 
 ##### Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon!
 

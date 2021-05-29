@@ -4,91 +4,13 @@ order: 7
 ---
 
 
-## Sāxtār
 
-### Sefat‐e nāmošaxxas
 
-|                 |               |            |
-|---------------|-------------|---------- |
-| Piš az esm      | Esm           | Pas az esm |
-|                 |               |            |
-|                 | dānešjuyān‐e  | bištar‐i   |
-|                 |               |            |
-|                 | dānešjuyān‐e  | kamtar‐i   |
-|                 |               |            |
-| cand            | dānešju       |            |
-|                 |               |            |
-| candin          | dānešju       |            |
-|                 |               |            |
-| bištar/aqlab‐e  | dānešjuyān    |            |
-|                 |               |            |
-| hame‐ye/tamām‐e | dānešjuyān    |            |
-|                 |               |            |
-| ba’z‐i/barx‐i   | dānešjuyān    |            |
-|                 |               |            |
-| har             | dānešju (‐yi) |            |
-|                 |               |            |
-| hic             | dānešju‐yi    |            |
 
-#### Nokte
 
-  - Sefat‐e nāmošaxxas‐e šomāreši bā esm‐e mofrad miāyad: cand/candin     ketāb.   - Barx‐i az sefathā‐ye nāmošaxxas bā harf‐e ezāfe‐ye *az* ham miāyand:     ba’z‐i mardom / ba’z‐i az mardom.   - *Hic *bā* *esm‐e nāmošaxxas va fe’l‐e manfi miāyad: hic dānešju‐yi     nayāmad.
 
-### Zamir‐e nāmošaxxas
 
-|                                                 |                                 |
-|-----------------------------------------------|------------------------------- |
-| **Harkas**/**hamekas **miguyad.                 | **Hickodām **xub nist.          |
-|                                                 |                                 |
-| **Harciz**/**harkodām**/**hameciz **momken‐ast. | **Besyār**‐i midānand.          |
-|                                                 |                                 |
-| **Hickas **nayāmad.                             | **Barx‐i**/**ba’z‐i **midānand. |
 
-#### Nokte
-
-  - Zamirhā‐ye nāmošaxxas bištar tarkibhā‐yi az vāžehā‐ye *har*, *hic*     yā *hame* hastand: harjā, hicjā, hamejā.
-
-### Moqāyese: sefat‐o zamir‐e nāmošaxxas
-
-|               |        |
-|-------------|------ |
-| Sefat + esm   | Zamir  |
-|               |        |
-| hame‐ye jāhā  | hamejā |
-|               |        |
-| har jā‐yi     | harjā  |
-|               |        |
-| hic kas‐i     | hickas |
-|               |        |
-| har kas‐i     | harkas |
-|               |        |
-| ba’z‐i mardom | ba’z‐i |
-
-### Bayān‐e zamān
-
-|                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
-|------------------------|--------------|----------------|------------------------|-----------------------------------------------------|---------------------|---------------------|---------------------|---------------------|----- |
-| Soāl                     |                |                  |                          | Javāb                                                 |                       | Sāat be raqam         | Bāmdād/ba’dazzohr     |                       |       |
-|                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
-| Sāat cand‐ast?           |                | (Sāat) haft‐ast. |                          | 07:00 / 19:00                                         |                       | 07:00 bd. / 07:00 bz. |                       |                       |       |
-|                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
-|                          |                |                  |                          | (Sāat) nuzdah‐ast.                                    |                       | 19:00                 |                       | 07:00 bz.             |       |
-|                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
-|                          |                |                  |                          | (Sāat) haft‐o rob’‐ast.                               |                       | 07:15 / 19:15         |                       | 07:15 bd. / 07:15 bz. |       |
-|                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
-|                          |                |                  |                          | (Sāat) haft‐o pānzdah daqiqe‐ast.                     | 07:15 / 19:15         |                       | 07:15 bd. / 07:15 bz. |                       |       |
-|                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
-|                          |                |                  |                          | (Sāat) haft‐o nim‐ast.                                |                       | 07:30 / 19:30         |                       | 07:30 bd. / 07:30 bz. |       |
-|                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
-|                          |                |                  |                          | (Sāat) haft‐o si daqiqe‐ast.                          | 07:30 / 19:30         |                       | 07:30 bd. / 07:30 bz. |                       |       |
-|                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
-|                          |                |                  |                          | (Sāat) yek rob’ be hašt‐ast.                          | 07:45 / 19:45         |                       | 07:45 bd. / 07:45 bz. |                       |       |
-|                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
-|                          |                |                  |                          | (Sāat) haft‐o cehel‐o panj daqiqe‐ast.  07:45 / 19:45 |                       | 07:45 bd. / 07:45 bz. |                       |                       |       |
-|                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
-| Sāat‐e cand / ce sāat‐i? | (Sāat‐e) haft. |                  | 07:00 / 19:00            |                                                       | 07:00 bd. / 07:00 bz. |                       |                       |                       |       |
-|                          |                |                  |                          |                                                       |                       |                       |                       |                       |       |
-| har                      | hic            | hame             | barx‐i  ba’z‐i  hickodām | aqlab                                                 | hickas                | hicjā                 | hamejā                | harkas                | harjā |
 
 1.  Be \_\_ kas‐i ke mixāhi, begu! 2.  \_\_ yek jur fekr mikonad. 3.  \_\_ hamin‐ast. 4.  Az \_\_‐ye kārmandān motešakker‐am. 5.  Dar donyā \_\_ jā‐ye behtar‐i peydā nemikoni. 6.  \_\_ ke miravam, u rā mibinam. 7.  \_\_ az mardom tanbal‐and. 8.  Bā \_\_ az ānhā āšnā hastam. 9.  \_\_‐e mardom kār kardan rā dust dārand. 10. \_\_ rā dust nadāram. 11. Be \_\_ e’temād nakon! 12. Bā to \_\_ nemiāyam.
 

@@ -30,3 +30,5 @@ Posts will always have a section above the content itself consisting of YAML fro
 Pages are any HTML documents _or_ Markdown documents with YAML front matter that are then converted to content. Page material is more suited to static, non-recurring types of content. Like this
 
 I am not going to re-write the Jekyll documentation. Read it and you will figure out how the site is structured.
+
+[To the Persian Latin Handbook](/persian)

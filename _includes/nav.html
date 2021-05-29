@@ -8,5 +8,6 @@
 {% if nextunit %}{% assign nexturl = nextunit.order | prepend: '00' | slice: -2, 2 | prepend : "dars" %}{% assign nextname = site.data.lexicons[nextunit.category] | append: " "| append: nextunit.id %}{% endif %}
 <div class="PageNavigation"><p style="display:flow-root;">
         {% if prevurl %}<a class="prev" href="{{prevurl}}" style="float:left;background:lightgrey;padding:0.45rem;">&laquo; {{ prevname  | truncate: 20 }}</a>{% endif %}
+<span style="float:left;padding:0.45rem;"> </span><a class="prev" href="{{site.navroot}}" title="Frontmatter" style="float:left;background:lightgrey;padding:0.45rem;">↑</a>
         {% if nexturl %}<a class="next" href="{{nexturl}}" style="float:right;background:lightgrey;padding:0.45rem;">{{ nextname  | truncate: 20 }} &raquo;</a>{% endif %}
 </p></div>

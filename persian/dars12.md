@@ -4,81 +4,10 @@ order: 12
 ---
 
 
-## Sāxtār
 
-### Setāk‐e gozašte
 
-|          |        |      |                 |  |
-|--------|------|----|--------------- |  |
-| Masdar   |        |      | Setāk‐e gozašte |  |
-|          |        |      |                 |  |
-| xordan   |        |      | xord            |  |
-|          | ‐      | “an” | \=              |  |
-|          | nevešt |      |                 |  |
-| neveštan |        |      |                 |  |
 
-#### Nokte
 
-  - Setāk‐e gozašte hamiše bā “d” yā “t” pāyān migirad.
-
-### Gozašte‐ye sāde
-
-|                          |                              |    |  |
-|------------------------|---------------------------- | -- |  |
-| bāxtan  šekastan  poxtan | pāšidan ferestādan  porsidan |    |  |
-| Zamir  Setāk‐e gozašte   | Šenāse                       |    |  |
-|                          |                              |    |  |
-| (man)                    | bāxt                         | am |  |
-|                          |                              |    |  |
-| (to)                     | i                            |    |  |
-| šekast                   |                              |    |  |
-|                          |                              |    |  |
-
-21) poxt
-
-|        |          |    |
-|------|-------- | -- |
-| (mā)   | pāšid    | im |
-|        | ferestād |    |
-| (šomā) | id       |    |
-| porsid |          |    |
-|        |          |    |
-| (ānhā) | and      |    |
-|        |          |    |
-
-#### Nokte
-
-  - Sevvomšaxs‐e mofrad šenāse nemigirad: Mahnāz raft (na Mahnāz     raftad).
-
-### Āyande
-
-|       |                              |                 |      |
-|-----|----------------------------|---------------|---- |
-| Zamir | Setāk‐e hāl‐e xāstan  Šenāse | Setāk‐e gozašte |      |
-|       |                              |                 |      |
-| (man) | xāh                          | am              | bāxt |
-| (to)  | i                            | šekast          |      |
-|       |                              |                 |      |
-|       |                              |                 |      |
-
-|        |          |     |       |
-|------|-------- |
----
-
-|----- |
-| (u)    |          | ad  | poxt  |
-|        |          |     | pāšid |
-| (mā)   |          | im  |       |
-|        | ferestād |     |       |
-|        |          |     |       |
-| (šomā) |          | id  |       |
-|        | porsid   |     |       |
-|        |          |     |       |
-| (ānhā) |          | and |       |
-
-#### Nokte
-
-  - Hāl‐e sāde dar mohāvere barā‐ye āyande ham be kār miravad: Fardā az     u miporsam.   - Dar fe’lhā‐ye morakkab va pišvandi setāk‐e hāl‐e xāstan be miyān     miāyad: yād gereftan, yād xāham gereft; bar dāštan, bar xāham dāšt.
 
 ##### Yek jomle barā‐ye zamān‐e gozašte va yek jomle barā‐ye zamān‐e āyande besāz!
 

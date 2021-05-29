@@ -20,7 +20,12 @@ layout: default
 
 {% if unit.texttask2 %}<h5>{{unit.texttask2}}</h5><p>______________________________________ ______________________________________</p>{% endif %}
 
-<h2><span style="color:gray;">Sāxtār</span> &emsp; {{unit.title}}</h2>
+<h2><span style="color:gray;">Sāxtār</span></h2>
+
+{% assign grammartopics = unit.grammartopics | split: "," %}{% for grammartopic in grammartopics %}
+<h3><span style="color:gray;">Sāxtār {{ grammartopic }}</span> &emsp; {{site.data.grammartopicsnames[grammartopic]}}</h3>
+{{site.data.grammartopics[grammartopic] | markdownify}}{% endfor %}
+
 
 <h2><span style="color:gray;">Irān‐o irāni</span> &emsp; {{unit.linggeoname}}</h2>
 
