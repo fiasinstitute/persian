@@ -5,63 +5,6 @@ order: 26
 
 
 
-
-##### Zir‐e vāžehā‐ye morakkab‐e matn xat bekeš!
-
-Hafte‐ye āyande arusi‐ye Faribā, dust‐e samimi‐ye Sārā‐st. Sārā be hamrāh‐e mādar‐aš, Mahnāz, bā metro be bāzār rafte‐ast, tā barā‐yaš kādo‐ye ezdevāj bexarad. Ānhā tasmim dārand, yek dastband‐e talā bexarand. Be hamin dalil be qesmat‐e talāforušān miravand. Dar ānjā az candin maqāze bā vitrinhā‐ye porzarqobarq didan mikonand. Sārā kamhowsele‐ast, vali Mahnāz be in zudi xaste nemišavad. Saranjām ānhā dastband‐e mowredenazar‐ešān rā peydā mikonand va tāze cānezani šoru’ mišavad. Pas az bist daqiqe Mahnāz‐o forušande be tavāfoq miresand. Sārā xošhāl‐ast, ke u va mādar‐aš bā dast‐e por be xāne bar migardand.
-
-|                                       |                                        |   |   |  |
-|-------------------------------------|-------------------------------------- | - | - |  |
-|          |                                        |   |   |  |
-|                                       |                                        |   |   |  |
-| Gune (nemune)                         | Nemune                                 |   |   |  |
-|                                       |                                        |   |   |  |
-| Esm + setāk‐e hāl                     | ketābforuš – dāstānnevis – xandeāvar – | – |   |  |
-|                                       |                                        |   |   |  |
-| Sefat + setāk‐e hāl                   | bolandgu – durbin – badandiš –         |   | – |  |
-|                                       |                                        |   |   |  |
-| Esm + e + esm                         | toxmemorq – dardesar – āberu –         |   | – |  |
-|                                       |                                        |   |   |  |
-| Esm + o + esm                         | ābohavā – sarosedā – sarovaz’ –        |   | – |  |
-|                                       |                                        |   |   |  |
-| Setāk‐e gozašte + o + setāk‐e gozašte | zadoxord – raftoāmad – bordobāxt –     |   | – |  |
-|                                       |                                        |   |   |  |
-| Setāk‐e gozašte + o + setāk‐e hāl     | goftogu – jostoju – poxtopaz –         |   | – |  |
-|                                       |                                        |   |   |  |
-| Esm + esm                             | ābanbār – pesarxāle – qulpeykar –      |   | – |  |
-|                                       |                                        |   |   |  |
-| Adad + esm                            | cāhārpā – seguš – dolā –               | – |   |  |
-|                                       |                                        |   |   |  |
-| Sefat + esm                           | tizhuš – kamhowsele – xošandām –       |   | – |  |
-
-## Irān‐o irāni – Sinamā‐ye Irān
-
-|  |
-|  |
-|  |
-|  |
-
-![   Tasvir·e 24: Kiarostami | Panahi](Pictures/100000000000015D0000038F683C22DCE64AA844.jpg)![   Tasvir·e 23: Farhadi](Pictures/10000000000000FE000001684A417AB767AE8E27.jpg)Sinamā‐ye Irān san’at‐i šokufā bā sābeqe‐i nesbatan tulāni‐st. Tārix‐e sinamā‐ye Irān bā āmadan‐e durbin‐e filmbardāri be Irān dar sāl‐e 1279 h.š. āqāz mišavad. Dar dahehā‐ye gozašte sinamā‐ye Irān pišraft‐e šegeftangiz‐i dāšte‐ast va emruze az sinamāhā‐ye matrah‐e jahān be šomār miravad. Daryāft‐e sadhā javāyez‐e beynolmelali, hattā Oskār, az taraf‐e sinamāgarān‐e irāni nešāne az ahammiyat‐e sinamā‐ye Irān dārad. Filmhā‐ye irāni bā hozur‐e mostamar va movaffaqiyatāmiz dar jašnvārehā‐ye mo’tabar‐i hamcon Kān, Veniz va Berlin peyvaste tavajjoh‐e montaqedin‐e bozorg‐e sinamā‐ye jahān rā be xod jalb mikonand. Sinamāgarān‐e irāni emruze dar hey’at‐e dāvarān‐e in jašnvārehā niz hozur dārand.
-
-Sinamā‐ye Irān rošd‐i cešmgir va fāreqottahsilān‐e poršomār‐i dārad. Sālāne biš az 20 kārgardān noxostin film‐e xod rā arze mikonand. Hozur‐e sinamāgarān‐e zan niz dar Irān qābeletavajjoh‐ast. Az miyān‐e ānhā mitavān dar kenār‐e Rakhshan Bani‐Etemad az Samira Makhmalbaf yād kard.
-
-##### Pāsox bedeh!
-
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-1.  1.  1.  1.  1.  ![                       Tasvir·e 25:                     Bani‐Etemad](Pictures/100000000000010C00000200E4ECE4F3CD6BFF00.jpg)Az                     miyān‐e bozorgtarin kārgardānān‐e irāni mitavān az                     ke nām bord?
-
-2.  Kodām filmhā‐ye irāni rā mišenāsi?
-
-3.  Sālāne dar Irān cand kārgardān noxostin film‐e xod rā arze mikonand?
-
-4.  Āyā filmsāzān‐e zan dar sinamā‐ye Irān hozur‐i kamrang dārand?
-
 ## Goftogu – Barā ce sāns‐i?
 
 Rowšanak:Lotfan do tā bilit barā film‐e Dar Bāre‐ye Eli.

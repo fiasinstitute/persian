@@ -6,56 +6,6 @@ order: 7
 
 
 
-
-
-
-
-
-
-1.  Be \_\_ kas‐i ke mixāhi, begu! 2.  \_\_ yek jur fekr mikonad. 3.  \_\_ hamin‐ast. 4.  Az \_\_‐ye kārmandān motešakker‐am. 5.  Dar donyā \_\_ jā‐ye behtar‐i peydā nemikoni. 6.  \_\_ ke miravam, u rā mibinam. 7.  \_\_ az mardom tanbal‐and. 8.  Bā \_\_ az ānhā āšnā hastam. 9.  \_\_‐e mardom kār kardan rā dust dārand. 10. \_\_ rā dust nadāram. 11. Be \_\_ e’temād nakon! 12. Bā to \_\_ nemiāyam.
-
-##### Sāat cand‐ast?
-
-**Be raqamBe horuf**
-
-09:00Sāat noh‐ast.
-
-09:15
-
-09:30
-
-09:35
-
-09:45
-
-09:50
-
-##### Barā‐ye harkodām az javābhā‐ye zir yek soāl benevis!
-
-|                                              |                |
-|--------------------------------------------|-------------- |
-| Javāb                                        | Soāl           |
-|                                              |                |
-| Sāat haft‐o nim‐ast.                         | Sāat cand‐ast? |
-|                                              |                |
-| Mā sāat‐e panj bā ānhā qarār dārim.          |                |
-|                                              |                |
-| Film emšab sāat‐e hašt‐o rob’ šoru’ mišavad. |                |
-|                                              |                |
-| Bist daqiqe be noh miāyand.                  |                |
-|                                              |                |
-| Sāat cāhār‐o cehel‐o panj daqiqe‐ast.        |                |
-|                                              |                |
-| Mā se sāat vaqt dārim.                       |                |
-
-## Irān‐o irāni – Mardom‐e Irān
-
-![   Tasvir·e 3: Naqše‐ye kuc‐e mardonām‐e hendoorupāyi, azjomle mohājerat‐e Āryāyiyān be Irān dar hezāre‐ye dovvom‐e piš az milād](Pictures/10000000000001C200000113BA9B703FBEBE42CA.jpg)Irān be ma’ni‐ye Sarzamin‐e Āryāyiyān‐ast. Mardom‐e Irān az nežād‐e āryāyi hastand. Āryāyiyān tirehā‐ye moxtalef‐i dārand. Ma’ruftarin‐e ānhā Pārs‐ast. Bozorgtarin daste az mardom‐e Irān pārsi hastand. Az su‐ ye digar, az gozaštehā‐ye dur tā emruz dar Irān aqvām‐e gunāgun‐i zendegi mikonand. Emruze dar Irān aqvām‐e Pārs, Kord, Lor, Tork, Torkaman, Baluc, Arab, armani, gorji va āšuri dar kenār‐e yekdigar dar solh‐o ārāmeš zendegi mikonand. Aksariyat‐e mardom‐e Irān mosalmān‐and. Aqalliyathā‐ye mazhabi dar Irān aqlab zartošti, masihi va yahudi hastand. Haryek az aqvām‐e irāni zabān, farhang va ādāb‐o rosum‐e jāleb‐i dārad. Zabān‐e rasmi‐ye Irān fārsi‐st. Fārsi hamān pārsi‐st.
-
-##### Dorost yā qalat?
-
-1.  Irān ya’ni Sarzamin‐e Āryāyiyān. 2.  Irān cand zabān‐e rasmi dārad. 3.  Dar Irān aqvām‐e moxtalef‐i zendegi nemikonand. 4.  Bozorgtarin aqalliyathā‐ye mazhabi dar Irān masihiyān, zartoštiyān     va yahudiyān hastand. 5.  Aqvām‐e irāni bā yekdigar dar āšti‐o ārāmeš zendegi mikonand.
-
 ## Goftogu – Sāat cand‐e?
 
 Farah:Farhād, emruz candšanba‐st?

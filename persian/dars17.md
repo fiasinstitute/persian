@@ -7,50 +7,6 @@ order: 17
 
 
 
-
-
-
-
-##### Haryek az esmhā‐ye sotun‐e B jam’‐e kodām esm az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
-
-|             |           |        |
-|-----------|---------|------ |
-| A           | B         | Šomāre |
-|             |           |        |
-| 1‐ mowze’   | sāreqin   | 7      |
-|             |           |        |
-| 2‐ šekl     | molāhezāt |        |
-|             |           |        |
-| 3‐ moxālef  | anāsor    |        |
-|             |           |        |
-| 4‐ mantaqe  | foqahā    |        |
-|             |           |        |
-| 5‐ onsor    | manābe’   |        |
-|             |           |        |
-| 6‐ faqih    | aškāl     |        |
-|             |           |        |
-| 7‐ sāreq    | madāres   |        |
-|             |           |        |
-| 8‐ molāheze | moxālefin |        |
-|             |           |        |
-| 9‐ madrese  | manāteq   |        |
-|             |           |        |
-| 10‐ manba’  | mavāze’   |        |
-
-## Irān‐o irāni – Bāqhā‐ye irāni
-
-![   Tasvir·e 13: Bāq‐e Šāzde, Māhān](Pictures/10000000000003200000021538C647675DA083FB.jpg)Šive‐ye bāqsāzi dar Irān az gozašte šohrat‐e jahāni dāšte‐ast va pišine‐ye ān be bāq‐e Majmue‐ye Pāsārgād, pāytaxt‐e Kuroš‐e Bozorg, dar sade‐ye 6<sup>om</sup>‐e piš az milād miresad. Bāqhā‐ye irāni dar qadim pardis nām dāštand. Vāžehā‐ye *paradise*,* Paradis*, ... dar zabānhā‐ye orupāyi* *bargerefte az hamin vāže hastand.
-
-Bāqsāzi‐ye irāni tarrāhi‐ye bāq rā az Hend tā Espāniyā va az tariq‐e ān tā digar kešvarhā‐ye orupāyi taht‐e ta’sir‐e xod qarār dād. Nemunehā‐ ye ta’sir‐e sabk‐e irāni rā mitavānim dar Tājmahal dar Hend va Alhambrā dar Espāniyā bebinim.
-
-Bāqhā‐ye irāni namād‐i az sabk‐e zendegi va zowq‐o honar‐e irāni hastand. Dar še’r, adab, musiqi va hattā tarh‐e faršhā‐ye irāni ešārehā‐ye farāvān‐i be bāq‐e irāni mibinim. Tarrāhi‐ye hušmandāne‐ye bāq hamrāh bā sāxtemānhā‐ye darun‐e ān, Kārbord‐e fanāvarihā‐ye gunāgun az qabil‐e sāmānehā‐ye ābresāni‐yo ābyāri va niz tavānāyi‐ye pāsoxguyi be šarāyet‐e saxt‐e ābohavāyi az vižegihā‐ye bāqhā‐ye irāni hastand.
-
-Tā konun candin nemune az bāqhā‐ye irāni, ce dar Irān va ce xārej az Irān, az su‐ye UNESCO dar Fehrest‐e Mirās‐e Farhangi‐ye Jahān jāy gerefte‐and. Az zibātarin bāqhā dar Irān mitavānim az Bāq‐e Eram dar Širāz va Bāq‐e Šāzde dar Māhān nām bebarim.
-
-##### Pāsox bedeh!
-
-1.  Tārixce‐ye bāqhā‐ye irāni az key va kojā āqāz mišavad? 2.  Sabk‐e bāqsāzi‐ye irāni ce manāteq‐i az jahān rā taht‐e ta’sir‐e xod     qarār dāde‐ast? 3.  Barā‐ye in ta’sir ce nemunehā‐yi rā mišenāsi? 4.  Cerā bāq‐e irāni namād‐i az sabk‐e zendegi‐ye irāni‐st? 5.  Šive‐ye bāqsāzi‐ye irāni ce vižegihā‐yi dārad? 6.  Kodām bāqhā‐ye irāni rā mišenāsi?
-
 ## Goftogu – Cand šab eqāmat mikonin?
 
 Mas’ul‐e pazireš: Salām! Xeyl‐i xoš āmadin! Befarmāyin!

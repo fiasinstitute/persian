@@ -6,54 +6,6 @@ order: 24
 
 
 
-##### Jomlehā ye‐e zir rā az ma’lum be majhul tabdil kon!
-
-1)Jāsusān‐e ānhā te’dād‐e ziyād‐i az dānešmandān rā robudand.
-
-Te’dād‐e ziyād‐i az dānešmandān tavassot‐e jāsusān‐e ānhā robude šodand.
-
-2)  Sarbāzān‐e došman candin qeyrenezāmi rā koštand.
-
-\_\_
-
-2)  Ostād‐e Sārā tā konun hic dānešju‐yi rā rad nakarde‐ast.
-
-\_\_
-
-2)  Kārgarān u rā be onvān‐e namāyande‐šān entexāb kardand.
-
-\_\_
-
-2)  Rāzi alkol rā kašf kard.
-
-\_\_
-
-6)  Ruznāmenegārān tā konun candin matlab dar bāre‐ye in mowzu’     nevešte‐and.
-
-\_\_
-
-6)  Ānhā hanuz ciz‐i dar bāre‐ye sud yā zarar‐e in moāmele nagofte‐and.
-
-\_\_
-
-6)  In xodrowhā rā šerkat‐e Iran Khodro misāzad.
-
-\_\_
-
-## Irān‐o irāni – Varzeš dar Irān
-
-![   Tasvir·e 18: Varzešgāh‐e Āzādi, Tehrān | Cowgān, az Behzād](Pictures/10000000000006040000016F21FA1B75A6CFC027.jpg)Dosevvom‐e mardom‐e Irān zir‐e 30 sāl hastand. Az in ru varzeš dar Irān mahbub‐ast. Dar Irān‐e bāstān javānān dar varzešhā‐ye zamān‐e xod, az qabil‐e asbsavāri, tirandāzi va košti āmuzeš mididand. Irān zādgāh‐e cowgān‐ast. Varzeš‐ o axlāq dar Irān bā yekdigar rābete‐ye mostaqim dāštand va be in amr hanuz tavajjoh mišavad. Yek‐i az varzešhā‐ye kāmelan irāni varzeš‐e bāstāni‐st, ke be onvān‐e yek mirās‐ e ma’navi‐ye jahāni dar fehrest‐e UNESCO be sabt reside‐ ast. Be qahremānān‐e in varzeš‐e razmi pahlevān miguyand. Pahlevān qahremān‐i javānmard‐ast.
-
-![   Tasvir·e 19: Az cap be rāst: Takhti, Rezazadeh, Dayi va Seddigh](Pictures/1000000000000314000000F2B7DA788687DCE180.jpg)Košti‐ye āzād niz varzeš‐i melli be šomār miravad. Bā in hāl mahbubtarin varzeš dar nazd‐e irāniyān futbāl‐ast. Tim‐e Melli‐ye Irān tā konun cāhār bār be bāzihā‐ye Jām‐e Jahāni‐ ye Futbāl rāh yāfte‐ast. Irān se bār‐e peydarpey qahremān‐ e Āsiyā šode‐ast. Vojud‐e manāteq‐e boland‐o kuhestāni‐ ye farāvān dar Irān emkānāt‐e xub‐i rā barā‐ye eski va beviže kuh‐o saxrenavardi farāham mikonad. Vaznebardāri, varzešhā‐ye razmi, basketbāl, vālibāl va futsāl azjomle varzešhā‐ye mahbub‐e digar‐i hastand, ke Irān dar ānhā be movaffaqiyathā‐ye āsiyāyi‐o jahāni dast yāfte‐ast.
-
-Az miyān‐e bozorgtarin varzeškārān‐e irāni mitavān az Jahānpahlevān Gholamreza Takhti (bā cāhār bār qahremāni dar mosābeqāt‐e jahāni‐ye košti), Hossein Rezazadeh (dārande‐ye rekord‐e jahāni dar vaznebardāri‐ye sanginvazn) va niz Ali Dayi (dārā‐ye rekord‐e jahāni‐ye golzani dar futbāl) nām bord.
-
-Bānovān‐e irāni niz dar varzeš porkār‐and va gāh‐i āqāyān rā “poštesar migozārand”. Laleh Seddigh, dānešju‐ye doktorā, nemune‐i rā be namāyeš gozāšt: U dar candin mosābeqe‐ye qahremāni‐ye otomobilrāni‐ye Irān raqibān‐e mard‐e xod rā šekast dād.
-
-##### Pāsox bedeh!
-
-1.  Dar Irān varzeš‐o axlāq ce rābete‐i bā yekdigar dārand? 2.  Be qahremānān‐e varzeš‐e bāstāni ce miguyand? 3.  Mahbubtarin varzeš dar Irān kodām varzeš‐ast? 4.  Irān azjomle dar kodām varzešhā be movaffaqiyathā‐ye beynolmelali     dast yāfte‐ast? 5.  Kodām varzeškārān‐e bozorg‐e irāni rā mišenāsi?
-
 ## Goftogu – Cand tā camedun dārin?
 
 Motessadi:Bilitā‐tun‐o lotf konin.

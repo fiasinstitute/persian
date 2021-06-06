@@ -27,7 +27,20 @@ layout: default
 {{site.data.grammartopics[grammartopic] | markdownify}}{% endfor %}
 
 
+{% assign exercises = unit.exercises | split: "," %}{% for exercise in exercises %}
+<h4><span style="color:gray;">{{ exercise }}. {{site.data.exercisetasks[exercise]}}</span></h4>
+{{site.data.exercisetopics[exercise] | markdownify}}{% endfor %}
+
 <h2><span style="color:gray;">Irān‐o irāni</span> &emsp; {{unit.linggeoname}}</h2>
+
+<p>
+{% if unit.iranoiraniimg!="" %}<span class="marginnote">{% assign imgs = unit.iranoiraniimg | split: "," %}{% for img in imgs %}<img src="/assets/img/units/{{img}}.jpg"><br>{{site.data.imagenames[img]}}<br>{% endfor %}</span>{% endif %}
+{{unit.iranoiranitext}}</p>
+
+{% if unit.textnotice %}<h4><span style="color:gray;">Nokte</span></h4><p>{{unit.textnotice}}</p>{% endif %}
+
+<h4><span style="color:gray;">{{unit.textquestiontask}}</span></h4>
+<p>{{unit.textquestions}}</p>
 
 <h2><span style="color:gray;">Goftogu</span> &emsp; {{unit.dialogname}}</h2>
 {% endif %}

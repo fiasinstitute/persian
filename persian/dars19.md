@@ -6,32 +6,6 @@ order: 19
 
 
 
-
-
-
-
-
-
-##### Jomlehā‐ye zir rā kāmel kon!
-
-1.  Man fārsi yād migiram, con     \_\_ 2.  Pedar‐am kuhnavardi rā dust nadārad, banā bar in     \_\_ 3.  Agarce sedā‐yaš rā mišenavam,     \_\_ 4.  Parviz na tanhā gitār mizanad, balke     \_\_ 5.  Bā vojud‐e moškelāt‐e eqtesādi     \_\_ 6.  Mā harsāl be šomāl miravim, zirā     \_\_ 7.  Ānhā yā bāyad emšab beravand, yā     \_\_ 8.  Bā in ke xodam rā barā‐ye emtehān āmāde karde budam,     \_\_ 9.  Parvāz be Esfahān gerān‐ast, az in ru     \_\_ 10. Be dalil‐e in ke barf mibārid,     \_\_ 11. Mixāham u rā bebinam, vali     \_\_ 12. In kār besyār saxt‐ast, alāve bar in     \_\_ 13. Mā hame gorosne‐im, dar hā‐i ke     \_\_ 14. Qabl az in ke beravi,     \_\_ 15. Be dun‐e in ke moškel rā hal konad,     \_\_ 16. Be jā‐ye in ke motorsiklet bexari,     \_\_ 17. Garce satl‐e āšqāl injā nist,     \_\_ 18. Bā vojud‐e in ke in bāzi yeknavāxt‐ast,     \_\_
-
-## Irān‐o irāni – Bādāb‐e Surt
-
-![](Pictures/10000000000000F70000018817B762698CDBA8EC.jpg)Bādāb‐e Surt nām‐e cešmehā‐ye šegeftangiz‐i‐st ke dar jonub‐e šarqi‐ye Ostān‐e Māzandarān qarār dārand. Bādāb‐e Surt be zabān‐e mahalli ya’ni asar‐e āb‐e gāzdār. Vali in cešmehā bā nām‐e Cešmehā‐ye Talāyi yā Qasr‐e Talāyi ma’ruf šode‐and va be onvān‐e dovvomin asar‐e mirās‐e tabii‐ye Irān be sabt reside‐and.
-
-Bādāb‐e Surt do cešme dārad. Āb‐e harkodām az in cešmehā rang, bu va maze‐ye xāss‐e xodaš rā dārad. Yek‐i šur‐e šur va digar‐i toršoširin‐ast. Āb‐e in cešmehā masāref‐e darmāni niz dārad. Ābhā‐ye rosubi‐ye in cešmehā hezārān sāl‐ast ke bā sarāzir šodan az kuhestān howzcehā‐ye rangin‐i rā dar del‐e saxrehā por mikonand. Tabiat in makān rā barā‐ye bāzi‐ye ranghā bā sanghā bargozide‐ast. Dar qesmat‐i saxrehā lāye‐lāye dar rang‐e nārenji zamin rā bālā rafte‐ and. Dar baxš‐i digar zamin lāye‐lāye sabz‐o ābi va kam‐i āntaraftar lāye‐lāye zard‐ast. Tābeš‐e nur‐e xoršid dar howzcehā‐ye rangin va en’ekās‐e nur ān dar sāyerowšan‐e tabiat yek‐i az zibātarin tāblowhā‐ye tabiat rā dar moqābel‐e cešmān‐e šegeftzade‐ye binandegān‐e xiš qarār midehad.
-
-Dar jahān se kešvar‐e digar hastand, ke cešmehā‐yi mošābeh dārand: Torkiye, Āmrikā va Niyuzland. Nām‐e cešme dar Torkiye Pāmukāle‐ast. Pāmukāle bozorgtar az Bādāb‐e Surt‐ast, vali rang‐e ān be dalil‐e rosubāt‐e kalsiyom sefid‐ast.
-
-#### Nokte
-
-  - “Šur‐e šur“ ya’ni “xeyl‐i šur”.
-
-##### Pāsox bedeh!
-
-1.  Bādāb‐e Surt kojā‐st? 2.  Cešmehā‐ye Bādāb‐e Surt be onvān‐e candomin asar‐e mirās‐e tabii dar     Irān be sabt reside‐and? 3.  In cešmehā bā ce nām‐i ma’ruf šode‐and? 4.  Bādāb‐e Surt cand cešme dārad? 5.  In cešmehā ce vižegihā‐yi dārand? 6.  Cerā dar matn‐e bālā az bāzi‐ye ranghā bā sanghā mixānim? 7.  Kodām kešvarhā cešmehā‐ye mošābeh‐i dārand?
-
 ## Goftogu – Kojā tašrif mibarin?
 
 Modir‐e āžāns:Tāksiservis‐e Bahār, befarmāyin!

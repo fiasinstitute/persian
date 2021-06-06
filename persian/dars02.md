@@ -4,36 +4,6 @@ order: 2
 ---
 
 
-## Sāxtār
-
-
-
-
-
-
-
-##### Jāhā‐ye xāli rā por kon!
-
-1.  Barādar‐e Mahnāz yek doxtar \_\_ (dāštan). 2.  Ālmān dar qārre‐ye Orupā \_\_ \_\_     (qarār dāštan). 3.  Māšin‐e Ārmān gerān \_\_ (budan). 4.  Mā dānešāmuz \_\_ (budan). 5.  Šomā film \_\_ \_\_ (dust dāštan). 6.  Parviz fardā bā dandānpezešk \_\_     \_\_ (qarār dāštan). 7.  To xaste \_\_ (budan). 8.  Man irāni \_\_ (budan). 9.  Mahnāz‐o Mahšid dānešju \_\_ (budan). 10. Mā emruz kelās \_\_ (dāštan). 11. Ānhā do pesar \_\_ (dāštan). 12. Nām‐e xānevādegi‐ye mā Bahrāmi \_\_ (budan).
-
-##### Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
-
-hastanddārimamdāradastdust dāriim
-
-1.  Mā kārmand \_\_. 2.  Doxtarxāle ‐ye man zibā \_\_ . 3.  Man emšab xeyl‐i gereftār \_\_. 4.  Moteassef am, mā emruz xeyl‐i kār \_\_. 5.  Māšin‐e Mahnāz panj dar \_\_. 6.  Parviz‐o Piruz barādar \_\_. 7.  To hatman ājil‐o širini \_\_ \_\_.
-
-##### Jāhā‐ye xāli rā por kon!
-
-1.  Emruz ta’til \_\_ (budan). 2.  Ānhā mas’uliyat \_\_ (dāštan). 3.  Dar bāz \_\_ (budan). 4.  Manucehr qadboland \_\_ (budan). 5.  Man bastani \_\_ \_\_ (dust dāštan). 6.  Tišert‐e man jib‐o dokme \_\_ (dāštan). 7.  Zendegi širin \_\_ (budan). 8.  Boluz‐e Mahnāz ābi \_\_ (budan). 9.  Sārā šenāsnāme‐ye irāni \_\_ (dāštan). 10. Mā forsat \_\_ (dāštan). 11. Ānhā xošbaxt \_\_ (budan). 12. Tom melliyat‐e āmrikāyi \_\_ (dāštan).
-
-## Irān‐o irāni – Joqrāfiyā‐ye Irān
-
-![](Pictures/100000000000028A00000257BAAB665C07DF5B5F.jpg)Irān jozv‐e bist kešvar‐e bozorg va bist kešvar‐e porjam’iyat‐e jahān‐ast. Irān dar qarb‐e qārre‐ye Āsiyā va dar mantaqe‐ye Xāvar‐ e Miyāne qarār dārad. Irān az šomāl bā Jomhuri‐ye Āzarbāyjān, Armanestān va Torkamanestān; az qarb bā Torkiye‐vo Arāq, va az šarq bā Afqānestān‐o Pākestān hamsāye‐ast. Daryā‐ye Xazar va Reštekuh‐e Alborz dar šomāl‐e Irān qarār dārand. Xalij‐e Fārs dar jonub‐e Irān‐ast. Reštekuh‐e Zāgros dar šarq‐e Irān qarār dārad. Tehrān pāytaxt‐e Irān‐ast.
-
-##### Dorost yā qalat?
-
-1.  Irān jozv‐e bist kešvar‐e bozorg va porjam’iyat‐e jahān‐ast. 2.  Irān dar qarb‐e Mantaqe‐ye Xāvar‐e Miyāne qarār dārad. 3.  Armanestān az šarq bā Irān hamsāye‐ast. 4.  Arāq‐o Torkiye az qarb bā Irān hamsāye hastand. 5.  Reštekuh‐e Alborz dar šarq‐e Irān‐ast. 6.  Xalij‐e Fārs dar jonub va Daryā‐ye Xazar dar šomāl‐e Irān qarār     dārad. 7.  Pāytaxt‐e Irān Tehrān‐ast.
-
 ## Goftogu – Kojāyi hastin?
 
 Xānom‐e Partovi:Bebaxšin Āqā‐ye Āzād, šomā kojāyi hastin? Āqā‐ye Āzād: Man ahl‐e Širāz‐am. Šomā ahl‐e kojā‐yin? Xānom‐e Partovi:Man Tehrāni hastam.

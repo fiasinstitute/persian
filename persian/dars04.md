@@ -3,77 +3,9 @@ layout: unit
 order: 4
 ---
 
-## Sāxtār
 
 
 
-
-
-
-
-
-
-
-##### Bā “‐hā” va/yā “‐ān” jam’ beband!
-
-|  |         |                              |         |               |               |
-| 
-|-------|----------------------------|-------|-------------|------------- |
-|  | Mofrad  | Jam’ bā “‐hā”  Jam’ bā “‐ān” | Mofrad  | Jam’ bā “‐hā” | Jam’ bā “‐ān” |
-|  | parande |                              | sandali |               |               |
-|  | šomāre  |                              | dast    |               |               |
-|  | deraxt  |                              | cāhārpā |               |               |
-|  | miz     |                              | baste   |               |               |
-|  | darre   |                              | saqf    |               |               |
-
-|           |         |
-|---------|------- |
-| qafase    | monši   |
-|           |         |
-| telefon   | tufān   |
-|           |         |
-| dāneškade | daryāce |
-|           |         |
-| buq       | oqyānus |
-|           |         |
-| kešāvarz  | saxre   |
-
-##### Az mošaxxas be nāmošaxxas tabdil kon!
-
-|                                              |                         |
-|--------------------------------------------|----------------------- |
-| Mošaxxas                                     | Nāmošaxxas              |
-| Mard dar xiyābān‐ast.                        | Mard‐i dar xiyābān‐ast. |
-| Mard‐e nāšenās dar xiyābān‐ast.              |                         |
-| Mard‐e nāšenās‐o xatarnāk dar xiyābān‐ast.   |                         |
-| Mardān‐e nāšenās‐o xatarnāk dar xiyābān‐and. |                         |
-
-##### Jomlehā‐ye behamrixte rā morattab kon!
-
-|                                                  |              |
-|------------------------------------------------|------------ |
-| Nāmorattab                                       | Morattab     |
-| pesar / i / ce / !                              | Ce pesar‐i! |
-| mixāhi / ce / i / māšin / ?                      |              |
-| ce / i / seyl / !                               |              |
-| eškāl / dārad / i / ce / ?                       |              |
-| yi / sarmā / ce / !                             |              |
-| dānešāmuz / ce / bāhuš / e / zerang / o / i / ! |              |
-| nasim / ce / i / xub / !                        |              |
-
-## Irān‐o irāni – Tehrān
-
-![](Pictures/1000000000000604000004072F25B3445A9D2D63.jpg)Tehrān, pāytaxt‐e Irān, dar dāmane‐ye jonubi‐ye Reštekuh‐e Alborz qarār dārad. In šahr besyār bozorg‐ast va moteassefāne havā‐ye ālude‐i dārad. Vali mardom‐e Tehrān besyār xungarm‐o mehmānnavāz‐and.
-
-Tehrān didanihā‐ye ziyād‐i dārad. Borj‐e Milād‐o Borj‐e Āzādi namādhā‐ye in šahr hastand. Borj‐e Milād taqriban az hamejā‐ye Tehrān qābeledidan‐ast. Kāxmuzehā‐ye Golestān, Sa’dābād va Niāvarān va niz muzehā‐ye Melli, Javāherāt, Farš va Ābgine cizhā‐ ye gerānbahā‐vo jāleb‐i barā‐ye didan dārand. Bāzār‐e Tehrān xeyl‐i ma’ruf‐o bozorg‐ast. Dar ānjā kamābiš hameciz hast: talā, noqre, pārce, qāli, adviye, xoškbār, ... Mehmānān‐e xāreji in bāzār rā xeyl‐i dust dārand.
-
-Dar Tehrān pārkhā‐ye besyār zibā‐yi vojud dārand. Pārk‐e Mellat, Pārk‐e Jamšidiye va Pārk‐e jadid‐e Āb‐o Ātaš jozv‐e pārkhā‐ye didani‐ye Tehrān‐and.
-
-Dar ruzhā‐ye garm‐e tābestān mardom‐e Tehrān barā‐ye tafrih be kuhpāyehā‐ye xonak‐o delpazir‐e Towcāl, Darband va Darake miravand. Towcāl yek telekābin niz dārad va barā‐ye eski ham monāseb‐ast.
-
-##### Dorost yā qalat?
-
-1.  Mardom‐e Tehrān mehmānnavāz‐and. 2.  Borj‐e Āzādi va Borj‐e Milād namādhā‐ye Tehrān‐and. 3.  Kāxmuze‐ye Golestān didani‐st. 4.  Bāzār‐e Tehrān kucak‐ast. 5.  Pārk‐e Āb‐o Ātaš telekābin dārad.
 
 ## Goftogu – Ādres‐e mahall‐e kār‐etun ci‐ye?
 

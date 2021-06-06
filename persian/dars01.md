@@ -6,29 +6,6 @@ order: 1
 
 
 
-##### Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
-
-māānhāhastidimyandmanyešānašat
-
-1.  Rang‐e māšin \_\_ sabz‐ast. 2.  Ānhā dānešju \_\_. 3.  Šomā polis \_\_. 4.  Pedar‐e \_\_ mohandes‐ast. 5.  \_\_ parastār hastim. 6.  Mā dānešāmuz \_\_. 7.  Esm‐e barādar‐e \_\_ Sāmān‐ast. 8.  To va mādar \_\_ dar pārk hastid. 9.  Sedā \_\_ boland‐ast.
-
-##### Jāhā‐ye xāli rā bā vāžehā‐ye zir por kon!
-
-ešānastšomāmānhastandtoueand
-
-1.  Pesar va doxtar \_\_ dānešāmuz hastand. 2.  Amu‐ye man qadkutāh \_\_. 3.  Mādar \_\_ Sārā xayyāt‐ast. 4.  Dāyi‐ye \_\_ kārgar‐ast. 5.  Xāle va amme‐ye man tešne \_\_. 6.  Doxtarxāle va pesarxāle‐ye man gorosne \_\_. 7.  Doxtaramu va pesaramu‐ye \_\_ cāq hastand. 8.  Pesardāyi va doxtardāyi \_\_ xošhāl hastand. 9.  Pesaramme va doxtaramme‐ye \_\_ bimār‐and.
-
-## Irān‐o irāni – Āmuzgār‐e irāni
-
-Mā dānešāmuz hastim va aknun dar kelās‐im. Āmuzgār‐e mā irāni‐st. Zabān‐e u fārsi‐st. Fārsi širin‐ast. Mā be fārsi alāqemand hastim.
-
-##### Dorost yā qalat?
-
-1.  Mā kārmand hastim. 2.  Moallem‐e mā kānādāyi‐st.
-
-<!-- end list -->
-
-3.  Zabān‐e moallem fārsi‐st. 4.  Fārsi širin‐ast. 5.  Man be fārsi alāqemand hastam.
 
 ## Goftogu – Salām‐o ahvālporsi
 

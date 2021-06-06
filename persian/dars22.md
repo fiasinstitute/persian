@@ -5,27 +5,6 @@ order: 22
 
 
 
-
-##### Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon!
-
-1.  Fardā u rā mibinam. Agar movāfeq \_\_     (budan), be to xabar mideham. 2.  Parviz dar emtehān rad šod. Agar darshā‐yaš rā xub     \_\_ (xāndan), rad nemišod. 3.  Emšab bāzi‐ye Irān‐o Dānmārk‐ast. Agar šāns (āvardan)     \_\_, bāzi rā mibarim. 4.  Moteassefāne Mahnāz šerkat nakard. Agar (šerkat kardan)     \_\_, man ham šerkat mikardam. 5.  Barf kaf‐e xiyābān rā pušide bud. Agar barf     \_\_ (āmadan), u bā māšin miraft. 6.  Harif‐e qabli qavi nabud. Agar in harif ham zaif     \_\_ (budan), in mosābeqe arzeš‐i nadārad. 7.  Nemidānam ke tā konun dide‐ast yā na. Agar     \_\_ (didan), digar niyāz‐i nist, ke be u     nešān bedehim. 8.  Hālā digar dir šode‐ast. Agar ānhā zudtar     \_\_ (goftan), dastbekār mišodim. 9.  Haminjā montazer‐e man bāš. Agar man     \_\_ (bar gaštan), xodat tanhā     savār šow! 10. Dastekam tā nim sāat piš xiyābānhā šoluq budand. Agar al’ān xalvat     \_\_ (budan), bā tāksi miravam.
-
-## Irān‐o irāni – Bozorgān‐e dāneš‐o andiše
-
-![   Tasvir·e 16: Xārazmi | Rāzi](Pictures/100000000000021B0000018A10E364831612ECE0.jpg)Irān dar zamānhā‐ye qadim mahd‐e dāneš‐o andiše bude‐ast. Besyār‐i az mafāhim‐e elmi‐ye emruzi vāmdār‐e pažuhešhā‐ye dānešmandān‐e irāni hastand. Az miyān‐e in dānešmandān mitavānim az navābeq‐i hamcon Xārazmi, Rāzi, Pur‐e Sinā (Ebn‐e Sinā) va Xayyām nām bebarim. Haryek az ānhā be šomār‐ e besyār‐i az šāxehā‐ye olum tasallot dāšt va dārā‐ye šohrat‐e jahāni‐st.
-
-**Xārazmi **(780‐850 m.) riyāzidān, setārešenās, filsuf, joqrāfidān va movarrex bud.** **U rā Pedar‐e Jabr nāmide‐and. U dānešmand‐i bud, ke a’dād‐e hendi rā be jahāniyān šenāsānd. Nām‐e *Alegbra* riše dar nām‐e yek‐i az ketābhā‐ye u dārad. Hamintowr nāmhā‐ye ālgoritm va logāritm be talaffoz‐e nām‐e u dar zabān‐e Lātin bar migardand. George Sarton, nevisande‐ye ketāb‐e Tārix‐e Elm, sade‐ye 9<sup>om</sup> rā Asr‐e Xārazmi nāmide‐ast.
-
-**Rāzi **(854‐925 m.) pezešk, šimidān va filsuf‐i bud ke be kašf‐e alkol va jowhar‐e** **gugerd (asid sulfurik) ma’ruf‐ast. George Sarton u rā bozorgtarin pezešk‐e Qorun‐e Vostā midānad.
-
-![   Tasvir·e 17: Pur-e Sinā | Xayyām](Pictures/1000000000000234000001622AEB943DC813F3A5.jpg)**Pur‐e Sinā **yā** **Ebn‐e Sinā** **(908‐1037 m.), filsuf va pezešk, mašhurtarin** **dānešmand‐e irāni‐st. George Sarton u rā yek‐i az mašhurtarin dānešmandān dar hame‐ye a’sār dāneste‐ast. Pur‐e Sinā 450 ketāb dar zaminehā‐ye gunāgun ta’lif kard. Mohemtarin āsār‐e u yek dānešnāme‐ye elmi‐yo falsafi be nām‐e Šafā va ketāb‐e Qānun dar zamine‐ye pezeški hastand. Qānun tā qarn‐e 18<sup>om</sup> be onvān‐e ketāb‐e me’yār barā‐ye dāneš‐e pezeški dar Orupā be šomār miraft.
-
-**Xayyām **(1048‐1131 m.) filsuf, riyāzidān va setārešenās‐i bud, ke dar zaminehā‐ye mekānik, joqrāfi, ma’danšenāsi va musiqi niz āsār‐i barjāy gozāšte‐ast. Dar zamine‐ye jabr Mohemtarin resālehā‐ye piš az Asr‐e Jadid rā be u nesbat midehand. Yek‐i az kārhā‐ye barjeste‐ye u eslāh‐e gāhšomāri‐ye irāni bude‐ast. Taqvim‐e irāni az taqvim‐e milādi daqiqtar‐ast. Xayyām andišehā‐ye hakimāne‐ye xod rā be zabān‐ e sāde dar robāiyāt‐aš bayān mikonad. Robāiyāt‐e u šohrat‐e jahāni dārand.
-
-##### Pāsox bedeh!
-
-1.  Xārazmi rā pedar‐e kodām šāxe az elm midānand? 2.  Rāzi ce cizhā‐yi rā kašf kard? 3.  Ma’ruftarin ketābhā‐ye Pur‐e Sinā ce nām dārand? 4.  Ketāb‐e Qānun tā key ketāb‐e me’yār‐e pezeški bud? 5.  Yek‐i az kārhā‐ye barjeste‐ye Xayyām ce bud?
-
 ## Goftogu – Nerx‐e Dolār cand‐e?
 
 Āqā‐ye Xākbāz: Salām! Bebaxšin, bāje‐ye xadamāt‐e arzi haminjā‐st? Kārmand‐e bānk: Bale. Amr‐etun‐o befarmāyin!
