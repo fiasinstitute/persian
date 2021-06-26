@@ -7,56 +7,6 @@ order: 6
 
 
 
-## Goftogu – Meydun‐e Bahārestān Kojā‐st?
-
-Xānom‐e Āzād:Ozr mixām āqā, Meydun‐e Bahārestān kojā‐st?
-
-Jāvid:haminjā dowr bezanin, sar‐e cārrā bepicin samt‐e cap tu Xiyābun‐e Jomhuri. Ba’d mostaqim berin.
-
-Xānom‐e Āzād:Xiyābun‐e Jomhuri yetarafe nist?
-
-Jāvid:Cerā, vali na az in taraf.
-
-Xānom‐e Āzād:Mamnun‐am.
-
-Jāvid:Xāheš mikonam.
-
-#### Nokte
-
-|              |              |
-|------------|------------ |
-| Goftāri      | Neveštāri    |
-|              |              |
-| mixām        | mixāham      |
-|              |              |
-| meydun       | meydān       |
-|              |              |
-| dowr bezanin | dowr bezanid |
-|              |              |
-| cārrā        | cāhārrāh     |
-|              |              |
-| bepicin      | bepicid      |
-|              |              |
-| xiyābun      | xiyābān      |
-|              |              |
-| berin        | beravid      |
-|              |              |
-| yetarafe     | yektarafe    |
-
-### Ebārathā/vāžehā
-
-Avvalin xoruji – ba’d az cerāq‐e rāhnamāyi – sar‐e cārrā – nareside be meydun – qabl az serāhi – entehā‐ye xiyābun Dowr bezanin – berin – bepicin
-
-Samt‐e cap – samt‐e rāst – dast‐e cap – dast‐e rāst – mostaqim Yetarafe – vorudmamnu’
-
-##### Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
-
-Faršād:Bebxašin xānum, Pārk‐e Lāle \_\_‐st?
-
-Xānom‐e Rād: \_\_ berin. \_\_ be meydun bepicin dast‐e \_\_. Faršād: \_\_ nist?
-
-Xānom‐e Rād: Na, negarān nabāšin. Faršād: \_\_‐am? Xānom‐e Rād: \_\_ \_\_.
-
 ## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e 

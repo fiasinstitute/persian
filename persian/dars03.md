@@ -4,55 +4,8 @@ order: 3
 ---
 
 
-## Goftogu – Šoql‐etun ci‐ye?
 
-Āqā‐ye Arjomand:Bebaxšin, šomā šoql‐etun ci‐ye?
 
-Xānom‐e Nāmju:Man akkās hastam. Kār‐e šomā ci‐ye?
-
-Āqā‐ye Arjomand:Man āmuzgār‐am. Rāsti, doxtar‐etun cekāra‐n?
-
-Xānom‐e Nāmju:Doxtar‐am dandunpezešk‐e.
-
-Āqā‐ye Arjomand:Bebaxšin, šoql‐ešun ci‐ye?
-
-Xānom‐e Nāmju:Dandunpezešk‐e.
-
-#### Nokte
-
-|              |              |
-|------------|------------ |
-| Goftāri      | Neveštāri    |
-| bebaxšin     | bebaxšid     |
-| ci‐ye        | ci‐st        |
-| etun         | etān         |
-| cekāra‐n     | cekāre‐and   |
-| dandunpezešk | dandānpezešk |
-| šoql‐ešun    | šoql‐ešān    |
-
-### Ebārathā/vāžehā
-
-Pesar – mādar – pedar – barādar – xāhar – zan – šowhar
-
-Ārāyešgar – me’mār – mekānik – mohandes – parastār – pezešk – vakil – nānvā – naqqāš
-
-##### Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
-
-Parviz: Minu, to \_\_‐i?
-
-Minu: Man ravānpezešk‐am, \_\_‐e \_\_ ci‐ye?
-
-Parviz: \_\_ ruznāmenegār \_\_.
-
-##### Az goftāri be neveštāri tabdil kon!
-
-**GoftāriNeveštāri**
-
-Šoql‐ešun ci‐ye?
-
-Šomā cekāre‐in?
-
-Mādar‐e man dandunpezešk‐e.
 
 ## Vāžehā-ye dars-e 
 

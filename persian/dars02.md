@@ -4,42 +4,8 @@ order: 2
 ---
 
 
-## Goftogu – Kojāyi hastin?
 
-Xānom‐e Partovi:Bebaxšin Āqā‐ye Āzād, šomā kojāyi hastin? Āqā‐ye Āzād: Man ahl‐e Širāz‐am. Šomā ahl‐e kojā‐yin? Xānom‐e Partovi:Man Tehrāni hastam.
 
-#### Nokte
-
-|          |           |
-|--------|--------- |
-| Goftāri  | Neveštāri |
-| bebaxšin | bebaxšid  |
-| hastin   | hastid    |
-| kojā‐yin | kojā‐yid  |
-
-### Ebārathā/vāžehā
-
-Bexašin – ozr mixām (mixāham) – ma’zerat mixām
-
-Āqā‐ye ... – Xānum‐e (Xānom‐e) ... – Dušize ... – Ali Āqā – Bahrām Xān – Mahin Xānum
-
-Itāliyā, itāliyāyi – Farānse, farānsavi – Engelestān, engelisi – Ālmān, ālmāni – Āmrikā, āmrikāyi – Žāpon, žāponi – Torkiye, Tork
-
-##### Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
-
-Nāder:Nedā, to \_\_ hasti?
-
-Nedā: \_\_ tehrāni‐yam, to \_\_‐e \_\_‐yi?
-
-Nāder:Man Esfahāni‐yam.
-
-##### Az goftāri be neveštāri tabdil kon!
-
-**GoftāriNeveštāri**
-
-Bebaxšin, šomā ahl‐e kojā‐yin?
-
-Parvin Xānum ozr mixām, šomā kojāyi hastin?
 
 ## Vāžehā-ye dars-e 
 

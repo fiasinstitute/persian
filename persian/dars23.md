@@ -6,38 +6,6 @@ order: 23
 
 
 
-## Goftogu – Parvāz ce sāat‐i‐ye?
-
-### Ebārathā/vāžehā
-
-Luthansa – Berlin – pesar – bist‐o panj kilu
-
-##### Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis!
-
-– Ye parvāz‐e bedunetavaqqof bā Iran Air dārim, cāhārsad hezār Toman.
-
-– Ye belit‐e raftobargašt be Bārselon lotfan.
-
-– Key tašrif mibarin?
-
-– Arzuntar nadārin?
-
-– Cerā, bā KLM miše sisad‐o panjā hezār Toman, vali ye tavaqqof tu Āmesterdām dārin.
-
-– Haftom‐e mehr. Bist‐o yekom‐e ābān‐am mixām bar gardam.
-
-\_\_
-
-\_\_
-
-\_\_
-
-\_\_
-
-\_\_
-
-\_\_
-
 ## Vāžehā-ye dars-e 
 
 Pasoxhā-ye dars-e 

@@ -7,46 +7,7 @@ order: 4
 
 
 
-## Goftogu – Ādres‐e mahall‐e kār‐etun ci‐ye?
 
-Parisā:Bābak, to kojā kār mikoni?
-
-Bābak:Tu bimārestān.
-
-Parisā:Ādres‐e mahall‐e kār‐et ci‐ye?
-
-Bābak:Bimārestān‐e Šerkat‐e Naft, Xiyābun‐e Hāfez, Kuce‐ye Iraj, pelāk‐e 27.
-
-#### Nokte
-
-|         |             |
-|-------|----------- |
-| Goftāri | Neveštāri   |
-| tu      | tu‐ye / dar |
-| kār‐et  | kār‐at      |
-| xiyābun | xiyābān     |
-
-### Ebārathā/vāžehā
-
-Ārāyešgāh – resturān – matab – ta’mirgāh – bimārestān – darmāngāh – dādgāh – kārxune (kārxāne) – akkāsi – kalāntari
-
-##### Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
-
-Xānom‐e Širāzi:Bebxašin Āqā‐ye Bahrāmi, šomā \_\_ kār mikonin?
-
-Āqā‐ye Bahrāmi: Man tu hotel \_\_ \_\_. Xānom‐e Širāzi: Nešāni‐ye \_\_‐e kār‐etun ci‐ye?
-
-Āqā‐ye Bahrāmi: \_\_‐e Ferdowsi, \_\_‐e 20.
-
-##### Az goftāri be neveštāri tabdil kon!
-
-**GoftāriNeveštāri**
-
-Kojā kār mikonin?
-
-Ādres‐ešun ci‐ye?
-
-Man tu Xiyābun‐e Āzādi zendegi mikonam.
 
 ## Vāžehā-ye dars-e 
 

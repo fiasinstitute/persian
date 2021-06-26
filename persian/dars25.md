@@ -5,65 +5,7 @@ order: 25
 
 
 
-## Goftogu – Lotfan camedun‐o bāz konin!
 
-Āqā‐ye Kāmyāb:Bebaxšin āqā, bār‐e parvāz‐e Pāris‐o kojā tahvil begirim?
-
-Mas’ul‐e bār:Tašrif bebarin bānd‐e panj.
-
-– – – – – – – – – –
-
-Ma’mur‐e gomrok:Lotfan camedun etun‐o bāz konin.
-
-Āqā‐ye Kāmyāb:Befarmāyin!
-
-Ma’mur‐e gomrok:Tu‐š ci dārin?
-
-Āqā‐ye Kāmyāb:Vasāyel‐e šaxsi‐yo yemeqdār‐am sowqāti. Bāyad gomroki pardāxt konam?
-
-Ma’mur‐e gomrok:Naxeyr, šomā az pardāxt‐e gomroki moāf‐in. Eqāmat‐e xoš‐i dāšte bāšin.
-
-Āqā‐ye Kāmyāb:Motšakker‐am.
-
-#### Nokte
-
-|              |               |
-|------------|------------- |
-| Pāris‐o      | Pāris rā      |
-|              |               |
-| bebarin      | bebarid       |
-|              |               |
-| tu‐š         | tu‐yaš        |
-|              |               |
-| dārin        | dārid         |
-|              |               |
-| yemeqdār‐am  | yekmeqdār ham |
-|              |               |
-| moāf‐in      | moāf‐id       |
-|              |               |
-| dāšte bāšin  | dāšte bāšid   |
-|              |               |
-| motšakker‐am | motešakker‐am |
-
-### Ebārathā/vāžehā
-
-Ketāb – lavāzem‐e šaxsi – kādo – asbābbāzi
-
-##### Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! E’lān‐e zir bā bā estefāde az in ebārathā/vāžehā be zabān‐e neveštāri bāznevisi kon!
-
-be zamin mišinimsandalihā‐ye xod ro tark nakonin
-
-Sarmehmāndār: Mosāferān‐e mohtaram, mā tā cand daqiqe‐ye dige dar forudgāh‐e Munix forud miyāym. Lotfan kamarbandā‐ ye imeni‐ye xod ro bebandin va pošt‐e sandalihā‐tun‐o be hālat‐e avvaliye bar gardunin. Az šomā xāheš mikonim, tā ist‐e kāmel‐ e havāpeymā az jā‐ye xod boland našavid. Man va hamkārān‐am eqāmat‐e xoš‐i ro barā‐ye šomā ārezu mikonim.
-
-\_\_
-
-\_\_
-
-\_\_
-
-\_\_
-
-\_\_
 
 ## Vāžehā-ye dars-e 
 

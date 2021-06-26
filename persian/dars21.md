@@ -3,85 +3,10 @@ layout: unit
 order: 21 
 ---
 
-|            |               |
-|----------|------------- |
-| vazn‐eš    | vazn‐aš       |
-|            |               |
-| punsad     | pānsad        |
-|            |               |
-| Toman      | Tumān         |
-|            |               |
-| āddi       | ādi           |
-|            |               |
-| mikeše     | mikešad       |
-|            |               |
-| hazina‐š   | hazine‐aš     |
-|            |               |
-| šiš        | šeš           |
-|            |               |
-| xob        | xub           |
-|            |               |
-| nešuni     | nešāni        |
-|            |               |
-| giranda ro | girande rā    |
-|            |               |
-| ru‐š       | ru‐yaš        |
-|            |               |
-| benevisin  | benevisid     |
-|            |               |
-| form‐am    | form rā ham   |
-|            |               |
-| konin      | konid         |
-|            |               |
-| cašm       | be ru‐ye cešm |
 
-### Ebārathā/vāžehā
 
-Aks – peste – ājil – kādo – lebās
 
-Pāris – Rom
 
-##### Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Goftogu‐ye behamrixte rā morattab kon va be zabān‐e neveštāri benevis!
-
-– Cāhārruze.
-
-– Bā post‐e āddi yā sefāreši?
-
-– Mixāstam in nāma ro post konam?
-
-– Na, bendāzin tu sandoq‐e post.
-
-– Be kojā?
-
-– Injā tahvil bedam?
-
-– Xub‐e. Pas bā hamun post‐e āddi befrestin.
-
-– Kermān.
-
-– Bā post‐e āddi candruze mirese?
-
-– Lotfan ādres‐e girande‐vo ferestanda ro ru pākat‐e nāme benevisin. Haftsad Toman‐am tambr ru‐š becasbunin.
-
-\_\_
-
-\_\_
-
-\_\_
-
-\_\_
-
-\_\_
-
-\_\_
-
-\_\_
-
-\_\_
-
-\_\_
-
-\_\_
 
 ## Vāžehā-ye dars-e 
 

@@ -5,61 +5,7 @@ order: 8
 
 
 
-|                |                       |
-|--------------|--------------------- |
-| un             | ān                    |
-|                |                       |
-| tu vitrin      | tu‐ye/dar vitrin      |
-|                |                       |
-| cand‐e         | cand‐ast              |
-|                |                       |
-| kudumyeki      | kodāmyek              |
-|                |                       |
-| tu vitrin‐e    | tu‐ye/dar vitrin‐ast  |
-|                |                       |
-| šalvār qermeze | in/ān šalvār‐e qermez |
-|                |                       |
-| Toman          | Tumān                 |
-|                |                       |
-| piran          | pirāhan               |
-|                |                       |
-| kudum          | kodām                 |
-|                |                       |
-| piran sabze    | in/ān pirāhan‐e sabz  |
-|                |                       |
-| punsad         | pānsad                |
 
-### Ebārathā/vāžehā
-
-Kotšalvār – dāman – žākat – šalvārjin – kāpšen – kot – pāltow – bārāni – poliver – jeliqe
-
-Sefid – surati – qahvei – nārenji – banafš – kerem – meški – siyāh – sormei – ābi
-
-##### Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! Jāhā‐ye xāli rā por kon!
-
-Xaridār:Ma’zerat mixām, in \_\_ \_\_‐e?
-
-Forušande:\_\_ garmkon?
-
-Xaridār:Garmkon \_\_?
-
-Forušande:5,000 \_\_.
-
-##### Az goftāri be neveštāri tabdil kon!
-
-|                              |           |
-|----------------------------|--------- |
-| Goftāri                      | Neveštāri |
-|                              |           |
-| Un kāpšen cand‐e?            |           |
-|                              |           |
-| Kudum šalvār?                |           |
-|                              |           |
-| Kāpšen sefide.               |           |
-|                              |           |
-| In piran bist hezār Toman‐e. |           |
-|                              |           |
-| Kudumkyeki? Kot qermeze?     |           |
 
 ## Vāžehā-ye dars-e 
 

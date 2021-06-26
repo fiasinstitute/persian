@@ -6,89 +6,8 @@ order: 24
 
 
 
-## Goftogu – Cand tā camedun dārin?
 
-Motessadi:Bilitā‐tun‐o lotf konin.
 
-Xānom‐e Nāmju: Befarmāyin!
-
-Motessadi:Cand tā camedun dārin?
-
-Xānom‐e Nāmju: Do tā. Ye sākdasti‐yam dārim, ke mibarim tu havāpeymā. Age miše lotfan ye sandali‐ye kenār‐e panjere.
-
-Motessadi:Cašm. In‐am kārtā‐ye parvāz‐etun. Radif‐e davāzdah, sandalihā‐ye F‐o G. Tašrif bebarin geyt‐e hašt.
-
-– – – – – – – – – –
-
-Ma’mur‐e kontorol: Gozarnāma‐tun lotfan.
-
-Xānom‐e Nāmju:Befarmāyin!
-
-Ma’mur‐e kontorol: Išun pesar‐etun‐an?
-
-Xānom‐e Nāmju:Bale.
-
-Ma’mur‐e kontorol: Befarmāyin.
-
-#### Nokte
-
-|               |                  |
-|-------------|---------------- |
-| Goftāri       | Neveštāri        |
-|               |                  |
-| bilitā‐tun‐o  | belithā‐yetān rā |
-|               |                  |
-| konin         | konid            |
-|               |                  |
-| befarmāyin    | befarmāyid       |
-|               |                  |
-| camedun       | camedān          |
-|               |                  |
-| ye            | yek              |
-|               |                  |
-| sākdasti‐yam  | sākdasti ham     |
-|               |                  |
-| tu            | tu‐ye            |
-|               |                  |
-| age           | agar             |
-|               |                  |
-| miše          | mišavad          |
-|               |                  |
-| cašm          | be ru‐ye cešm    |
-|               |                  |
-| kārtā         | kārthā           |
-|               |                  |
-| parvāz‐etun   | parvāz‐etān      |
-|               |                  |
-| bebarin       | bebarid          |
-|               |                  |
-| gozarnāma‐tun | gozarnāme‐tān    |
-|               |                  |
-| Išun          | išān             |
-|               |                  |
-| pesar‐etun‐an | pesar‐etān‐and   |
-
-### Ebārathā/vāžehā
-
-Sandali‐ye taraf‐e rāhrow
-
-Pāsport – hamsar
-
-##### Bā estefāde az ebārathā/vāžehā goftogu‐ye bālā rā bā hamkelāsi‐yat tamrin kon! E’lān‐e zir bā bā estefāde az in ebārathā/vāžehā be zabān‐e neveštāri bāznevisi kon!
-
-forudgāh‐e Tehrānbe maqsad‐e Munixpanj sāat‐o nimhašt daraje‐ye sāntigerādabrihālat‐e amudi
-
-Sarmehmāndār: Mosāferān‐e gerāmi, az taraf‐e Xalabān Pāknežād va hamkārān‐am be šomā xošāmad migam. Hamaknun forudgāh‐e Tabriz ro be maqsad‐e Tehrān tark mikonim. Moddat‐e parvāz yek sāat xāhad bud. Havā‐ye Tehrān āftābi va damā‐ ye havā bist‐o se daraje bālā‐ye sefr‐e. Lotfan kamarbandā‐ye imeni‐ye xod ro bebandin va sandalihā‐tun ro be hālat‐e amudi bar gardunin. Az šomā xāheš mikonim, lavāzem‐e elekteriki‐ye xod ro xāmuš konin. Man va hamkārān‐am safar‐e xoš‐i ro barā‐ tun ārezu mikonim.
-
-\_\_
-
-\_\_
-
-\_\_
-
-\_\_
-
-\_\_
 
 ## Vāžehā-ye dars-e 
 

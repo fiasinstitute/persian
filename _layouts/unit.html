@@ -10,6 +10,9 @@ layout: default
 {% if unit.category=="lesson" %}
 <h2><span style="color:gray;">Matn ♫</span> &emsp; {{unit.title}}</h2>
 
+{% capture audio_url %}/assets/audio/Matn-{{unit.id}}.mp3{% endcapture %}
+{% include audio.html filename=audio_url %}
+
 <p>{{unit.textcontent}}</p>
 
 {% if unit.textcomment %}<h4>Nokte</h4><p>{{unit.textcomment}}</p>{% endif %}
@@ -33,6 +36,9 @@ layout: default
 
 <h2><span style="color:gray;">Irān‐o irāni</span> &emsp; {{unit.linggeoname}}</h2>
 
+{% capture audio_url %}/assets/audio/Reading-{{unit.id}}.mp3{% endcapture %}
+{% include audio.html filename=audio_url %}
+
 <p>
 {% if unit.iranoiraniimg!="" %}<span class="marginnote">{% assign imgs = unit.iranoiraniimg | split: "," %}{% for img in imgs %}<img src="/assets/img/units/{{img}}.jpg"><br>{{site.data.imagenames[img]}}<br>{% endfor %}</span>{% endif %}
 {{unit.iranoiranitext}}</p>
@@ -43,6 +49,49 @@ layout: default
 <p>{{unit.textquestions}}</p>
 
 <h2><span style="color:gray;">Goftogu</span> &emsp; {{unit.dialogname}}</h2>
+{% capture audio_url %}/assets/audio/Dialog-{{unit.id}}.mp3{% endcapture %}
+{% include audio.html filename=audio_url %}
+
+{% if unit.dialog2  %}<h3>I</h3>{% endif %}
+
+<p>{{unit.dialog1}}</p>
+
+{% assign spokenvarians=site.data.spokenvarians | where: "division", unit.dialogwords1 %}
+{% capture mdtable %}
+|**{{site.data.lexicons["spoken"]}}**|**{{site.data.lexicons["written"]}}**|
+{% for element in spokenvarians %}|{{element.spoken}}|{{element.written}}|
+{% endfor %}
+{% endcapture%}{{ mdtable | markdownify }}
+
+{% if unit.dialognotes1 %}<h4><span style="color:gray;">Nokte</span></h4>{{unit.dialognotes1}}{% endif %}
+
+
+{% if unit.dialog2  %}<h3>II</h3>
+
+<p>{{unit.dialog2}}</p>
+
+{% assign spokenvarians=site.data.spokenvarians | where: "division", unit.dialogwords2 %}
+{% capture mdtable %}
+|**{{site.data.lexicons["spoken"]}}**|**{{site.data.lexicons["written"]}}**|
+{% for element in spokenvarians %}|{{element.spoken}}|{{element.written}}|
+{% endfor %}
+{% endcapture%}{{ mdtable | markdownify }}
+
+
+{% if unit.dialognotes2 %}<h4><span style="color:gray;">Nokte</span></h4>{{unit.dialognotes2}}{% endif %}
+
+
+{% endif %}
+
+<h3><span style="color:gray;">Ebārathā/vāžehā</span></h3>
+
+<p>{{unit.espressions}}</p>
+
+{% assign oralexercises = unit.oralexercises | split: "," %}{% for exercise in oralexercises %}
+<h4><span style="color:gray;">{{ exercise }}. {{site.data.oralexercisetasks[exercise]}}</span></h4>
+{{site.data.oralexercisetopics[exercise] | markdownify}}{% endfor %}
+
+
 {% endif %}
 
 {{ content }}
