@@ -96,7 +96,7 @@ layout: default
 
 {{ content }}
 
-{% assign words=site.data.dictionary | where: "chapter", page.order %}
+{% assign words=site.data.dictionary | where: "chapter", unit.id %}
 {% for word in words %}<strong>{{ word.farsi }}</strong> {{ word.exactr }} &emsp;&emsp;{% endfor %}
 
 {% include nav.html %}
