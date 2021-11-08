@@ -17,11 +17,13 @@ layout: default
 
 {% if unit.textcomment %}<h4>Nokte</h4><p>{{unit.textcomment}}</p>{% endif %}
 
-<h5>{{unit.texttask}}</h5><p>{{unit.textquestions}}</p>
+<h5>{{unit.texttask}}</h5><p>{% if unit.texttaskanswer %}<span class="marginnote" id="texttask" style="transform: rotate(180deg);"><strong>Pāsoxhā</strong><br>{{unit.texttaskanswer}}</span>{% endif %}{{unit.textquestions}}</p>
 
 {% if unit.textcomment2 %}<h4>Nokte</h4><p>{{unit.textcomment2}}</p>{% endif %}
 
-{% if unit.texttask2 %}<h5>{{unit.texttask2}}</h5><p>______________________________________ ______________________________________</p>{% endif %}
+{% if unit.texttask2 %}<h5>{{unit.texttask2}}</h5><p><span class="marginnote" id="texttask2" style="transform: rotate(180deg);"><strong>Pāsox</strong><br>{{unit.texttask2answer}}</span>______________________________________ ______________________________________</p>{% endif %}
+
+
 
 <h2><span style="color:gray;">Sāxtār</span></h2>
 
@@ -32,7 +34,7 @@ layout: default
 
 {% assign exercises = unit.exercises | split: "," %}{% for exercise in exercises %}
 <h4><span style="color:gray;">{{ exercise }}. {{site.data.exercisetasks[exercise]}}</span></h4>
-{{site.data.exercisetopics[exercise] | markdownify}}{% endfor %}
+<p>{% if site.data.exerciseanswers[exercise] %}<span class="marginnote" id="oralexercise{{exercise}}" style="transform: rotate(180deg);"><strong>Pāsox(hā)</strong><br>{{site.data.exerciseanswers[exercise]}}</span>{% endif %}{{site.data.exercisetopics[exercise] | markdownify}}</p>{% endfor %}
 
 <h2><span style="color:gray;">Irān‐o irāni</span> &emsp; {{unit.linggeoname}}</h2>
 
@@ -40,13 +42,13 @@ layout: default
 {% include audio.html filename=audio_url %}
 
 <p>
-{% if unit.iranoiraniimg!="" %}<span class="marginnote">{% assign imgs = unit.iranoiraniimg | split: "," %}{% for img in imgs %}<img src="/assets/img/units/{{img}}.jpg"><br>{{site.data.imagenames[img]}}<br>{% endfor %}</span>{% endif %}
+{% if unit.iranoiraniimg!="" %}<span class="marginnote">{% assign imgs = unit.iranoiraniimg | split: "," %}{% for img in imgs %}<img src="/assets/img/units/{{img}}.jpg"><br>{{site.data.imagenames[img]}}<br><em>{{site.data.imagecopyright[img]}}</em><br>{% endfor %}</span>{% endif %}
 {{unit.iranoiranitext}}</p>
 
 {% if unit.textnotice %}<h4><span style="color:gray;">Nokte</span></h4><p>{{unit.textnotice}}</p>{% endif %}
 
 <h4><span style="color:gray;">{{unit.textquestiontask}}</span></h4>
-<p>{{unit.textquestions}}</p>
+<p>{% if unit.textquestiontaskanswer %}<span class="marginnote" id="textquestiontask" style="transform: rotate(180deg);"><strong>Pāsoxhā</strong><br>{{unit.textquestiontaskanswer}}</span>{% endif %}{{unit.textquestionsquestions}}</p>
 
 <h2><span style="color:gray;">Goftogu</span> &emsp; {{unit.dialogname}}</h2>
 {% capture audio_url %}/assets/audio/Dialog-{{unit.id}}.mp3{% endcapture %}
@@ -89,14 +91,19 @@ layout: default
 
 {% assign oralexercises = unit.oralexercises | split: "," %}{% for exercise in oralexercises %}
 <h4><span style="color:gray;">{{ exercise }}. {{site.data.oralexercisetasks[exercise]}}</span></h4>
-{{site.data.oralexercisetopics[exercise] | markdownify}}{% endfor %}
-
+<p>{% if site.data.oralexerciseanswers[exercise] %}<span class="marginnote" id="oralexercise{{exercise}}" style="transform: rotate(180deg);"><strong>Pāsox(hā)</strong><br>{{site.data.oralexerciseanswers[exercise]}}</span>{% endif %}{{site.data.oralexercisetopics[exercise] | markdownify}}{% endfor %}</p>
 
 {% endif %}
 
 {{ content }}
 
-{% assign words=site.data.dictionary | where: "chapter", unit.id %}
-{% for word in words %}<strong>{{ word.farsi }}</strong> {{ word.exactr }} &emsp;&emsp;{% endfor %}
+{% if unit.category=="lesson" %}
+<h2>Vāžehā-ye dars-e {{ unit.id }}</h2>
 
+{% assign words=site.data.dictionary | where: "chapter", unit.id %}
+
+<p><table>
+{% for word in words %}<tr><td><strong>{{ word.farsi }}</strong></td><td>{{ word.exactr }}</td><td>{{ word.exactf }}</td></tr>{% endfor %}
+</table></p>
+{% endif %}
 {% include nav.html %}

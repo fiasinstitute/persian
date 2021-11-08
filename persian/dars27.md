@@ -186,3 +186,107 @@ zohurvāmdārmašhurpažuhešgarmoxtalefsābeqeqarnba’z‐isarzamināmuzgār
 
 \_\_
 
+## Pāsoxhā
+
+Haryek az pāsoxhā‐ye sotun‐e B javāb‐e kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
+
+|                                         |                                   |        |
+|---------------------------------------|---------------------------------|------ |
+| A                                       | B                                 | Šomāre |
+|                                         |                                   |        |
+| 1‐ Kojā tašrif mibarid?                 | Bale, xošbaxtāne dastgir šod.     | 13     |
+|                                         |                                   |        |
+| 2‐ Esm‐e šarif‐etān?                    | Cāhār ruz.                        | 5      |
+|                                         |                                   |        |
+| 3‐ Ce model‐i bezanam?                  | Faqat pošt rā kutāh konid.        | 3      |
+|                                         |                                   |        |
+| 4‐ Hazine‐aš ceqadr mišavad?            | Haft hezār Tumān.                 | 4      |
+|                                         |                                   |        |
+| 5‐ Ceqadr tul mikešad?                  | Meydān‐e Vanak.                   | 1      |
+|                                         |                                   |        |
+| 6‐ Postxāne kojā‐st?                    | Moteassefāne man ham nemidānam.   | 11     |
+|                                         |                                   |        |
+| 7‐ Nerx‐e Dolār pāyin āmade‐ast?        | Na, moteassef‐am.                 | 12     |
+|                                         |                                   |        |
+| 8‐ Key bāyad dar forudgāh bāšand?       | Nedā Pākserešt.                   | 2      |
+|                                         |                                   |        |
+| 9‐ Dar camedān‐e xod ce dārid?          | Sad metr āntaraftar, samt‐e cap.  | 6      |
+|                                         |                                   |        |
+| 10‐ Išān doxtar‐e šomā hastand?         | Tā do sāat‐e digar.               | 8      |
+|                                         |                                   |        |
+| 11‐ Qesmat‐e tahvil‐e bār kojā‐st?      | Tanhā yekmeqdār lavāzem‐e šaxsi.  | 9      |
+|                                         |                                   |        |
+| 12‐ Barā‐ye sāns‐e dirtar nadārid?      | Taraf‐e rāhrow rā tarjih mideham. | 14     |
+|                                         |                                   |        |
+| 13‐ Saranjām dozd rā gereftand?         | Na, bālā rafte‐ast.               | 7      |
+|                                         |                                   |        |
+| 14‐ Sandali‐ye kenār‐e panjere xub‐ast? | Naxeyr, hamsar‐am hastand.        | 10     |
+
+In jomlehā rā az majhul be ma’lum tabdil kon!
+
+1\) Farid goldān‐e ru‐ye miz rā šekast. – 2) Ta’mirkārān māšin‐at rā ta’mir mikonand. – 3) Ferdowsi Šāhnāme rā 1,000 sāl‐e piš sorud. – 4) Vaqt‐i be xāne āmadam, pedar‐am xāne rā tamiz karde bud. – 5) Hamsar‐aš in borj rā bist sāl‐e piš sāxte‐ast.
+
+Jadval‐e zir rā kāmel kon!
+
+|       |            |                 |                      |              |                  |                |
+|-----|----------|---------------|--------------------|------------|----------------|-------------- |
+| Zamir | Hāl‐e sāde | Gozašte‐ye sāde | Gozašte‐ye estemrāri | Āyande       | Gozašte‐ye naqli | Gozašte‐ye dur |
+|       |            |                 |                      |              |                  |                |
+| Man   | mixoram    | xordam          | mixordam             | xāham xord   | xorde‐am         | xorde budam    |
+|       |            |                 |                      |              |                  |                |
+| To    | miravi     | rafti           | mirafti              | xāhi raft    | rafte‐i          | rafte budi     |
+|       |            |                 |                      |              |                  |                |
+| U     | minevisad  | nevešt          | minevešt             | xāhad nevešt | nevešte‐ast      | nevešte bud    |
+|       |            |                 |                      |              |                  |                |
+| Mā    | mibinim    | didim           | mididim              | xāhim did    | dide‐im          | dide budim     |
+|       |            |                 |                      |              |                  |                |
+| Šomā  | mišenavid  | šenidid         | mišenidid            | xāhid šenid  | šenide‐id        | šenide budid   |
+|       |            |                 |                      |              |                  |                |
+| Ānhā  | miguyand   | goftand         | migoftand            | xāhand goft  | gofte‐and        | gofte budand   |
+
+Jomlehā‐ye zir rā bā estefāde az horuf‐e rabt be ham vasl kon!
+
+1\. Ba’d az in ke pedar‐am raft, rāhat šodam. – 2. Ham Qormesabzi mipazad ham Fesenjān.; Na Qormesabzi mipazad na Fesenjān.; Na tanhā Qormesabzi balke Fesenjān ham mipazad. – 3. Bā in ke / garce / bā vojud‐e in ke xeyl‐i xaste bud, sar‐e kār mānd, tā moškel hal šavad.
+
+Jāhā‐ye xāli rā bā pišvandhā va pasvandhā‐ye zir por kon!
+
+1\. bi‐ – 2. bā‐ – 3. ham‐ – 4. ‐gāh – 5. ‐ande – 6. ‐mand – 7. ‐āne – 8. ‐i
+
+Vāžehā‐ye morakkab‐e zir rā dastebandi kon!
+
+|               |            |                   |           |               |             |             |
+|-------------|----------|-----------------|---------|-------------|-----------|----------- |
+| Esm +‐o + esm | Adad + esm | Esm + setāk‐e hāl | Esm + esm | Esm +‐e + esm | Esm + sefat | Sefat + esm |
+|               |            |                   |           |               |             |             |
+| ābohavā       | cāhārpā    | zarrebin          | pesarxāle | toxmemorq     | qadkutāh    | xošhāl      |
+
+Jomlehā‐ye vasfi besāz!
+
+2\. Mard‐i ke hamiše barā‐yešān kār mikard, digar bikār šode‐ast. – 3. Ketāb‐i rā ke be man dādi, tā āxar xāndam.
+
+Jāhā‐ye xāli rā bā horuf‐e rabt‐e zir por kon!
+
+1\. be šart‐e in ke – 2. Be dun‐e inke – 3. be jā‐ye in ke – 4. Piš az in ke
+
+Jāhā‐ye xāli rā por kon!
+
+1\. nemioftād – 2. bešuyi – 3. garm‐aš šod – 4. Yād‐aš raft
+
+Vāžehā‐ye zir rā dastebandi kon!
+
+**Vasāyel‐e naqliye: **docarxe – havāpeymā** **– kāmiyon – kešti – metro – minibus – motorsiklet – otobus – otomobil – qatār –** **qāyeq – tāksi
+
+**Varzeš: **basketbāl – docarxesavāri – dow – eski – futbāl – kārāte – košti – šenā** **– tenis – tirandāzi – vālibāl – vaznebardāri** Āšpazxāne: **cāqu – dis – fer – ferizer – kābinet – ketri – māhitābe – ojāq – qāblame – quri – satl‐e** **āšqāl – yaxcāl – zarfšuyi
+
+Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān dar radif‐e pāyin mottasel kon!
+
+šādi; qam – garm; sard – šoluq; xalvat – jang; solh – yavāš; tond – gozašte; āyande – xatarnāk; amn – xāb; bidār – yeknavāxt; motenavve’ – qavi; zaif
+
+Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān dar radif‐e pāyin mottasel kon!
+
+sade; qarn – mohaqqeq; pažuhešgar – gunāgun; moxtalef – pišine; sābeqe – peydāyeš; zohur – ma’ruf; mašhur – kešvar; sarzamin – madyun; vāmdār – moallem; āmuzgār – barx‐i; ba’z‐i
+
+Kodām vāže bā baqiye ertebāt nadārad?
+
+1\) dānešmand – 2) sāns – 3) daryā – 4) pārk – 5) sešuār – 6) kelid – 7) duš – 8) qam
+

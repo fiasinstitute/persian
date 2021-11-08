@@ -156,3 +156,74 @@ jahānbimārafsusaqvāmbozorgkohanqāliettelā’šāgerdbigāne
 
 1)  angošt – ārenj – kamar – nāxon – pust – eynak 2)  estekān – qahve – fenjān – livān – na’lbeki – pārc 3)  asb – gāv – gorbe – muš – sag – māhi 4)  bād – nasim – jādde – bārān – ranginkamān – yax 5)  āšpazxāne – bošqāb – cangāl – kārd – kāse – qāšoq 6)  bozorgrāh – bolvār – kuce – meydān – pombenzin – xiyābān 7)  gowjefarangi – havij – yaxcāl – piyāz – sibzamini – sir 8)  varzeš – nārenj – hammām – arg – xub – bāq
 
+## Pāsoxhā
+
+Haryek az pāsoxhā‐ye sotun‐e B javāb‐e kodām porseš az sotun‐e A‐ast? Šomāre‐ye ān rā benevis!
+
+|                                |                           |        |
+|------------------------------|-------------------------|------ |
+| A                              | B                         | Šomāre |
+|                                |                           |        |
+| 1‐ Cand šab eqāmat mikonid?    | Bāyad beravim doktor.     | 3      |
+|                                |                           |        |
+| 2‐ Moškel‐etān ci‐st?          | Be yek konsert.           | 10     |
+|                                |                           |        |
+| 3‐ Bāyad cekār konim?          | Con pedar‐aš bimār bud.   | 12     |
+|                                |                           |        |
+| 4‐ Mixāhid cekār konid?        | Dāštam šām mixordam.      | 11     |
+|                                |                           |        |
+| 5‐ Mitavāni dorost‐aš koni?    | Dust‐am komak‐am kard.    | 14     |
+|                                |                           |        |
+| 6‐ Ci meyl mifarmāyid?         | Kuhnavardi‐yo eski.       | 7      |
+|                                |                           |        |
+| 7‐ Be ce alāqe dārand?         | Mixāhim film bebinim.     | 4      |
+|                                |                           |        |
+| 8‐ Nāhār key hāzer mišavad?    | Na, nemitavānam.          | 5      |
+|                                |                           |        |
+| 9‐ Ānhā rā key dide‐ast?       | Pariruz.                  | 9      |
+|                                |                           |        |
+| 10‐ Kojā rafte bud?            | Sardard‐e šadid‐i dāram.  | 2      |
+|                                |                           |        |
+| 11‐ Dišab dāšti cekār mikardi? | Se šab.                   | 1      |
+|                                |                           |        |
+| 12‐ Cerā Mahnāz nayāmade bud?  | Tā nim sāat‐e digar.      | 8      |
+|                                |                           |        |
+| 13‐ Cejur mobl‐i mixāhi?       | Yek mobl‐e sabok‐o rāhat. | 13     |
+|                                |                           |        |
+| 14‐ Cegune u rā peydā kardi?   | Yek qahve lotfan.         | 6      |
+
+Bārā‐ye jomlehā‐ye zir yek porseš besāz!
+
+1\) Kojā zendegi mikoni? – 2) Cegune be dānešgāh miravi? – 3) Ce sāndevic‐i dust dāri? – 4) Sāat‐e cand bar migardi? – 5) Cāhāršanbehā cekār mikoni? – 6) In ketāb cand‐ast?
+
+Jāhā‐ye xāli rā bā fe’l‐e monāseb por kon!
+
+1\. beravim – 2. bešavi – 3. koni – 4. mixāndim – 5. karde‐i – 6. rafte bud – 7. budim – 8. dars midādam – 9. šenide‐am – 10. dārim – 11. rafte bāšad – 12. bāš
+
+Az goftār‐e mostaqim be goftār‐e qeyremostaqim tabdil kon!
+
+Ostādān goftand, ke digar dars nadāde budand. – Mahšid goft, ke pedar‐aš bimār bude‐ast. – Narges goft, ke ābrizeš‐e bini dāšt. – Nāhid goft, ke be didār bā ostād‐aš omid dāšte‐ast.
+
+Zir‐e hame‐ye zamirhā‐ye matn‐e zir xat bekeš!
+
+Yek‐i az dustān‐e Sārā Bahrām‐ast. Bahrām navāzande‐ye besyār xubi‐st. Sedā‐ye garm‐i ham dārad. Bahrām‐o Sārā moddathā‐ st ke *hamdigar* rā mišenāsand. Emšab dar xāne‐ye Sārā yek mehmāni‐st. Sārā az Bahrām xāheš karde‐ast tā, emšab majles‐e *ānhā* rā garm konad. Bahrām qarār‐ast, ke sāat‐e hašt be xāne‐ye Sārā beravad. *U* tār‐e *xod* rā niz bā *xod* mibarad. Bahrām barnāme‐*aš* rā sāat‐e noh šoru’ mikonad. *Xodaš* ham mizanad va ham mixānad. Mehmānān az šenidan‐e sedā‐ye *u* va tār‐*aš* besyār lezzat mibarand.
+
+Vāžehā‐ye zir rā dastebandi kon!
+
+**Andāmhā‐ye badan: **abru – bāzu – bini – cešm – dahān – damāq – dandān – dast – del – galu – gardan – guš – lab – mu – pā** **–** **sāed – sar – šekam – sine – surat – zānu
+
+**Mavādd‐e qazāyi: **adas – berenj – gandom – gušt – kare – lappe – limu – lubiyā** **– māhi – morq – nān – noxod – panir – xāme –** **zorrat
+
+**Mivehā: **anār – angur – gilās – golābi – hendevāne – holu – mowz – nārengi – porteqāl – sib – tutfarangi – xiyār
+
+Vāžehā‐ye radif‐e bālā rā be moxālef‐ešān dar radif‐e pāyin mottasel kon!
+
+bozorg; kucak – tārik; rowšan – tamiz; kasif – bārik; pahn – talx; širin – por; xāli – boland; kutāh – dorošt; riz – xošk; xis – gerān; arzān
+
+Vāžehā‐ye radif‐e bālā rā be mošābeh‐ešān dar radif‐e pāyin mottasel kon!
+
+xabar; ettelā’ – gonde; bozorg – dānešāmuz; šāgerd – farš; qāli – mariz; bimār – qarib; bigāne – heyf; afsus – donyā; jahān – bāstāni; kohan – mardomān; aqvām
+
+Kodām vāže bā baqiye ertebāt nadārad?
+
+1\) eynak – 2) qahve – 3) māhi – 4) jādde – 5) āšpazxāne – 6) pompbenzin – 7) yaxcāl – 8) xub

@@ -13,3 +13,5 @@ Be kušeš‐e Hamid Farroukh
 
 {% for unit in units %}{% assign line=site.data.units | where: "order", unit.order | first %}{{line["order"]}}. [{{site.data.lexicons[line["category"]]}}{% if line["id"] %} {{line["id"]}}{% endif %}{% if line["title"] %}. {{line["title"] }}{% endif %}]({{unit.url}})
 {% endfor %}
+
+[**Lexicon**](dars00)
