@@ -3,7 +3,7 @@ title: Persian manual
 layout: post
 ---
 
-**Mā fārsi balad‐im!** ‘*we know / speak Persian*’ is an open source Persian manual by [Hamid Farroukh](http://alefbaye2om.org/books/course-book/), PhD serving at the Iranian Society in Frankfurt ( Germany).
+**Mā fārsi balad‐im!** ‘*we know / speak Persian*’ is an open source Persian manual by [Hamid Farroukh](http://alefbaye2om.org/books/course-book/), PhD serving at the Iranian Society in Frankfurt (Germany).
 
 The methodological advantage of this manual is that its original layout is set up entirely in Persian. With this approach, the author continues the honourable tradition of self-explained handbooks headed of course by the "Lingua latina per se illustrata" by Hans H. Ørberg.
 
