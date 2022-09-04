@@ -1,34 +1,15 @@
 ---
-title: Index
+title: Persian manual
 layout: post
 ---
 
+**Mā fārsi balad‐im!** ‘*we know / speak Persian*’ is an open source Persian manual by [Hamid Farroukh](http://alefbaye2om.org/books/course-book/), PhD serving at the Iranian Society in Frankfurt ( Germany).
 
-Jekyll provides for both pages and posts in its default configuration. I have left this as-is.
+The methodological advantage of this manual is that its original layout is set up entirely in Persian. With this approach, the author continues the honourable tradition of self-explained handbooks headed of course by the "Lingua latina per se illustrata" by Hans H. Ørberg.
 
-{% newthought 'In this first iteration'%} of the _Tufte-Jekyll_ theme, a post and a page have exactly the same layout. That means that all the typographic and structural details are identical between the two.
+The didactic committee of the FIAS contributes to teaching Persian to target audiences of different L1 background, and feels the need for such manuals. We decided to transpose Dr. Farroukh's approach further to produce a suite of open access manuals of Persian based on the original material.
 
-## Pages and Posts
+The teaching staff is now preparing French and Russian versions of the manual, please visit [persian.fias.fr](https://persian.fias.fr).
 
-Jekyll provides for both pages and posts in its default configuration. I have left this as-is.
-
-### Posts
-
-Conceptually, posts are for recurring pieces of similar content such as might be found in a typical blog entry. Post content all sits in a `_posts` folder named `_posts` and files are created in this folder{% sidenote 1 'Yes, a page has essentially the same old shit as a post'%} that are names with a date pre-pended to the title of the post. For instance `2105-02-20-this-is-a-post.md` is a perfectly valid post filename.
-
-Posts will always have a section above the content itself consisting of YAML front matter, which is meta-data information about the post{% sidenote post 'Please, be careful when moving boxes, you can hurt your back!' %}. Minimally, a post title must always be present for it to be processed properly.
-
-    ---
-    Title: Some Title
-    ---
-    ## Content
-    
-    Markdown formatted content *here*.
-
-### Pages
-
-Pages are any HTML documents _or_ Markdown documents with YAML front matter that are then converted to content. Page material is more suited to static, non-recurring types of content. Like this
-
-I am not going to re-write the Jekyll documentation. Read it and you will figure out how the site is structured.
 
 [To the Persian Latin Handbook](/persian)
