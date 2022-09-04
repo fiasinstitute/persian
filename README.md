@@ -6,4 +6,4 @@ The methodological advantage of this manual is that its original layout is set u
 
 The didactic committee of the FIAS contributes to teaching Persian to target audiences of different L1 background, and feels the need for such manuals. We decided to transpose Dr. Farroukh's approach further to produce a suite of open access manuals of Persian based on the original material.
 
-The teaching staff is now preparing Russian and French versions of the manual, please visit [persian.fias.fr](https://persian.fias.fr).
+The teaching staff is now preparing French and Russian versions of the manual, please visit [persian.fias.fr](https://persian.fias.fr).
